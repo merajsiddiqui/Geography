@@ -28,5 +28,17 @@
         "iso2": "SR",
         "fips": "NS",
         "isoN": 740
-    }
+    },
+    "states": [
+        " Brokopondo",
+        " Commewijne",
+        " Coronie",
+        " Marowijne",
+        " Nickerie",
+        " Para",
+        " Paramaribo",
+        " Saramacca",
+        " Sipaliwini",
+        " Wanica"
+    ]
 }

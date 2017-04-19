@@ -28,5 +28,21 @@
         "iso2": "SY",
         "fips": "SY",
         "isoN": 760
-    }
+    },
+    "states": [
+        " Al Hasakah",
+        " Al Ladhiqiyah (Latakia)",
+        " Al Qunaytirah",
+        " Ar Raqqah",
+        " As Suwayda'",
+        " Dar'a",
+        " Dayr az Zawr",
+        " Dimashq (Damascus)",
+        " Halab",
+        " Hamah",
+        " Hims (Homs)",
+        " Idlib",
+        " Rif Dimashq (Damascus Countryside)",
+        " Tartus"
+    ]
 }

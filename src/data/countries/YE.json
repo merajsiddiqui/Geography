@@ -28,5 +28,29 @@
         "iso2": "YE",
         "fips": "YM",
         "isoN": 887
-    }
+    },
+    "states": [
+        " Abyan",
+        " 'Adan (Aden)",
+        " Ad Dali'",
+        " Al Bayda'",
+        " Al Hudaydah",
+        " Al Jawf",
+        " Al Mahrah",
+        " Al Mahwit",
+        " Amanat al 'Asimah (Sanaa City)",
+        " 'Amran",
+        " Arkhabil Suqutra (Socotra Archipelago)",
+        " Dhamar",
+        " Hadramawt",
+        " Hajjah",
+        " Ibb",
+        " Lahij",
+        " Ma'rib",
+        " Raymah",
+        " Sa'dah",
+        " San'a' (Sanaa)",
+        " Shabwah",
+        " Ta'izz"
+    ]
 }

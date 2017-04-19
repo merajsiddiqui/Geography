@@ -28,5 +28,13 @@
         "iso2": "TM",
         "fips": "TX",
         "isoN": 795
-    }
+    },
+    "states": [
+        " Ahal Welayaty (Anew)",
+        " Ashgabat*",
+        " Balkan Welayaty (Balkanabat)",
+        " Dashoguz Welayaty",
+        " Lebap Welayaty (Turkmenabat)",
+        " Mary Welayat"
+    ]
 }

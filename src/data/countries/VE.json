@@ -28,5 +28,32 @@
         "iso2": "VE",
         "fips": "VE",
         "isoN": 862
-    }
+    },
+    "states": [
+        " Amazonas",
+        " Anzoategui",
+        " Apure",
+        " Aragua",
+        " Barinas",
+        " Bolivar",
+        " Carabobo",
+        " Cojedes",
+        " Delta Amacuro",
+        " Dependencias Federales (Federal Dependencies)**",
+        " Distrito Capital (Capital District)*",
+        " Falcon",
+        " Guarico",
+        " Lara",
+        " Merida",
+        " Miranda",
+        " Monagas",
+        " Nueva Esparta",
+        " Portuguesa",
+        " Sucre",
+        " Tachira",
+        " Trujillo",
+        " Vargas",
+        " Yaracuy",
+        " Zulia"
+    ]
 }

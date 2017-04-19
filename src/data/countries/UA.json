@@ -19,5 +19,34 @@
         "iso2": "UA",
         "fips": "UP",
         "isoN": 804
-    }
+    },
+    "states": [
+        " Cherkasy",
+        " Chernihiv",
+        " Chernivtsi",
+        " Crimea or Avtonomna Respublika Krym* (Simferopol')",
+        " Dnipropetrovs'k (Dnipro)",
+        " Donets'k",
+        " Ivano-Frankivs'k",
+        " Kharkiv",
+        " Kherson",
+        " Khmel'nyts'kyy",
+        " Kirovohrad (Kropyvnyts'kyy)",
+        " Kyiv**",
+        " Kyiv",
+        " Luhans'k",
+        " L'viv",
+        " Mykolayiv",
+        " Odesa",
+        " Poltava",
+        " Rivne",
+        " Sevastopol'**",
+        " Sumy",
+        " Ternopil'",
+        " Vinnytsya",
+        " Volyn' (Luts'k)",
+        " Zakarpattya (Uzhhorod)",
+        " Zaporizhzhya",
+        " Zhytomyr"
+    ]
 }

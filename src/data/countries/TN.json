@@ -28,5 +28,31 @@
         "iso2": "TN",
         "fips": "TS",
         "isoN": 788
-    }
+    },
+    "states": [
+        " Beja (Bajah)",
+        " Ben Arous (Bin 'Arus)",
+        " Bizerte (Banzart)",
+        " Gabes (Qabis)",
+        " Gafsa (Qafsah)",
+        " Jendouba (Jundubah)",
+        " Kairouan (Al Qayrawan)",
+        " Kasserine (Al Qasrayn)",
+        " Kebili (Qibili)",
+        " Kef (Al Kaf)",
+        " L'Ariana (Aryanah)",
+        " Mahdia (Al Mahdiyah)",
+        " Manouba (Manubah)",
+        " Medenine (Madanin)",
+        " Monastir (Al Munastir)",
+        " Nabeul (Nabul)",
+        " Sfax (Safaqis)",
+        " Sidi Bouzid (Sidi Bu Zayd)",
+        " Siliana (Silyanah)",
+        " Sousse (Susah)",
+        " Tataouine (Tatawin)",
+        " Tozeur (Tawzar)",
+        " Tunis",
+        " Zaghouan (Zaghwan)"
+    ]
 }

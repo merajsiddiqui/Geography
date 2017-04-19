@@ -28,5 +28,28 @@
         "iso2": "SE",
         "fips": "SW",
         "isoN": 752
-    }
+    },
+    "states": [
+        " Blekinge",
+        " Dalarna",
+        " Gavleborg",
+        " Gotland",
+        " Halland",
+        " Jamtland",
+        " Jonkoping",
+        " Kalmar",
+        " Kronoberg",
+        " Norrbotten",
+        " Orebro",
+        " Ostergotland",
+        " Skane",
+        " Sodermanland",
+        " Stockholm",
+        " Uppsala",
+        " Varmland",
+        " Vasterbotten",
+        " Vasternorrland",
+        " Vastmanland",
+        " Vastra Gotaland"
+    ]
 }

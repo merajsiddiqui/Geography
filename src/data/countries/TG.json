@@ -28,5 +28,12 @@
         "iso2": "TG",
         "fips": "TO",
         "isoN": 768
-    }
+    },
+    "states": [
+        " Centrale",
+        " Kara",
+        " Maritime",
+        " Plateaux",
+        " Savanes"
+    ]
 }

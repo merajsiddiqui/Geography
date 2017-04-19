@@ -28,5 +28,17 @@
         "iso2": "ZM",
         "fips": "ZA",
         "isoN": 894
-    }
+    },
+    "states": [
+        " Central",
+        " Copperbelt",
+        " Eastern",
+        " Luapula",
+        " Lusaka",
+        " Muchinga",
+        " Northern",
+        " North-Western",
+        " Southern",
+        " Western"
+    ]
 }

@@ -28,5 +28,37 @@
         "iso2": "TZ",
         "fips": "TZ",
         "isoN": 834
-    }
+    },
+    "states": [
+        " Arusha",
+        " Dar es Salaam",
+        " Dodoma",
+        " Geita",
+        " Iringa",
+        " Kagera",
+        " Kaskazini Pemba (Pemba North)",
+        " Kaskazini Unguja (Zanzibar North)",
+        " Katavi",
+        " Kigoma",
+        " Kilimanjaro",
+        " Kusini Pemba (Pemba South)",
+        " Kusini Unguja (Zanzibar Central\/South)",
+        " Lindi",
+        " Manyara",
+        " Mara",
+        " Mbeya",
+        " Mjini Magharibi (Zanzibar Urban\/West)",
+        " Morogoro",
+        " Mtwara",
+        " Mwanza",
+        " Njombe",
+        " Pwani (Coast)",
+        " Rukwa",
+        " Ruvuma",
+        " Shinyanga",
+        " Simiyu",
+        " Singida",
+        " Tabora",
+        " Tanga"
+    ]
 }

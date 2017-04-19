@@ -26,3 +26,8 @@ echo $capital_city_details;
 
 $calling_code = $world->getCallingCode("GB");
 echo $calling_code;
+
+//Getting provinces of A country
+$iso2_code = "AU"; //Australia
+$provinces = $world->getCountryProvinces($iso2_code);
+echo $provinces;

@@ -28,5 +28,20 @@
         "iso2": "TL",
         "fips": "TT",
         "isoN": 626
-    }
+    },
+    "states": [
+        " Aileu",
+        " Ainaro",
+        " Baucau",
+        " Bobonaro (Maliana)",
+        " Cova-Lima (Suai)",
+        " Dili",
+        " Ermera (Gleno)",
+        " Lautem (Los Palos)",
+        " Liquica",
+        " Manatuto",
+        " Manufahi (Same)",
+        " Oecussi (Ambeno)",
+        " Viqueque"
+    ]
 }

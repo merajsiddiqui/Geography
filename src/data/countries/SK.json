@@ -28,5 +28,15 @@
         "iso2": "SK",
         "fips": "LO",
         "isoN": 703
-    }
+    },
+    "states": [
+        " Banskobystricky",
+        " Bratislavsky",
+        " Kosicky",
+        " Nitriansky",
+        " Presovsky",
+        " Trenciansky",
+        " Trnavsky",
+        " Zilinsky"
+    ]
 }

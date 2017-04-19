@@ -28,5 +28,14 @@
         "iso2": "AE",
         "fips": "AE",
         "isoN": 784
-    }
+    },
+    "states": [
+        " Abu Zaby (Abu Dhabi)",
+        " 'Ajman",
+        " Al Fujayrah",
+        " Ash Shariqah (Sharjah)",
+        " Dubayy (Dubai)",
+        " Ra's al Khaymah",
+        " Umm al Qaywayn"
+    ]
 }

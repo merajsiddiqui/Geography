@@ -28,5 +28,32 @@
         "iso2": "SC",
         "fips": "SE",
         "isoN": 690
-    }
+    },
+    "states": [
+        " Anse aux Pins",
+        " Anse Boileau",
+        " Anse Etoile",
+        " Anse Royale",
+        " Au Cap",
+        " Baie Lazare",
+        " Baie Sainte Anne",
+        " Beau Vallon",
+        " Bel Air",
+        " Bel Ombre",
+        " Cascade",
+        " Glacis",
+        " Grand Anse Mahe",
+        " Grand Anse Praslin",
+        " Inner Islands",
+        " La Riviere Anglaise",
+        " Les Mamalles",
+        " Mont Buxton",
+        " Mont Fleuri",
+        " Plaisance",
+        " Pointe Larue",
+        " Port Glaud",
+        " Roche Caiman",
+        " Saint Louis",
+        " Takamaka"
+    ]
 }

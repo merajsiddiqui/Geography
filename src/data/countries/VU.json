@@ -28,5 +28,13 @@
         "iso2": "VU",
         "fips": "NH",
         "isoN": 548
-    }
+    },
+    "states": [
+        " Malampa",
+        " Penama",
+        " Sanma",
+        " Shefa",
+        " Tafea",
+        " Torba"
+    ]
 }

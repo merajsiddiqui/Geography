@@ -28,5 +28,21 @@
         "iso2": "UZ",
         "fips": "UZ",
         "isoN": 860
-    }
+    },
+    "states": [
+        " Andijon Viloyati",
+        " Buxoro Viloyati",
+        " Farg'ona Viloyati",
+        " Jizzax Viloyati",
+        " Namangan Viloyati",
+        " Navoiy Viloyati",
+        " Qashqadaryo Viloyati (Qarshi)",
+        " Qoraqalpog'iston Respublikasi [Karakalpakstan Republic]* (Nukus)",
+        " Samarqand Viloyati",
+        " Sirdaryo Viloyati (Guliston)",
+        " Surxondaryo Viloyati (Termiz)",
+        " Toshkent Shahri [Tashkent City]**",
+        " Toshkent Viloyati [Tashkent province]",
+        " Xorazm Viloyati (Urganch)"
+    ]
 }

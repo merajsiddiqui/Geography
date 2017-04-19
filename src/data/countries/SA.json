@@ -28,5 +28,20 @@
         "iso2": "SA",
         "fips": "SA",
         "isoN": 682
-    }
+    },
+    "states": [
+        " Al Bahah",
+        " Al Hudud ash Shamaliyah (Northern Border)",
+        " Al Jawf",
+        " Al Madinah (Medina)",
+        " Al Qasim",
+        " Ar Riyad (Riyadh)",
+        " Ash Sharqiyah (Eastern)",
+        " 'Asir",
+        " Ha'il",
+        " Jazan",
+        " Makkah (Mecca)",
+        " Najran",
+        " Tabuk"
+    ]
 }

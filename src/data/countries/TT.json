@@ -28,5 +28,22 @@
         "iso2": "TT",
         "fips": "TD",
         "isoN": 780
-    }
+    },
+    "states": [
+        " ouva\/Tabaquite\/Talparo",
+        " Diego Martin",
+        " Mayaro\/Rio Claro",
+        " Penal\/Debe",
+        " Princes Town",
+        " Sangre Grande",
+        " San Juan\/Laventille",
+        " Siparia",
+        " Tunapuna\/Piarco",
+        " Arima",
+        " Chaguanas",
+        " Point Fortin",
+        " Port of Spain",
+        " San Fernando",
+        " Tobago\n"
+    ]
 }

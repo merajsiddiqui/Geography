@@ -28,5 +28,34 @@
         "iso2": "CH",
         "fips": "SZ",
         "isoN": 756
-    }
+    },
+    "states": [
+        " Kantone",
+        " singular - Kanton in German); Aargau",
+        " Appenzell Ausserrhoden",
+        " Appenzell Innerrhoden",
+        " Basel-Landschaft",
+        " Basel-Stadt",
+        " Berne\/Bern",
+        " Fribourg\/Freiburg",
+        " Geneve",
+        " Glarus",
+        " Graubuenden\/Grigioni\/Grischun",
+        " Jura",
+        " Luzern",
+        " Neuchatel",
+        " Nidwalden",
+        " Obwalden",
+        " Sankt Gallen",
+        " Schaffhausen",
+        " Schwyz",
+        " Solothurn",
+        " Thurgau",
+        " Ticino",
+        " Uri",
+        " Valais\/Wallis",
+        " Vaud",
+        " Zug",
+        " Zuerich"
+    ]
 }

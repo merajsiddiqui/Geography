@@ -28,5 +28,25 @@
         "iso2": "SD",
         "fips": "SU",
         "isoN": 736
-    }
+    },
+    "states": [
+        " Blue Nile",
+        " Central Darfur",
+        " East Darfur",
+        " Gedaref",
+        " Gezira",
+        " Kassala",
+        " Khartoum",
+        " North Darfur",
+        " North Kordofan",
+        " Northern",
+        " Red Sea",
+        " River Nile",
+        " Sennar",
+        " South Darfur",
+        " South Kordofan",
+        " West Darfur",
+        " West Kordofan",
+        " White Nile"
+    ]
 }

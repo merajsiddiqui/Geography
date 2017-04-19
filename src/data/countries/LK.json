@@ -28,5 +28,16 @@
         "iso2": "LK",
         "fips": "CE",
         "isoN": 144
-    }
+    },
+    "states": [
+        " Central",
+        " Eastern",
+        " North Central",
+        " Northern",
+        " North Western",
+        " Sabaragamuwa",
+        " Southern",
+        " Uva",
+        " Western"
+    ]
 }

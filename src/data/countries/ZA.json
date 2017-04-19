@@ -28,5 +28,16 @@
         "iso2": "ZA",
         "fips": "SF",
         "isoN": 710
-    }
+    },
+    "states": [
+        " Eastern Cape",
+        " Free State",
+        " Gauteng",
+        " KwaZulu-Natal",
+        " Limpopo",
+        " Mpumalanga",
+        " Northern Cape",
+        " North West",
+        " Western Cape"
+    ]
 }

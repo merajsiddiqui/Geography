@@ -28,5 +28,27 @@
         "iso2": "TW",
         "fips": "TW",
         "isoN": 158
-    }
+    },
+    "states": [
+        "  Changhua",
+        " Chiayi",
+        " Hsinchu",
+        " Hualien",
+        " Kinmen",
+        " Lienchiang",
+        " Miaoli",
+        " Nantou",
+        " Penghu",
+        " Pingtung",
+        " Taitung",
+        " Yilan",
+        " Yunlin",
+        " Keelung",
+        " Kaohsiung (city)",
+        " New Taipei (city)",
+        " Taichung (city)",
+        " Tainan (city)",
+        " Taipei (city)",
+        " Taoyuan (city)"
+    ]
 }

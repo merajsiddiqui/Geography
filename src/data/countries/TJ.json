@@ -28,5 +28,12 @@
         "iso2": "TJ",
         "fips": "TI",
         "isoN": 762
-    }
+    },
+    "states": [
+        " Dushanbe**",
+        " Khatlon (Qurghonteppa)",
+        " Kuhistoni Badakhshon [Gorno-Badakhshan]* (Khorugh)",
+        " Nohiyahoi Tobei Jumhuri***",
+        " Sughd (Khujand)"
+    ]
 }

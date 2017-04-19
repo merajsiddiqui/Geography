@@ -28,5 +28,25 @@
         "iso2": "SO",
         "fips": "SO",
         "isoN": 706
-    }
+    },
+    "states": [
+        " Awdal",
+        " Bakool",
+        " Banaadir",
+        " Bari",
+        " Bay",
+        " Galguduud",
+        " Gedo",
+        " Hiiraan",
+        " Jubbada Dhexe (Middle Jubba)",
+        " Jubbada Hoose (Lower Jubba)",
+        " Mudug",
+        " Nugaal",
+        " Sanaag",
+        " Shabeellaha Dhexe (Middle Shabeelle)",
+        " Shabeellaha Hoose (Lower Shabeelle)",
+        " Sool",
+        " Togdheer",
+        " Woqooyi Galbeed"
+    ]
 }

@@ -28,5 +28,15 @@
         "iso2": "TV",
         "fips": "TV",
         "isoN": 798
-    }
+    },
+    "states": [
+        " Funafuti*",
+        " Nanumaga",
+        " Nanumea",
+        " Niutao",
+        " Nui",
+        " Nukufetau",
+        " Nukulaelae",
+        " Vaitupu"
+    ]
 }

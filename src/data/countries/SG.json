@@ -28,5 +28,8 @@
         "iso2": "SG",
         "fips": "SN",
         "isoN": 702
-    }
+    },
+    "states": [
+        "\nnone"
+    ]
 }

@@ -28,5 +28,11 @@
         "iso2": "SL",
         "fips": "SL",
         "isoN": 694
-    }
+    },
+    "states": [
+        " Eastern",
+        " Northern",
+        " Southern",
+        " Western*"
+    ]
 }

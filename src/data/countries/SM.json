@@ -28,5 +28,16 @@
         "iso2": "SM",
         "fips": "SM",
         "isoN": 674
-    }
+    },
+    "states": [
+        " Acquaviva",
+        " Borgo Maggiore",
+        " Chiesanuova",
+        " Domagnano",
+        " Faetano",
+        " Fiorentino",
+        " Montegiardino",
+        " San Marino Citta",
+        " Serravalle"
+    ]
 }

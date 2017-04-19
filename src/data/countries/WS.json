@@ -28,5 +28,18 @@
         "iso2": "WS",
         "fips": "WS",
         "isoN": 882
-    }
+    },
+    "states": [
+        " A'ana",
+        " Aiga-i-le-Tai",
+        " Atua",
+        " Fa'asaleleaga",
+        " Gaga'emauga",
+        " Gagaifomauga",
+        " Palauli",
+        " Satupa'itea",
+        " Tuamasaga",
+        " Va'a-o-Fonoti",
+        " Vaisigano"
+    ]
 }

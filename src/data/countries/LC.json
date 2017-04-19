@@ -28,5 +28,17 @@
         "iso2": "LC",
         "fips": "ST",
         "isoN": 662
-    }
+    },
+    "states": [
+        " Anse-la-Raye",
+        " Canaries",
+        " Castries",
+        " Choiseul",
+        " Dennery",
+        " Gros-Islet",
+        " Laborie",
+        " Micoud",
+        " Soufriere",
+        " Vieux-Fort"
+    ]
 }

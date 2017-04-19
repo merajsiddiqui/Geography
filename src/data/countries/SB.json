@@ -28,5 +28,17 @@
         "iso2": "SB",
         "fips": "BP",
         "isoN": 90
-    }
+    },
+    "states": [
+        " Central",
+        " Choiseul",
+        " Guadalcanal",
+        " Honiara*",
+        " Isabel",
+        " Makira and Ulawa",
+        " Malaita",
+        " Rennell and Bellona",
+        " Temotu",
+        " Western"
+    ]
 }
