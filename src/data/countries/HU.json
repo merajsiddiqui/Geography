@@ -1,0 +1,77 @@
+{
+    "Name": "Hungary",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Budapest",
+        "GeoPt": [
+            47.3,
+            19.05
+        ]
+    },
+    "GeoRectangle": {
+        "West": 16.1118869781,
+        "East": 22.9060020447,
+        "North": 48.5856742859,
+        "South": 45.7436027527
+    },
+    "SeqID": 96,
+    "GeoPt": [
+        47,
+        20
+    ],
+    "TelPref": "36",
+    "CountryCodes": {
+        "tld": "hu",
+        "iso3": "HUN",
+        "iso2": "HU",
+        "fips": "HU",
+        "isoN": 348
+    },
+    "states": [
+        "Bacs-Kiskun",
+        " Baranya",
+        " Bekes",
+        " Borsod-Abauj-Zemplen",
+        " Csongrad",
+        " Fejer",
+        " Gyor-Moson-Sopron",
+        " Hajdu-Bihar",
+        " Heves",
+        " Jasz-Nagykun-Szolnok",
+        " Komarom-Esztergom",
+        " Nograd",
+        " Pest",
+        " Somogy",
+        " Szabolcs-Szatmar-Bereg",
+        " Tolna",
+        " Vas",
+        " Veszprem",
+        " Zala",
+        "Bekescsaba",
+        " Debrecen",
+        " Dunaujvaros",
+        " Eger",
+        " Erd",
+        " Gyor",
+        " Hodmezovasarhely",
+        " Kaposvar",
+        " Kecskemet",
+        " Miskolc",
+        " Nagykanizsa",
+        " Nyiregyhaza",
+        " Pecs",
+        " Salgotarjan",
+        " Sopron",
+        " Szeged",
+        " Szekesfehervar",
+        " Szekszard",
+        " Szolnok",
+        " Szombathely",
+        " Tatabanya",
+        " Veszprem",
+        " Zalaegerszeg",
+        " Budapest"
+    ]
+}

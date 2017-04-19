@@ -1,0 +1,39 @@
+{
+    "Name": "Monaco",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Monaco",
+        "GeoPt": [
+            43.44,
+            7.25
+        ]
+    },
+    "GeoRectangle": {
+        "West": 7.38638830185,
+        "East": 7.43929338455,
+        "North": 43.7730522156,
+        "South": 43.7275428772
+    },
+    "SeqID": 134,
+    "GeoPt": [
+        43.44,
+        7.24
+    ],
+    "TelPref": "377",
+    "CountryCodes": {
+        "tld": "mc",
+        "iso3": "MCO",
+        "iso2": "MC",
+        "fips": "MN",
+        "isoN": 492
+    },
+    "states": [
+        " there are no first-order administrative divisions as defined by the US Government",
+        "Fontvieille",
+        "La Condamine",
+        "Monaco-Ville",
+        " Monte-Carlo"
+    ]
+}

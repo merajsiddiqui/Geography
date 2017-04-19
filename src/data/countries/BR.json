@@ -1,0 +1,61 @@
+{
+    "Name": "Brazil",
+    "Capital": {
+        "DLST": 1,
+        "TD": -3,
+        "Flg": 2,
+        "Name": "Brasilia",
+        "GeoPt": [
+            -15.47,
+            -47.55
+        ]
+    },
+    "GeoRectangle": {
+        "West": -73.9855499268,
+        "East": -32.392993927,
+        "North": 5.26487779617,
+        "South": -33.7507133484
+    },
+    "SeqID": 30,
+    "GeoPt": [
+        -10,
+        -55
+    ],
+    "TelPref": "55",
+    "CountryCodes": {
+        "tld": "br",
+        "iso3": "BRA",
+        "iso2": "BR",
+        "fips": "BR",
+        "isoN": 76
+    },
+    "states": [
+        "Acre",
+        "Alagoas",
+        "Amapa",
+        "Amazonas",
+        "Bahia",
+        "Ceara",
+        "Distrito Federal*",
+        "Espirito Santo",
+        "Goias",
+        "Maranhao",
+        "Mato Grosso",
+        "Mato Grosso do Sul",
+        "Minas Gerais",
+        "Para",
+        "Paraiba",
+        "Parana",
+        "Pernambuco",
+        "Piaui",
+        "Rio de Janeiro",
+        "Rio Grande do Norte",
+        "Rio Grande do Sul",
+        "Rondonia",
+        "Roraima",
+        "Santa Catarina",
+        "Sao Paulo",
+        "Sergipe",
+        "Tocantins"
+    ]
+}

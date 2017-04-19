@@ -1,0 +1,23 @@
+{
+    "Name": "French Southern Territories",
+    "Capital": null,
+    "GeoRectangle": {
+        "West": 50.1702537537,
+        "East": 77.598815918,
+        "North": -37.7907180786,
+        "South": -49.7351913452
+    },
+    "SeqID": 208,
+    "GeoPt": [
+        -37.5,
+        77.32
+    ],
+    "TelPref": "569",
+    "CountryCodes": {
+        "tld": "tf",
+        "iso3": "ATF",
+        "iso2": "TF",
+        "fips": "FS",
+        "isoN": 260
+    }
+}

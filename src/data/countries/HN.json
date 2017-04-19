@@ -1,0 +1,52 @@
+{
+    "Name": "Honduras",
+    "Capital": {
+        "DLST": 1,
+        "TD": -6,
+        "Flg": 2,
+        "Name": "Tegucigalpa",
+        "GeoPt": [
+            14.06,
+            -87.13
+        ]
+    },
+    "GeoRectangle": {
+        "West": -89.3508071899,
+        "East": -83.1553878784,
+        "North": 16.5102596283,
+        "South": 12.9824094772
+    },
+    "SeqID": 93,
+    "GeoPt": [
+        15,
+        -86.3
+    ],
+    "TelPref": "504",
+    "CountryCodes": {
+        "tld": "hn",
+        "iso3": "HND",
+        "iso2": "HN",
+        "fips": "HO",
+        "isoN": 340
+    },
+    "states": [
+        " Atlantida",
+        " Choluteca",
+        " Colon",
+        " Comayagua",
+        " Copan",
+        " Cortes",
+        " El Paraiso",
+        " Francisco Morazan",
+        " Gracias a Dios",
+        " Intibuca",
+        " Islas de la Bahia",
+        " La Paz",
+        " Lempira",
+        " Ocotepeque",
+        " Olancho",
+        " Santa Barbara",
+        " Valle",
+        " Yoro"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "Name": "Guyana",
+    "Capital": {
+        "DLST": "null",
+        "TD": -4,
+        "Flg": 2,
+        "Name": "Georgetown",
+        "GeoPt": [
+            6.48,
+            -58.1
+        ]
+    },
+    "GeoRectangle": {
+        "West": -61.3847694397,
+        "East": -56.4802436829,
+        "North": 8.55756855011,
+        "South": 1.17507982254
+    },
+    "SeqID": 90,
+    "GeoPt": [
+        5,
+        -59
+    ],
+    "TelPref": "592",
+    "CountryCodes": {
+        "tld": "gy",
+        "iso3": "GUY",
+        "iso2": "GY",
+        "fips": "GY",
+        "isoN": 328
+    },
+    "states": [
+        " Barima-Waini",
+        " Cuyuni-Mazaruni",
+        " Demerara-Mahaica",
+        " East Berbice-Corentyne",
+        " Essequibo Islands-West Demerara",
+        " Mahaica-Berbice",
+        " Pomeroon-Supenaam",
+        " Potaro-Siparuni",
+        " Upper Demerara-Berbice",
+        " Upper Takutu-Upper Essequibo"
+    ]
+}

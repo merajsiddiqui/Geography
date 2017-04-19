@@ -1,0 +1,32 @@
+{
+    "Name": "Uruguay",
+    "Capital": {
+        "DLST": 1,
+        "TD": -3,
+        "Flg": 2,
+        "Name": "Montevideo",
+        "GeoPt": [
+            -34.53,
+            -56.11
+        ]
+    },
+    "GeoRectangle": {
+        "West": -58.4427261353,
+        "East": -53.073928833,
+        "North": -30.0822219849,
+        "South": -34.9808235168
+    },
+    "SeqID": 225,
+    "GeoPt": [
+        -33,
+        -56
+    ],
+    "TelPref": "598",
+    "CountryCodes": {
+        "tld": "uy",
+        "iso3": "URY",
+        "iso2": "UY",
+        "fips": "UY",
+        "isoN": 858
+    }
+}

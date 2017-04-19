@@ -1,0 +1,32 @@
+{
+    "Name": "Wallis and Futuna",
+    "Capital": {
+        "DLST": "null",
+        "TD": 12,
+        "Flg": 2,
+        "Name": "Mata-Utu",
+        "GeoPt": [
+            -13.57,
+            -171.56
+        ]
+    },
+    "GeoRectangle": {
+        "West": -178.206802368,
+        "East": -176.128753662,
+        "North": -13.2142496109,
+        "South": -14.3286018372
+    },
+    "SeqID": 234,
+    "GeoPt": [
+        -13.18,
+        -176.12
+    ],
+    "TelPref": "681",
+    "CountryCodes": {
+        "tld": "wf",
+        "iso3": "WLF",
+        "iso2": "WF",
+        "fips": "WF",
+        "isoN": 876
+    }
+}

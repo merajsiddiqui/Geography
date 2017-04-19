@@ -1,0 +1,41 @@
+{
+    "Name": "Costa Rica",
+    "Capital": {
+        "DLST": "null",
+        "TD": -6,
+        "Flg": 2,
+        "Name": "San Jose",
+        "GeoPt": [
+            9.56,
+            -84.05
+        ]
+    },
+    "GeoRectangle": {
+        "West": -85.9506378174,
+        "East": -82.5559768677,
+        "North": 11.2168207169,
+        "South": 8.03297328949
+    },
+    "SeqID": 49,
+    "GeoPt": [
+        10,
+        -84
+    ],
+    "TelPref": "506",
+    "CountryCodes": {
+        "tld": "cr",
+        "iso3": "CRI",
+        "iso2": "CR",
+        "fips": "CS",
+        "isoN": 188
+    },
+    "states": [
+        " Alajuela",
+        " Cartago",
+        " Guanacaste",
+        " Heredia",
+        " Limon",
+        " Puntarenas",
+        " San Jose"
+    ]
+}

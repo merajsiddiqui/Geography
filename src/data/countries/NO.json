@@ -1,0 +1,53 @@
+{
+    "Name": "Norway",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Oslo",
+        "GeoPt": [
+            59.55,
+            10.45
+        ]
+    },
+    "GeoRectangle": {
+        "West": 4.65016651154,
+        "East": 30.945558548,
+        "North": 71.188117981,
+        "South": 57.9779129028
+    },
+    "SeqID": 162,
+    "GeoPt": [
+        62,
+        10
+    ],
+    "TelPref": "47",
+    "CountryCodes": {
+        "tld": "no",
+        "iso3": "NOR",
+        "iso2": "NO",
+        "fips": "NO",
+        "isoN": 578
+    },
+    "states": [
+        " Akershus",
+        " Aust-Agder",
+        " Buskerud",
+        " Finnmark",
+        " Hedmark",
+        " Hordaland",
+        " More og Romsdal",
+        " Nordland",
+        " Nord-Trondelag",
+        " Oppland",
+        " Oslo",
+        " Ostfold",
+        " Rogaland",
+        " Sogn og Fjordane",
+        " Sor-Trondelag",
+        " Telemark",
+        " Troms",
+        " Vest-Agder",
+        " Vestfold"
+    ]
+}

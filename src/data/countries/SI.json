@@ -1,0 +1,32 @@
+{
+    "Name": "Slovenia",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Ljubljana",
+        "GeoPt": [
+            46.03,
+            14.31
+        ]
+    },
+    "GeoRectangle": {
+        "West": 13.3830814362,
+        "East": 16.5660037994,
+        "North": 46.8779220581,
+        "South": 45.4131317139
+    },
+    "SeqID": 194,
+    "GeoPt": [
+        46.07,
+        14.49
+    ],
+    "TelPref": "386",
+    "CountryCodes": {
+        "tld": "si",
+        "iso3": "SVN",
+        "iso2": "SI",
+        "fips": "SI",
+        "isoN": 705
+    }
+}

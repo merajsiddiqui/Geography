@@ -1,0 +1,32 @@
+{
+    "Name": "Venezuela",
+    "Capital": {
+        "DLST": "null",
+        "TD": -4.5,
+        "Flg": 2,
+        "Name": "Caracas",
+        "GeoPt": [
+            10.3,
+            -66.56
+        ]
+    },
+    "GeoRectangle": {
+        "West": -73.3540878296,
+        "East": -59.8037757874,
+        "North": 12.2019042969,
+        "South": 0.626310884953
+    },
+    "SeqID": 229,
+    "GeoPt": [
+        8,
+        -66
+    ],
+    "TelPref": "58",
+    "CountryCodes": {
+        "tld": "ve",
+        "iso3": "VEN",
+        "iso2": "VE",
+        "fips": "VE",
+        "isoN": 862
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "Name": "Botswana",
+    "Capital": {
+        "DLST": "null",
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Gaborone",
+        "GeoPt": [
+            -24.45,
+            25.55
+        ]
+    },
+    "GeoRectangle": {
+        "West": 19.9995326996,
+        "East": 29.3607845306,
+        "North": -17.7808094025,
+        "South": -26.9072494507
+    },
+    "SeqID": 34,
+    "GeoPt": [
+        -22,
+        24
+    ],
+    "TelPref": "267",
+    "CountryCodes": {
+        "tld": "bw",
+        "iso3": "BWA",
+        "iso2": "BW",
+        "fips": "BC",
+        "isoN": 72
+    },
+    "states": [
+        "Central",
+        "Chobe",
+        "Francistown*",
+        "Gaborone*",
+        "Ghanzi",
+        "Jwaneng*",
+        "Kgalagadi",
+        "Kgatleng",
+        "Kweneng",
+        "Lobatse*",
+        "North East",
+        "North West",
+        "Selebi-Phikwe*",
+        "South East",
+        "Southern",
+        "Sowa Town*"
+    ]
+}

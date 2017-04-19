@@ -1,0 +1,51 @@
+{
+    "Name": "Korea South",
+    "Capital": {
+        "DLST": "null",
+        "TD": 9,
+        "Flg": 2,
+        "Name": "Seoul",
+        "GeoPt": [
+            37.33,
+            126.59
+        ]
+    },
+    "GeoRectangle": {
+        "West": 125.88710022,
+        "East": 129.584686279,
+        "North": 38.6124534607,
+        "South": 33.1909408569
+    },
+    "SeqID": 118,
+    "GeoPt": [
+        37,
+        127.3
+    ],
+    "TelPref": "82",
+    "CountryCodes": {
+        "tld": "kr",
+        "iso3": "KOR",
+        "iso2": "KR",
+        "fips": "KS",
+        "isoN": 410
+    },
+    "states": [
+        "Chungbuk (North Chungcheong)",
+        " Chungnam (South Chungcheong)",
+        " Gangwon",
+        " Gyeongbuk (North Gyeongsang)",
+        " Gyeonggi",
+        " Gyeongnam (South Gyeongsang)",
+        " Jeju",
+        " Jeonbuk (North Jeolla)",
+        " Jeonnam (South Jeolla)",
+        " Busan (Pusan)",
+        " Daegu (Taegu)",
+        " Daejeon (Taejon)",
+        " Gwangju (Kwangju)",
+        " Incheon (Inch'on)",
+        " Ulsan",
+        " Seoul",
+        " Sejong"
+    ]
+}

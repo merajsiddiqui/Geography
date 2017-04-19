@@ -1,0 +1,45 @@
+{
+    "Name": "Oman",
+    "Capital": {
+        "DLST": "null",
+        "TD": 4,
+        "Flg": 2,
+        "Name": "Muscat",
+        "GeoPt": [
+            23.37,
+            58.35
+        ]
+    },
+    "GeoRectangle": {
+        "West": 51.8819961548,
+        "East": 59.8365859985,
+        "North": 26.3879756927,
+        "South": 16.6457462311
+    },
+    "SeqID": 167,
+    "GeoPt": [
+        21,
+        57
+    ],
+    "TelPref": "968",
+    "CountryCodes": {
+        "tld": "om",
+        "iso3": "OMN",
+        "iso2": "OM",
+        "fips": "MU",
+        "isoN": 512
+    },
+    "states": [
+        " Ad Dakhiliyah",
+        " Al Buraymi",
+        " Al Wusta",
+        " Az Zahirah",
+        " Janub al Batinah (Al Batinah South)",
+        " Janub ash Sharqiyah (Ash Sharqiyah South)",
+        " Masqat (Muscat)",
+        " Musandam",
+        " Shamal al Batinah (Al Batinah North)",
+        " Shamal ash Sharqiyah (Ash Sharqiyah North)",
+        " Zufar (Dhofar)"
+    ]
+}

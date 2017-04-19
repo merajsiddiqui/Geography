@@ -1,0 +1,47 @@
+{
+    "Name": "Canada",
+    "Capital": {
+        "DLST": 1,
+        "TD": -5,
+        "Flg": 2,
+        "Name": "Ottawa",
+        "GeoPt": [
+            45.25,
+            -75.42
+        ]
+    },
+    "GeoRectangle": {
+        "West": -141.000015259,
+        "East": -52.6362838745,
+        "North": 83.1106338501,
+        "South": 41.6759757996
+    },
+    "SeqID": 37,
+    "GeoPt": [
+        60,
+        -95
+    ],
+    "TelPref": "1",
+    "CountryCodes": {
+        "tld": "ca",
+        "iso3": "CAN",
+        "iso2": "CA",
+        "fips": "CA",
+        "isoN": 124
+    },
+    "states": [
+        " Alberta",
+        " British Columbia",
+        " Manitoba",
+        " New Brunswick",
+        " Newfoundland and Labrador",
+        " Northwest Territories*",
+        " Nova Scotia",
+        " Nunavut*",
+        " Ontario",
+        " Prince Edward Island",
+        " Quebec",
+        " Saskatchewan",
+        " Yukon*"
+    ]
+}

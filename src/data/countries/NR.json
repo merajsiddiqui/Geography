@@ -1,0 +1,39 @@
+{
+    "Name": "Nauru",
+    "Capital": null,
+    "GeoRectangle": {
+        "West": 166.899017334,
+        "East": 166.9453125,
+        "North": -0.504305899143,
+        "South": -0.552333116531
+    },
+    "SeqID": 164,
+    "GeoPt": [
+        -0.32,
+        166.55
+    ],
+    "TelPref": "674",
+    "CountryCodes": {
+        "tld": "nr",
+        "iso3": "NRU",
+        "iso2": "NR",
+        "fips": "NR",
+        "isoN": 520
+    },
+    "states": [
+        " Aiwo",
+        " Anabar",
+        " Anetan",
+        " Anibare",
+        " Baiti",
+        " Boe",
+        " Buada",
+        " Denigomodu",
+        " Ewa",
+        " Ijuw",
+        " Meneng",
+        " Nibok",
+        " Uaboe",
+        " Yaren"
+    ]
+}

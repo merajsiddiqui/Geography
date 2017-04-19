@@ -1,0 +1,33 @@
+{
+    "Name": "Puerto Rico",
+    "Capital": {
+        "DLST": "null",
+        "TD": -4,
+        "Flg": 2,
+        "Name": "San Juan",
+        "GeoPt": [
+            18.28,
+            -66.07
+        ]
+    },
+    "GeoRectangle": {
+        "West": -67.9427337646,
+        "East": -65.242729187,
+        "North": 18.5201683044,
+        "South": 17.9264030457
+    },
+    "SeqID": 177,
+    "GeoPt": [
+        18.15,
+        -66.3
+    ],
+    "TelPref": "1",
+    "CountryCodes": {
+        "tld": "pr",
+        "iso3": "PRI",
+        "iso2": "PR",
+        "fips": "RQ",
+        "isoN": 630
+    },
+    "states": null
+}

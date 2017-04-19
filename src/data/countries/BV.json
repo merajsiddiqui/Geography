@@ -1,0 +1,23 @@
+{
+    "Name": "Bouvet Island",
+    "Capital": null,
+    "GeoRectangle": {
+        "West": 3.3354985714,
+        "East": 3.48797631264,
+        "North": -54.4003181458,
+        "South": -54.462387085
+    },
+    "SeqID": 33,
+    "GeoPt": [
+        -54.26,
+        3.24
+    ],
+    "TelPref": "47",
+    "CountryCodes": {
+        "tld": "bv",
+        "iso3": "BVT",
+        "iso2": "BV",
+        "fips": "BV",
+        "isoN": 74
+    }
+}

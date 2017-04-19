@@ -1,0 +1,56 @@
+{
+    "Name": "Guatemala",
+    "Capital": {
+        "DLST": 1,
+        "TD": -6,
+        "Flg": 2,
+        "Name": "Guatemala City",
+        "GeoPt": [
+            14.37,
+            -90.31
+        ]
+    },
+    "GeoRectangle": {
+        "West": -92.2363052368,
+        "East": -88.2231903076,
+        "North": 17.8152236938,
+        "South": 13.7373008728
+    },
+    "SeqID": 87,
+    "GeoPt": [
+        15.3,
+        -90.15
+    ],
+    "TelPref": "502",
+    "CountryCodes": {
+        "tld": "gt",
+        "iso3": "GTM",
+        "iso2": "GT",
+        "fips": "GT",
+        "isoN": 320
+    },
+    "states": [
+        " Alta Verapaz",
+        " Baja Verapaz",
+        " Chimaltenango",
+        " Chiquimula",
+        " El Progreso",
+        " Escuintla",
+        " Guatemala",
+        " Huehuetenango",
+        " Izabal",
+        " Jalapa",
+        " Jutiapa",
+        " Peten",
+        " Quetzaltenango",
+        " Quiche",
+        " Retalhuleu",
+        " Sacatepequez",
+        " San Marcos",
+        " Santa Rosa",
+        " Solola",
+        " Suchitepequez",
+        " Totonicapan",
+        " Zacapa"
+    ]
+}

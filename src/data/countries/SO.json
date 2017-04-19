@@ -1,0 +1,32 @@
+{
+    "Name": "Somalia",
+    "Capital": {
+        "DLST": "null",
+        "TD": 3,
+        "Flg": 2,
+        "Name": "Mogadishu",
+        "GeoPt": [
+            2.04,
+            45.22
+        ]
+    },
+    "GeoRectangle": {
+        "West": 40.9865875244,
+        "East": 51.4126434326,
+        "North": 11.9791669846,
+        "South": -1.67486822605
+    },
+    "SeqID": 200,
+    "GeoPt": [
+        10,
+        49
+    ],
+    "TelPref": "252",
+    "CountryCodes": {
+        "tld": "so",
+        "iso3": "SOM",
+        "iso2": "SO",
+        "fips": "SO",
+        "isoN": 706
+    }
+}

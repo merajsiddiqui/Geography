@@ -1,0 +1,35 @@
+{
+    "Name": "Aruba",
+    "Capital": {
+        "DLST": "null",
+        "TD": -4,
+        "Flg": 2,
+        "Name": "Oranjestad",
+        "GeoPt": [
+            12.31,
+            -70.02
+        ]
+    },
+    "GeoRectangle": {
+        "West": -70.0611419678,
+        "East": -69.8668518066,
+        "North": 12.6306190491,
+        "South": 12.4060916901
+    },
+    "SeqID": 15,
+    "GeoPt": [
+        12.3,
+        -69.58
+    ],
+    "TelPref": "297",
+    "CountryCodes": {
+        "tld": "aw",
+        "iso3": "ABW",
+        "iso2": "AW",
+        "fips": "AA",
+        "isoN": 533
+    },
+    "states": [
+        "none (part of the Kingdom of the Netherlands)"
+    ]
+}

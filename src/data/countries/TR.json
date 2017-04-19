@@ -1,0 +1,32 @@
+{
+    "Name": "Turkey",
+    "Capital": {
+        "DLST": 1,
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Ankara",
+        "GeoPt": [
+            39.56,
+            32.52
+        ]
+    },
+    "GeoRectangle": {
+        "West": 25.6684989929,
+        "East": 44.8350028992,
+        "North": 42.1076202393,
+        "South": 35.815410614
+    },
+    "SeqID": 217,
+    "GeoPt": [
+        39,
+        35
+    ],
+    "TelPref": "90",
+    "CountryCodes": {
+        "tld": "tr",
+        "iso3": "TUR",
+        "iso2": "TR",
+        "fips": "TU",
+        "isoN": 792
+    }
+}

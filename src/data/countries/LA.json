@@ -1,0 +1,52 @@
+{
+    "Name": "Laos",
+    "Capital": {
+        "DLST": "null",
+        "TD": 7,
+        "Flg": 2,
+        "Name": "Vientiane",
+        "GeoPt": [
+            17.58,
+            102.36
+        ]
+    },
+    "GeoRectangle": {
+        "West": 100.093048096,
+        "East": 107.697036743,
+        "North": 22.5003910065,
+        "South": 13.9100255966
+    },
+    "SeqID": 122,
+    "GeoPt": [
+        18,
+        105
+    ],
+    "TelPref": "856",
+    "CountryCodes": {
+        "tld": "la",
+        "iso3": "LAO",
+        "iso2": "LA",
+        "fips": "LA",
+        "isoN": 418
+    },
+    "states": [
+        " Attapu",
+        " Bokeo",
+        " Bolikhamxai",
+        " Champasak",
+        " Houaphan",
+        " Khammouan",
+        " Louangnamtha",
+        " Louangphabang",
+        " Oudomxai",
+        " Phongsali",
+        " Salavan",
+        " Savannakhet",
+        " Viangchan (Vientiane)*",
+        " Viangchan",
+        " Xaignabouli",
+        " Xaisomboun",
+        " Xekong",
+        " Xiangkhouang"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Name": "Maldives",
+    "Capital": {
+        "DLST": "null",
+        "TD": 5,
+        "Flg": 2,
+        "Name": "Male",
+        "GeoPt": [
+            4.1,
+            73.3
+        ]
+    },
+    "GeoRectangle": {
+        "West": 72.6932067871,
+        "East": 73.6372909546,
+        "North": 7.09836149216,
+        "South": -0.692694067955
+    },
+    "SeqID": 150,
+    "GeoPt": [
+        3.15,
+        73
+    ],
+    "TelPref": "960",
+    "CountryCodes": {
+        "tld": "mv",
+        "iso3": "MDV",
+        "iso2": "MV",
+        "fips": "MV",
+        "isoN": 462
+    },
+    "states": [
+        " Dhekunu (South)",
+        " Maale*",
+        " Mathi Dhekunu (Upper South)",
+        " Mathi Uthuru (Upper North)",
+        " Medhu (Central)",
+        " Medhu Dhekunu (South Central)",
+        " Medhu Uthuru (North Central)",
+        " Uthuru (North)"
+    ]
+}

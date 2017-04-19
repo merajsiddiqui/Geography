@@ -1,0 +1,32 @@
+{
+    "Name": "Suriname",
+    "Capital": {
+        "DLST": "null",
+        "TD": -3,
+        "Flg": 2,
+        "Name": "Paramaribo",
+        "GeoPt": [
+            5.5,
+            -55.1
+        ]
+    },
+    "GeoRectangle": {
+        "West": -58.086566925,
+        "East": -53.9774856567,
+        "North": 6.0045466423,
+        "South": 1.83114480972
+    },
+    "SeqID": 201,
+    "GeoPt": [
+        4,
+        -56
+    ],
+    "TelPref": "597",
+    "CountryCodes": {
+        "tld": "sr",
+        "iso3": "SUR",
+        "iso2": "SR",
+        "fips": "NS",
+        "isoN": 740
+    }
+}

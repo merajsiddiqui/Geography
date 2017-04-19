@@ -1,0 +1,32 @@
+{
+    "Name": "Rwanda",
+    "Capital": {
+        "DLST": "null",
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Kigali",
+        "GeoPt": [
+            -1.57,
+            30.04
+        ]
+    },
+    "GeoRectangle": {
+        "West": 28.8567905426,
+        "East": 30.8959617615,
+        "North": -1.05348086357,
+        "South": -2.84067940712
+    },
+    "SeqID": 186,
+    "GeoPt": [
+        -2,
+        30
+    ],
+    "TelPref": "250",
+    "CountryCodes": {
+        "tld": "rw",
+        "iso3": "RWA",
+        "iso2": "RW",
+        "fips": "RW",
+        "isoN": 646
+    }
+}

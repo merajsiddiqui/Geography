@@ -1,0 +1,35 @@
+{
+    "Name": "Christmas Island",
+    "Capital": {
+        "DLST": "null",
+        "TD": 7,
+        "Flg": 2,
+        "Name": "The Settlement",
+        "GeoPt": [
+            -10.25,
+            105.43
+        ]
+    },
+    "GeoRectangle": {
+        "West": 105.5389328,
+        "East": 105.719596863,
+        "North": -10.4157762527,
+        "South": -10.5757246017
+    },
+    "SeqID": 52,
+    "GeoPt": [
+        -10.3,
+        105.4
+    ],
+    "TelPref": "61",
+    "CountryCodes": {
+        "tld": "cx",
+        "iso3": "CXR",
+        "iso2": "CX",
+        "fips": "KT",
+        "isoN": 162
+    },
+    "states": [
+        "none (territory of Australia)"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Name": "Tuvalu",
+    "Capital": {
+        "DLST": "null",
+        "TD": 12,
+        "Flg": 2,
+        "Name": "Funafuti",
+        "GeoPt": [
+            -8.3,
+            179.12
+        ]
+    },
+    "GeoRectangle": {
+        "West": 176.118972778,
+        "East": 178.699478149,
+        "North": -5.66874933243,
+        "South": -7.49436187744
+    },
+    "SeqID": 219,
+    "GeoPt": [
+        -8,
+        178
+    ],
+    "TelPref": "688",
+    "CountryCodes": {
+        "tld": "tv",
+        "iso3": "TUV",
+        "iso2": "TV",
+        "fips": "TV",
+        "isoN": 798
+    }
+}

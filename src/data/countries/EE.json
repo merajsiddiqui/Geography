@@ -1,0 +1,49 @@
+{
+    "Name": "Estonia",
+    "Capital": {
+        "DLST": 1,
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Tallinn",
+        "GeoPt": [
+            59.26,
+            24.43
+        ]
+    },
+    "GeoRectangle": {
+        "West": 21.8375816345,
+        "East": 28.2099742889,
+        "North": 59.6762313843,
+        "South": 57.5161857605
+    },
+    "SeqID": 62,
+    "GeoPt": [
+        59,
+        26
+    ],
+    "TelPref": "372",
+    "CountryCodes": {
+        "tld": "ee",
+        "iso3": "EST",
+        "iso2": "EE",
+        "fips": "EN",
+        "isoN": 233
+    },
+    "states": [
+        " Harjumaa (Tallinn)",
+        " Hiiumaa (Kardla)",
+        " Ida-Virumaa (Johvi)",
+        " Jarvamaa (Paide)",
+        " Jogevamaa (Jogeva)",
+        " Laanemaa (Haapsalu)",
+        " Laane-Virumaa (Rakvere)",
+        " Parnumaa (Parnu)",
+        " Polvamaa (Polva)",
+        " Raplamaa (Rapla)",
+        " Saaremaa (Kuressaare)",
+        " Tartumaa (Tartu)",
+        " Valgamaa (Valga)",
+        " Viljandimaa (Viljandi)",
+        " Vorumaa (Voru)"
+    ]
+}

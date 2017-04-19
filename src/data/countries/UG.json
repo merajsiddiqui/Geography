@@ -1,0 +1,32 @@
+{
+    "Name": "Uganda",
+    "Capital": {
+        "DLST": "null",
+        "TD": 3,
+        "Flg": 2,
+        "Name": "Kampala",
+        "GeoPt": [
+            0.19,
+            32.25
+        ]
+    },
+    "GeoRectangle": {
+        "West": 29.5732498169,
+        "East": 35.0360565186,
+        "North": 4.214427948,
+        "South": -1.48405015469
+    },
+    "SeqID": 223,
+    "GeoPt": [
+        1,
+        32
+    ],
+    "TelPref": "256",
+    "CountryCodes": {
+        "tld": "ug",
+        "iso3": "UGA",
+        "iso2": "UG",
+        "fips": "UG",
+        "isoN": 800
+    }
+}

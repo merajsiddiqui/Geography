@@ -1,0 +1,35 @@
+{
+    "Name": "British Virgin Islands",
+    "Capital": {
+        "DLST": "null",
+        "TD": -4,
+        "Flg": 2,
+        "Name": "Road Town",
+        "GeoPt": [
+            18.27,
+            -64.37
+        ]
+    },
+    "GeoRectangle": {
+        "West": -64.7153778076,
+        "East": -64.2687530518,
+        "North": 18.7572231293,
+        "South": 18.3899765015
+    },
+    "SeqID": 230,
+    "GeoPt": [
+        18.3,
+        -64.3
+    ],
+    "TelPref": "1 284",
+    "CountryCodes": {
+        "tld": "vg",
+        "iso3": "VGB",
+        "iso2": "VG",
+        "fips": "VI",
+        "isoN": 92
+    },
+    "states": [
+        "none (overseas territory of the UK)"
+    ]
+}

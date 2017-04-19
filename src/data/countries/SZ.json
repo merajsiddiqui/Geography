@@ -1,0 +1,32 @@
+{
+    "Name": "Swaziland",
+    "Capital": {
+        "DLST": "null",
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Mbabane",
+        "GeoPt": [
+            -26.18,
+            31.06
+        ]
+    },
+    "GeoRectangle": {
+        "West": 30.7941036224,
+        "East": 32.1372642517,
+        "North": -25.7196445465,
+        "South": -27.3171043396
+    },
+    "SeqID": 205,
+    "GeoPt": [
+        -26.3,
+        31.3
+    ],
+    "TelPref": "268",
+    "CountryCodes": {
+        "tld": "sz",
+        "iso3": "SWZ",
+        "iso2": "SZ",
+        "fips": "WZ",
+        "isoN": 748
+    }
+}

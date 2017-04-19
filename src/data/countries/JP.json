@@ -1,0 +1,81 @@
+{
+    "Name": "Japan",
+    "Capital": {
+        "DLST": "null",
+        "TD": 9,
+        "Flg": 2,
+        "Name": "Tokyo",
+        "GeoPt": [
+            35.41,
+            139.45
+        ]
+    },
+    "GeoRectangle": {
+        "West": 122.938522339,
+        "East": 145.820907593,
+        "North": 45.523147583,
+        "South": 24.2494697571
+    },
+    "SeqID": 110,
+    "GeoPt": [
+        36,
+        138
+    ],
+    "TelPref": "81",
+    "CountryCodes": {
+        "tld": "jp",
+        "iso3": "JPN",
+        "iso2": "JP",
+        "fips": "JA",
+        "isoN": 392
+    },
+    "states": [
+        " Aichi",
+        " Akita",
+        " Aomori",
+        " Chiba",
+        " Ehime",
+        " Fukui",
+        " Fukuoka",
+        " Fukushima",
+        " Gifu",
+        " Gunma",
+        " Hiroshima",
+        " Hokkaido",
+        " Hyogo",
+        " Ibaraki",
+        " Ishikawa",
+        " Iwate",
+        " Kagawa",
+        " Kagoshima",
+        " Kanagawa",
+        " Kochi",
+        " Kumamoto",
+        " Kyoto",
+        " Mie",
+        " Miyagi",
+        " Miyazaki",
+        " Nagano",
+        " Nagasaki",
+        " Nara",
+        " Niigata",
+        " Oita",
+        " Okayama",
+        " Okinawa",
+        " Osaka",
+        " Saga",
+        " Saitama",
+        " Shiga",
+        " Shimane",
+        " Shizuoka",
+        " Tochigi",
+        " Tokushima",
+        " Tokyo",
+        " Tottori",
+        " Toyama",
+        " Wakayama",
+        " Yamagata",
+        " Yamaguchi",
+        " Yamanashi"
+    ]
+}

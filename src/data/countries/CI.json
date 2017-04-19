@@ -1,0 +1,48 @@
+{
+    "Name": "Ivory Coast",
+    "Capital": {
+        "DLST": "null",
+        "TD": 0,
+        "Flg": 2,
+        "Name": "Yamoussoukro",
+        "GeoPt": [
+            6.49,
+            -5.17
+        ]
+    },
+    "GeoRectangle": {
+        "West": -8.59930324554,
+        "East": -2.49489665031,
+        "North": 10.7366437912,
+        "South": 4.35706615448
+    },
+    "SeqID": 43,
+    "GeoPt": [
+        8,
+        -5
+    ],
+    "TelPref": "225",
+    "CountryCodes": {
+        "tld": "ci",
+        "iso3": "CIV",
+        "iso2": "CI",
+        "fips": "IV",
+        "isoN": 384
+    },
+    "states": [
+        " Abidjan*",
+        " Bas-Sassandra",
+        " Comoe",
+        " Denguele",
+        " Goh-Djiboua",
+        " Lacs",
+        " Lagunes",
+        " Montagnes",
+        " Sassandra-Marahoue",
+        " Savanes",
+        " Vallee du Bandama",
+        " Woroba",
+        " Yamoussoukro*",
+        " Zanzan"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "Name": "Ecuador",
+    "Capital": {
+        "DLST": "null",
+        "TD": -5,
+        "Flg": 2,
+        "Name": "Quito",
+        "GeoPt": [
+            -0.13,
+            -78.3
+        ]
+    },
+    "GeoRectangle": {
+        "West": -91.6618881226,
+        "East": -75.1845779419,
+        "North": 1.41893422604,
+        "South": -4.99882364273
+    },
+    "SeqID": 61,
+    "GeoPt": [
+        -2,
+        -77.3
+    ],
+    "TelPref": "593",
+    "CountryCodes": {
+        "tld": "ec",
+        "iso3": "ECU",
+        "iso2": "EC",
+        "fips": "EC",
+        "isoN": 218
+    },
+    "states": [
+        " Azuay",
+        " Bolivar",
+        " Canar",
+        " Carchi",
+        " Chimborazo",
+        " Cotopaxi",
+        " El Oro",
+        " Esmeraldas",
+        " Galapagos",
+        " Guayas",
+        " Imbabura",
+        " Loja",
+        " Los Rios",
+        " Manabi",
+        " Morona-Santiago",
+        " Napo",
+        " Orellana",
+        " Pastaza",
+        " Pichincha",
+        " Santa Elena",
+        " Santo Domingo de los Tsachilas",
+        " Sucumbios",
+        " Tungurahua",
+        " Zamora-Chinchipe"
+    ]
+}

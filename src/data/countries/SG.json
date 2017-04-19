@@ -1,0 +1,32 @@
+{
+    "Name": "Singapore",
+    "Capital": {
+        "DLST": "null",
+        "TD": 8,
+        "Flg": 2,
+        "Name": "Singapore",
+        "GeoPt": [
+            1.17,
+            103.51
+        ]
+    },
+    "GeoRectangle": {
+        "West": 103.638259888,
+        "East": 104.007476807,
+        "North": 1.47127819061,
+        "South": 1.25855576992
+    },
+    "SeqID": 192,
+    "GeoPt": [
+        1.22,
+        103.48
+    ],
+    "TelPref": "65",
+    "CountryCodes": {
+        "tld": "sg",
+        "iso3": "SGP",
+        "iso2": "SG",
+        "fips": "SN",
+        "isoN": 702
+    }
+}

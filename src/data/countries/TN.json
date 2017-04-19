@@ -1,0 +1,32 @@
+{
+    "Name": "Tunisia",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Tunis",
+        "GeoPt": [
+            36.48,
+            10.11
+        ]
+    },
+    "GeoRectangle": {
+        "West": 7.52483224869,
+        "East": 11.5982789993,
+        "North": 37.5439224243,
+        "South": 30.2404136658
+    },
+    "SeqID": 215,
+    "GeoPt": [
+        34,
+        9
+    ],
+    "TelPref": "216",
+    "CountryCodes": {
+        "tld": "tn",
+        "iso3": "TUN",
+        "iso2": "TN",
+        "fips": "TS",
+        "isoN": 788
+    }
+}

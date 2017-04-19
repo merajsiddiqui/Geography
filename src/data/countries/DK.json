@@ -1,0 +1,39 @@
+{
+    "Name": "Denmark",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Copenhagen",
+        "GeoPt": [
+            55.4,
+            12.35
+        ]
+    },
+    "GeoRectangle": {
+        "West": 8.07560920715,
+        "East": 15.1588354111,
+        "North": 57.74842453,
+        "South": 54.5623817444
+    },
+    "SeqID": 57,
+    "GeoPt": [
+        56,
+        10
+    ],
+    "TelPref": "45",
+    "CountryCodes": {
+        "tld": "dk",
+        "iso3": "DNK",
+        "iso2": "DK",
+        "fips": "DA",
+        "isoN": 208
+    },
+    "states": [
+        " Hovedstaden (Capital)",
+        " Midtjylland (Central Jutland)",
+        " Nordjylland (North Jutland)",
+        " Sjaelland (Zealand)",
+        " Syddanmark (Southern Denmark)"
+    ]
+}

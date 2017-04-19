@@ -1,0 +1,23 @@
+{
+    "Name": "Heard Island and McDonald Islands",
+    "Capital": null,
+    "GeoRectangle": {
+        "West": 72.5965270996,
+        "East": 73.8591537476,
+        "North": -52.9094085693,
+        "South": -53.1920051575
+    },
+    "SeqID": 92,
+    "GeoPt": [
+        -53.06,
+        72.31
+    ],
+    "TelPref": null,
+    "CountryCodes": {
+        "tld": "hm",
+        "iso3": "HMD",
+        "iso2": "HM",
+        "fips": "HM",
+        "isoN": 334
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "Name": "Nigeria",
+    "Capital": {
+        "DLST": "null",
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Abuja",
+        "GeoPt": [
+            9.05,
+            7.32
+        ]
+    },
+    "GeoRectangle": {
+        "West": 2.66843175888,
+        "East": 14.6800746918,
+        "North": 13.8920087814,
+        "South": 4.27714347839
+    },
+    "SeqID": 159,
+    "GeoPt": [
+        10,
+        8
+    ],
+    "TelPref": "234",
+    "CountryCodes": {
+        "tld": "ng",
+        "iso3": "NGA",
+        "iso2": "NG",
+        "fips": "NI",
+        "isoN": 566
+    },
+    "states": [
+        " Abia",
+        " Adamawa",
+        " Akwa Ibom",
+        " Anambra",
+        " Bauchi",
+        " Bayelsa",
+        " Benue",
+        " Borno",
+        " Cross River",
+        " Delta",
+        " Ebonyi",
+        " Edo",
+        " Ekiti",
+        " Enugu",
+        " Federal Capital Territory*",
+        " Gombe",
+        " Imo",
+        " Jigawa",
+        " Kaduna",
+        " Kano",
+        " Katsina",
+        " Kebbi",
+        " Kogi",
+        " Kwara",
+        " Lagos",
+        " Nasarawa",
+        " Niger",
+        " Ogun",
+        " Ondo",
+        " Osun",
+        " Oyo",
+        " Plateau",
+        " Rivers",
+        " Sokoto",
+        " Taraba",
+        " Yobe",
+        " Zamfara"
+    ]
+}

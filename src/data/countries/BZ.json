@@ -1,0 +1,40 @@
+{
+    "Name": "Belize",
+    "Capital": {
+        "DLST": "null",
+        "TD": -6,
+        "Flg": 2,
+        "Name": "Belmopan",
+        "GeoPt": [
+            17.15,
+            -88.46
+        ]
+    },
+    "GeoRectangle": {
+        "West": -89.224822998,
+        "East": -87.7769699097,
+        "North": 18.4965591431,
+        "South": 15.889298439
+    },
+    "SeqID": 36,
+    "GeoPt": [
+        17.15,
+        -88.45
+    ],
+    "TelPref": "501",
+    "CountryCodes": {
+        "tld": "bz",
+        "iso3": "BLZ",
+        "iso2": "BZ",
+        "fips": "BH",
+        "isoN": 84
+    },
+    "states": [
+        "Belize",
+        "Cayo",
+        "Corozal",
+        "Orange Walk",
+        "Stann Creek",
+        "Toledo"
+    ]
+}

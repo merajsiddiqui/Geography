@@ -1,0 +1,45 @@
+{
+    "Name": "Morocco",
+    "Capital": {
+        "DLST": "null",
+        "TD": 0,
+        "Flg": 2,
+        "Name": "Rabat",
+        "GeoPt": [
+            34.01,
+            -6.49
+        ]
+    },
+    "GeoRectangle": {
+        "West": -13.1685876846,
+        "East": -0.991749882698,
+        "North": 35.9280319214,
+        "South": 27.6621112823
+    },
+    "SeqID": 133,
+    "GeoPt": [
+        32,
+        -5
+    ],
+    "TelPref": "212",
+    "CountryCodes": {
+        "tld": "ma",
+        "iso3": "MAR",
+        "iso2": "MA",
+        "fips": "MO",
+        "isoN": 504
+    },
+    "states": [
+        " Beni Mellal-Khenifra",
+        " Casablanca-Settat",
+        " Draa-Tafilalet",
+        " Fes-Meknes",
+        " Guelmim-Oued Noun",
+        " Laayoune-Sakia al Hamra",
+        " Oriental",
+        " Marrakech-Safi",
+        " Rabat-Sale-Kenitra",
+        " Souss-Massa",
+        " Tanger-Tetouan-Al Hoceima"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "Name": "Bulgaria",
+    "Capital": {
+        "DLST": 1,
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Sofia",
+        "GeoPt": [
+            42.41,
+            23.19
+        ]
+    },
+    "GeoRectangle": {
+        "West": 22.3711624146,
+        "East": 28.6121692657,
+        "North": 44.2176475525,
+        "South": 41.2420768738
+    },
+    "SeqID": 22,
+    "GeoPt": [
+        43,
+        25
+    ],
+    "TelPref": "359",
+    "CountryCodes": {
+        "tld": "bg",
+        "iso3": "BGR",
+        "iso2": "BG",
+        "fips": "BU",
+        "isoN": 100
+    },
+    "states": [
+        "Blagoevgrad",
+        "Burgas",
+        "Dobrich",
+        "Gabrovo",
+        "Haskovo",
+        "Kardzhali",
+        "Kyustendil",
+        "Lovech",
+        "Montana",
+        "Pazardzhik",
+        "Pernik",
+        "Pleven",
+        "Plovdiv",
+        "Razgrad",
+        "Ruse",
+        "Shumen",
+        "Silistra",
+        "Sliven",
+        "Smolyan",
+        "Sofia",
+        "Sofia-Grad (Sofia City)",
+        "Stara Zagora",
+        "Targovishte",
+        "Varna",
+        "Veliko Tarnovo",
+        "Vidin",
+        "Vratsa",
+        "Yambol"
+    ]
+}

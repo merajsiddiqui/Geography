@@ -1,0 +1,58 @@
+{
+    "Name": "Argentina",
+    "Capital": {
+        "DLST": 1,
+        "TD": -3,
+        "Flg": 2,
+        "Name": "Buenos Aires",
+        "GeoPt": [
+            -34.36,
+            -58.4
+        ]
+    },
+    "GeoRectangle": {
+        "West": -73.5829849243,
+        "East": -53.5918273926,
+        "North": -21.7812747955,
+        "South": -55.0613212585
+    },
+    "SeqID": 11,
+    "GeoPt": [
+        -34,
+        -64
+    ],
+    "TelPref": "54",
+    "CountryCodes": {
+        "tld": "ar",
+        "iso3": "ARG",
+        "iso2": "AR",
+        "fips": "AR",
+        "isoN": 32
+    },
+    "states": [
+        " Buenos Aires",
+        " Catamarca",
+        " Chaco",
+        " Chubut",
+        " Ciudad Autonoma de Buenos Aires*",
+        " Cordoba",
+        " Corrientes",
+        " Entre Rios",
+        " Formosa",
+        " Jujuy",
+        " La Pampa",
+        " La Rioja",
+        " Mendoza",
+        " Misiones",
+        " Neuquen",
+        " Rio Negro",
+        " Salta",
+        " San Juan",
+        " San Luis",
+        " Santa Cruz",
+        " Santa Fe",
+        " Santiago del Estero",
+        " Tierra del Fuego - Antartida e Islas del Atlantico Sur (Tierra del Fuego)",
+        " Tucuman"
+    ]
+}

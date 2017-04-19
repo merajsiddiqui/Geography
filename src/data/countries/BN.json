@@ -1,0 +1,38 @@
+{
+    "Name": "Brunei",
+    "Capital": {
+        "DLST": "null",
+        "TD": 8,
+        "Flg": 2,
+        "Name": "Bandar Seri Begawan",
+        "GeoPt": [
+            4.53,
+            114.56
+        ]
+    },
+    "GeoRectangle": {
+        "West": 114.071434021,
+        "East": 115.359458923,
+        "North": 5.04716777802,
+        "South": 4.00308227539
+    },
+    "SeqID": 28,
+    "GeoPt": [
+        4.3,
+        114.4
+    ],
+    "TelPref": "673",
+    "CountryCodes": {
+        "tld": "bn",
+        "iso3": "BRN",
+        "iso2": "BN",
+        "fips": "BX",
+        "isoN": 96
+    },
+    "states": [
+        "Belait",
+        "Brunei-Muara",
+        "Temburong",
+        "Tutong"
+    ]
+}

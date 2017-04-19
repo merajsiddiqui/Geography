@@ -1,0 +1,50 @@
+{
+    "Name": "Poland",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Warsaw",
+        "GeoPt": [
+            52.15,
+            21
+        ]
+    },
+    "GeoRectangle": {
+        "West": 14.1229982376,
+        "East": 24.1507511139,
+        "North": 54.8391418457,
+        "South": 49.0063591003
+    },
+    "SeqID": 174,
+    "GeoPt": [
+        52,
+        20
+    ],
+    "TelPref": "48",
+    "CountryCodes": {
+        "tld": "pl",
+        "iso3": "POL",
+        "iso2": "PL",
+        "fips": "PL",
+        "isoN": 616
+    },
+    "states": [
+        " Dolnoslaskie (Lower Silesia)",
+        " Kujawsko-Pomorskie (Kuyavia-Pomerania)",
+        " Lodzkie (Lodz)",
+        " Lubelskie (Lublin)",
+        " Lubuskie (Lubusz)",
+        " Malopolskie (Lesser Poland)",
+        " Mazowieckie (Masovia)",
+        " Opolskie (Opole)",
+        " Podkarpackie (Subcarpathia)",
+        " Podlaskie",
+        " Pomorskie (Pomerania)",
+        " Slaskie (Silesia)",
+        " Swietokrzyskie (Holy Cross)",
+        " Warminsko-Mazurskie (Warmia-Masuria)",
+        " Wielkopolskie (Greater Poland)",
+        " Zachodniopomorskie (West Pomerania)"
+    ]
+}

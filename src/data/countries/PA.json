@@ -1,0 +1,47 @@
+{
+    "Name": "Panama",
+    "Capital": {
+        "DLST": "null",
+        "TD": -5,
+        "Flg": 2,
+        "Name": "Panama City",
+        "GeoPt": [
+            8.58,
+            -79.32
+        ]
+    },
+    "GeoRectangle": {
+        "West": -83.0514526367,
+        "East": -77.1740951538,
+        "North": 9.63751506805,
+        "South": 7.19790506363
+    },
+    "SeqID": 168,
+    "GeoPt": [
+        9,
+        -80
+    ],
+    "TelPref": "507",
+    "CountryCodes": {
+        "tld": "pa",
+        "iso3": "PAN",
+        "iso2": "PA",
+        "fips": "PM",
+        "isoN": 591
+    },
+    "states": [
+        " Bocas del Toro",
+        " Chiriqui",
+        " Cocle",
+        " Colon",
+        " Darien",
+        " Embera-Wounaan*",
+        " Herrera",
+        " Kuna Yala*",
+        " Los Santos",
+        " Ngobe-Bugle*",
+        " Panama",
+        " Panama Oeste",
+        " Veraguas"
+    ]
+}

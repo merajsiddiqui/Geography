@@ -1,0 +1,56 @@
+{
+    "Name": "Cape Verde",
+    "Capital": {
+        "DLST": "null",
+        "TD": -1,
+        "Flg": 2,
+        "Name": "Praia",
+        "GeoPt": [
+            14.55,
+            -23.31
+        ]
+    },
+    "GeoRectangle": {
+        "West": -25.3587493896,
+        "East": -22.6694393158,
+        "North": 17.1971817017,
+        "South": 14.8080205917
+    },
+    "SeqID": 51,
+    "GeoPt": [
+        16,
+        -24
+    ],
+    "TelPref": "238",
+    "CountryCodes": {
+        "tld": "cv",
+        "iso3": "CPV",
+        "iso2": "CV",
+        "fips": "CV",
+        "isoN": 132
+    },
+    "states": [
+        " Boa Vista",
+        " Brava",
+        " Maio",
+        " Mosteiros",
+        " Paul",
+        " Porto Novo",
+        " Praia",
+        " Ribeira Brava",
+        " Ribeira Grande",
+        " Ribeira Grande de Santiago",
+        " Sal",
+        " Santa Catarina",
+        " Santa Catarina do Fogo",
+        " Santa Cruz",
+        " Sao Domingos",
+        " Sao Filipe",
+        " Sao Lourenco dos Orgaos",
+        " Sao Miguel",
+        " Sao Salvador do Mundo",
+        " Sao Vicente",
+        " Tarrafal",
+        " Tarrafal de Sao Nicolau"
+    ]
+}

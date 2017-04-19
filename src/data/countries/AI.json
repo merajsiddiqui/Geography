@@ -1,0 +1,35 @@
+{
+    "Name": "Anguilla",
+    "Capital": {
+        "DLST": "null",
+        "TD": -4,
+        "Flg": 2,
+        "Name": "The Valley",
+        "GeoPt": [
+            18.13,
+            -63.03
+        ]
+    },
+    "GeoRectangle": {
+        "West": -63.1729049683,
+        "East": -62.9713516235,
+        "North": 18.2834262848,
+        "South": 18.1668128967
+    },
+    "SeqID": 4,
+    "GeoPt": [
+        18.15,
+        -63.1
+    ],
+    "TelPref": "1 264",
+    "CountryCodes": {
+        "tld": "ai",
+        "iso3": "AIA",
+        "iso2": "AI",
+        "fips": "AV",
+        "isoN": 660
+    },
+    "states": [
+        "none (overseas territory of the UK)"
+    ]
+}

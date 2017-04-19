@@ -1,0 +1,40 @@
+{
+    "Name": "Pakistan",
+    "Capital": {
+        "DLST": 1,
+        "TD": 5,
+        "Flg": 2,
+        "Name": "Islamabad",
+        "GeoPt": [
+            33.42,
+            73.1
+        ]
+    },
+    "GeoRectangle": {
+        "West": 60.8786087036,
+        "East": 77.840927124,
+        "North": 37.0970039368,
+        "South": 23.7867183685
+    },
+    "SeqID": 173,
+    "GeoPt": [
+        30,
+        70
+    ],
+    "TelPref": "92",
+    "CountryCodes": {
+        "tld": "pk",
+        "iso3": "PAK",
+        "iso2": "PK",
+        "fips": "PK",
+        "isoN": 586
+    },
+    "states": [
+        " Balochistan",
+        " Federally Administered Tribal Areas*",
+        " Islamabad Capital Territory**",
+        " Khyber Pakhtunkhwa (formerly North-West Frontier Province)",
+        " Punjab",
+        " Sindh"
+    ]
+}

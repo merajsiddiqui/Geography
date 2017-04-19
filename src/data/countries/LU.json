@@ -1,0 +1,46 @@
+{
+    "Name": "Luxembourg",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Luxembourg",
+        "GeoPt": [
+            49.36,
+            6.07
+        ]
+    },
+    "GeoRectangle": {
+        "West": 5.73455524445,
+        "East": 6.52847290039,
+        "North": 50.1849479675,
+        "South": 49.4465789795
+    },
+    "SeqID": 130,
+    "GeoPt": [
+        49.45,
+        6.1
+    ],
+    "TelPref": "352",
+    "CountryCodes": {
+        "tld": "lu",
+        "iso3": "LUX",
+        "iso2": "LU",
+        "fips": "LU",
+        "isoN": 442
+    },
+    "states": [
+        " Capellen",
+        " Clervaux",
+        " Diekirch",
+        " Echternach",
+        " Esch-sur-Alzette",
+        " Grevenmacher",
+        " Luxembourg",
+        " Mersch",
+        " Redange",
+        " Remich",
+        " Vianden",
+        " Wiltz"
+    ]
+}

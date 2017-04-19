@@ -1,0 +1,32 @@
+{
+    "Name": "Mayotte",
+    "Capital": {
+        "DLST": "null",
+        "TD": 3,
+        "Flg": 2,
+        "Name": "Mamoudzou",
+        "GeoPt": [
+            -12.46,
+            45.13
+        ]
+    },
+    "GeoRectangle": {
+        "West": 45.0379524231,
+        "East": 45.2929573059,
+        "North": -12.6488895416,
+        "South": -13.0001335144
+    },
+    "SeqID": 237,
+    "GeoPt": [
+        -12.5,
+        45.1
+    ],
+    "TelPref": "262",
+    "CountryCodes": {
+        "tld": "yt",
+        "iso3": "MYT",
+        "iso2": "YT",
+        "fips": "MF",
+        "isoN": 175
+    }
+}

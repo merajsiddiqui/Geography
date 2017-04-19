@@ -1,0 +1,52 @@
+{
+    "Name": "Burundi",
+    "Capital": {
+        "DLST": "null",
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Bujumbura",
+        "GeoPt": [
+            -3.22,
+            29.21
+        ]
+    },
+    "GeoRectangle": {
+        "West": 28.993057251,
+        "East": 30.8477325439,
+        "North": -2.31012272835,
+        "South": -4.46571350098
+    },
+    "SeqID": 24,
+    "GeoPt": [
+        -3.3,
+        30
+    ],
+    "TelPref": "257",
+    "CountryCodes": {
+        "tld": "bi",
+        "iso3": "BDI",
+        "iso2": "BI",
+        "fips": "BY",
+        "isoN": 108
+    },
+    "states": [
+        "Bubanza",
+        "Bujumbura Mairie",
+        "Bujumbura Rural",
+        "Bururi",
+        "Cankuzo",
+        "Cibitoke",
+        "Gitega",
+        "Karuzi",
+        "Kayanza",
+        "Kirundo",
+        "Makamba",
+        "Muramvya",
+        "Muyinga",
+        "Mwaro",
+        "Ngozi",
+        "Rumonge",
+        "Rutana",
+        "Ruyigi"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Name": "South Africa",
+    "Capital": {
+        "DLST": "null",
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Pretoria",
+        "GeoPt": [
+            -25.42,
+            28.13
+        ]
+    },
+    "GeoRectangle": {
+        "West": 16.4580173492,
+        "East": 32.8959770203,
+        "North": -22.1266098022,
+        "South": -34.8398323059
+    },
+    "SeqID": 238,
+    "GeoPt": [
+        -29,
+        24
+    ],
+    "TelPref": "27",
+    "CountryCodes": {
+        "tld": "za",
+        "iso3": "ZAF",
+        "iso2": "ZA",
+        "fips": "SF",
+        "isoN": 710
+    }
+}

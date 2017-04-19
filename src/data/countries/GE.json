@@ -1,0 +1,46 @@
+{
+    "Name": "Georgia",
+    "Capital": {
+        "DLST": "null",
+        "TD": 4,
+        "Flg": 2,
+        "Name": "T'bilisi",
+        "GeoPt": [
+            41.43,
+            44.47
+        ]
+    },
+    "GeoRectangle": {
+        "West": 40.0101318359,
+        "East": 46.7259750366,
+        "North": 43.5865020752,
+        "South": 41.0531921387
+    },
+    "SeqID": 78,
+    "GeoPt": [
+        42,
+        43.3
+    ],
+    "TelPref": "995",
+    "CountryCodes": {
+        "tld": "ge",
+        "iso3": "GEO",
+        "iso2": "GE",
+        "fips": "GG",
+        "isoN": 268
+    },
+    "states": [
+        "Guria",
+        " Imereti",
+        " Kakheti",
+        " Kvemo Kartli",
+        " Mtskheta Mtianeti",
+        " Racha-Lechkhumi and Kvemo Svaneti",
+        " Samegrelo and Zemo Svaneti",
+        " Samtskhe-Javakheti",
+        " Shida Kartli",
+        " Tbilisi",
+        " Abkhazia",
+        " Ajaria"
+    ]
+}

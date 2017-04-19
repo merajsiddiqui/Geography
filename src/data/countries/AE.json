@@ -1,0 +1,32 @@
+{
+    "Name": "United Arab Emirates",
+    "Capital": {
+        "DLST": "null",
+        "TD": 4,
+        "Flg": 2,
+        "Name": "Abu Dhabi",
+        "GeoPt": [
+            24.28,
+            54.22
+        ]
+    },
+    "GeoRectangle": {
+        "West": 51.5833244324,
+        "East": 56.3816642761,
+        "North": 26.0841617584,
+        "South": 22.6333274841
+    },
+    "SeqID": 1,
+    "GeoPt": [
+        24,
+        54
+    ],
+    "TelPref": "971",
+    "CountryCodes": {
+        "tld": "ae",
+        "iso3": "ARE",
+        "iso2": "AE",
+        "fips": "AE",
+        "isoN": 784
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "Name": "Zambia",
+    "Capital": {
+        "DLST": "null",
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Lusaka",
+        "GeoPt": [
+            -15.25,
+            28.17
+        ]
+    },
+    "GeoRectangle": {
+        "West": 21.9993686676,
+        "East": 33.7057113647,
+        "North": -8.22435855865,
+        "South": -18.0794754028
+    },
+    "SeqID": 239,
+    "GeoPt": [
+        -15,
+        30
+    ],
+    "TelPref": "260",
+    "CountryCodes": {
+        "tld": "zm",
+        "iso3": "ZMB",
+        "iso2": "ZM",
+        "fips": "ZA",
+        "isoN": 894
+    }
+}

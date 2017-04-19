@@ -1,0 +1,45 @@
+{
+    "Name": "Armenia",
+    "Capital": {
+        "DLST": 1,
+        "TD": 4,
+        "Flg": 2,
+        "Name": "Yerevan",
+        "GeoPt": [
+            40.1,
+            44.3
+        ]
+    },
+    "GeoRectangle": {
+        "West": 43.4497756958,
+        "East": 49.4783973694,
+        "North": 41.3018379211,
+        "South": 38.3970527649
+    },
+    "SeqID": 6,
+    "GeoPt": [
+        40,
+        45
+    ],
+    "TelPref": "374",
+    "CountryCodes": {
+        "tld": "am",
+        "iso3": "ARM",
+        "iso2": "AM",
+        "fips": "AM",
+        "isoN": 51
+    },
+    "states": [
+        "Aragatsotn",
+        "Ararat",
+        "Armavir",
+        "Geghark'unik'",
+        "Kotayk'",
+        "Lorri",
+        "Shirak",
+        "Syunik'",
+        "Tavush",
+        "Vayots' Dzor",
+        "Yerevan"
+    ]
+}

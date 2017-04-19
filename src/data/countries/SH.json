@@ -1,0 +1,32 @@
+{
+    "Name": "Saint Helena Ascension and Tristan da Cunha",
+    "Capital": {
+        "DLST": "null",
+        "TD": 0,
+        "Flg": 2,
+        "Name": "Jamestown",
+        "GeoPt": [
+            -15.56,
+            -5.44
+        ]
+    },
+    "GeoRectangle": {
+        "West": -14.4212312698,
+        "East": -5.63875246048,
+        "North": -7.88781452179,
+        "South": -16.0195465088
+    },
+    "SeqID": 193,
+    "GeoPt": [
+        -15.57,
+        -5.42
+    ],
+    "TelPref": "290",
+    "CountryCodes": {
+        "tld": "sh",
+        "iso3": "SHN",
+        "iso2": "SH",
+        "fips": "SH",
+        "isoN": 654
+    }
+}

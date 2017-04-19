@@ -1,0 +1,41 @@
+{
+    "Name": "Comoros",
+    "Capital": {
+        "DLST": "null",
+        "TD": 3,
+        "Flg": 2,
+        "Name": "Moroni",
+        "GeoPt": [
+            -11.42,
+            43.14
+        ]
+    },
+    "GeoRectangle": {
+        "West": 43.2157859802,
+        "East": 44.5382270813,
+        "North": -11.3623800278,
+        "South": -12.3878583908
+    },
+    "SeqID": 115,
+    "GeoPt": [
+        -12.1,
+        44.15
+    ],
+    "TelPref": "269",
+    "CountryCodes": {
+        "tld": "km",
+        "iso3": "COM",
+        "iso2": "KM",
+        "fips": "CN",
+        "isoN": 174
+    },
+    "states": [
+        " Anjouan (Ndzuwani)",
+        " Domoni*",
+        " Fomboni*",
+        " Grande Comore (N'gazidja)",
+        " Moheli (Mwali)",
+        " Moroni*",
+        " Moutsamoudou*"
+    ]
+}

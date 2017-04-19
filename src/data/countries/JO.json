@@ -1,0 +1,46 @@
+{
+    "Name": "Jordan",
+    "Capital": {
+        "DLST": 1,
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Amman",
+        "GeoPt": [
+            31.57,
+            35.56
+        ]
+    },
+    "GeoRectangle": {
+        "West": 34.9599914551,
+        "East": 39.3011741638,
+        "North": 33.3676719666,
+        "South": 29.1858844757
+    },
+    "SeqID": 109,
+    "GeoPt": [
+        31,
+        36
+    ],
+    "TelPref": "962",
+    "CountryCodes": {
+        "tld": "jo",
+        "iso3": "JOR",
+        "iso2": "JO",
+        "fips": "JO",
+        "isoN": 400
+    },
+    "states": [
+        " 'Ajlun",
+        " Al 'Aqabah",
+        " Al Balqa'",
+        " Al Karak",
+        " Al Mafraq",
+        " Al'Asimah",
+        " At Tafilah",
+        " Az Zarqa'",
+        " Irbid",
+        " Jarash",
+        " Ma'an",
+        " Ma'daba"
+    ]
+}

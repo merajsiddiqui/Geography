@@ -1,0 +1,23 @@
+{
+    "Name": "Ukraine",
+    "Capital": null,
+    "GeoRectangle": {
+        "West": 22.1288852692,
+        "East": 40.2073974609,
+        "North": 52.3693695068,
+        "South": 44.3904075623
+    },
+    "SeqID": 222,
+    "GeoPt": [
+        49,
+        32
+    ],
+    "TelPref": "380",
+    "CountryCodes": {
+        "tld": "ua",
+        "iso3": "UKR",
+        "iso2": "UA",
+        "fips": "UP",
+        "isoN": 804
+    }
+}

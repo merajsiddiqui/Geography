@@ -1,0 +1,32 @@
+{
+    "Name": "Netherlands Antilles",
+    "Capital": {
+        "DLST": "null",
+        "TD": -4,
+        "Flg": 2,
+        "Name": "Willemstad",
+        "GeoPt": [
+            12.06,
+            -68.56
+        ]
+    },
+    "GeoRectangle": {
+        "West": -69.1572189331,
+        "East": -68.1922988892,
+        "North": 12.3856735229,
+        "South": 12.0171480179
+    },
+    "SeqID": 7,
+    "GeoPt": [
+        12.12,
+        -68.15
+    ],
+    "TelPref": "599",
+    "CountryCodes": {
+        "tld": "an",
+        "iso3": "ANT",
+        "iso2": "AN",
+        "fips": "NT",
+        "isoN": 530
+    }
+}

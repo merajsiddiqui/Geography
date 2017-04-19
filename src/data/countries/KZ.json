@@ -1,0 +1,50 @@
+{
+    "Name": "Kazakhstan",
+    "Capital": {
+        "DLST": "null",
+        "TD": 6,
+        "Flg": 2,
+        "Name": "Astana",
+        "GeoPt": [
+            51.1,
+            71.25
+        ]
+    },
+    "GeoRectangle": {
+        "West": 46.4918518066,
+        "East": 87.3126831055,
+        "North": 55.4512023926,
+        "South": 40.9363288879
+    },
+    "SeqID": 121,
+    "GeoPt": [
+        48,
+        68
+    ],
+    "TelPref": "7",
+    "CountryCodes": {
+        "tld": "kz",
+        "iso3": "KAZ",
+        "iso2": "KZ",
+        "fips": "KZ",
+        "isoN": 398
+    },
+    "states": [
+        " Almaty (Taldyqorghan)",
+        " Almaty*",
+        " Aqmola (Kokshetau)",
+        " Aqtobe",
+        " Astana*",
+        " Atyrau",
+        " Batys Qazaqstan [West Kazakhstan] (Oral)",
+        " Mangghystau (Aqtau)",
+        " Ongtustik Qazaqstan [South Kazakhstan] (Shymkent)",
+        " Pavlodar",
+        " Qaraghandy",
+        " Qostanay",
+        " Qyzylorda",
+        " Shyghys Qazaqstan [East Kazakhstan] (Oskemen)",
+        " Soltustik Qazaqstan [North Kazakhstan] (Petropavl)",
+        " Zhambyl (Taraz)"
+    ]
+}

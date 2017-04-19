@@ -1,0 +1,32 @@
+{
+    "Name": "Uzbekistan",
+    "Capital": {
+        "DLST": "null",
+        "TD": 5,
+        "Flg": 2,
+        "Name": "Tashkent",
+        "GeoPt": [
+            41.2,
+            69.18
+        ]
+    },
+    "GeoRectangle": {
+        "West": 55.9966316223,
+        "East": 73.1322860718,
+        "North": 45.5750083923,
+        "South": 37.1844367981
+    },
+    "SeqID": 226,
+    "GeoPt": [
+        41,
+        64
+    ],
+    "TelPref": "998",
+    "CountryCodes": {
+        "tld": "uz",
+        "iso3": "UZB",
+        "iso2": "UZ",
+        "fips": "UZ",
+        "isoN": 860
+    }
+}

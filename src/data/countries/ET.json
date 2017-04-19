@@ -1,0 +1,33 @@
+{
+    "Name": "Ethiopia",
+    "Capital": {
+        "DLST": "null",
+        "TD": 3,
+        "Flg": 2,
+        "Name": "Addis Ababa",
+        "GeoPt": [
+            9.02,
+            38.42
+        ]
+    },
+    "GeoRectangle": {
+        "West": 32.9999351501,
+        "East": 47.9861831665,
+        "North": 14.8937511444,
+        "South": 3.40242171288
+    },
+    "SeqID": 67,
+    "GeoPt": [
+        8,
+        38
+    ],
+    "TelPref": "251",
+    "CountryCodes": {
+        "tld": "et",
+        "iso3": "ETH",
+        "iso2": "ET",
+        "fips": "ET",
+        "isoN": 231
+    },
+    "states": null
+}

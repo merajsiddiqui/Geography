@@ -1,0 +1,35 @@
+{
+    "Name": "Faroe Islands",
+    "Capital": {
+        "DLST": 1,
+        "TD": 0,
+        "Flg": 2,
+        "Name": "Torshavn",
+        "GeoPt": [
+            62.01,
+            -6.46
+        ]
+    },
+    "GeoRectangle": {
+        "West": -7.45800065994,
+        "East": -6.39958238602,
+        "North": 62.4007530212,
+        "South": 61.3949356079
+    },
+    "SeqID": 73,
+    "GeoPt": [
+        62,
+        -7
+    ],
+    "TelPref": "298",
+    "CountryCodes": {
+        "tld": "fo",
+        "iso3": "FRO",
+        "iso2": "FO",
+        "fips": "FO",
+        "isoN": 234
+    },
+    "states": [
+        " self-governing overseas administrative division of Denmark"
+    ]
+}

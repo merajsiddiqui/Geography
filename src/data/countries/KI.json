@@ -1,0 +1,62 @@
+{
+    "Name": "Kiribati",
+    "Capital": {
+        "DLST": "null",
+        "TD": 12,
+        "Flg": 2,
+        "Name": "Tarawa",
+        "GeoPt": [
+            1.19,
+            172.58
+        ]
+    },
+    "GeoRectangle": {
+        "West": 172.955215454,
+        "East": -151.803863525,
+        "North": 1.94877815247,
+        "South": -11.4370393753
+    },
+    "SeqID": 114,
+    "GeoPt": [
+        1.25,
+        173
+    ],
+    "TelPref": "686",
+    "CountryCodes": {
+        "tld": "ki",
+        "iso3": "KIR",
+        "iso2": "KI",
+        "fips": "KR",
+        "isoN": 296
+    },
+    "states": [
+        "there are no first-order administrative divisions",
+        "Gilbert Islands",
+        " Line Islands",
+        " Phoenix Islands",
+        " Abaiang",
+        " Abemama",
+        " Aranuka",
+        " Arorae",
+        " Banaba",
+        " Beru",
+        " Butaritari",
+        " Kanton",
+        " Kiritimati",
+        " Kuria",
+        " Maiana",
+        " Makin",
+        " Marakei",
+        " Nikunau",
+        " Nonouti",
+        " Onotoa",
+        " Tabiteuea",
+        " Tabuaeran",
+        " Tamana",
+        " Tarawa",
+        " Teraina",
+        " Central Gilberts",
+        " Northern Gilberts",
+        " Southern Gilberts"
+    ]
+}

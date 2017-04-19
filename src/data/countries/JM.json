@@ -1,0 +1,48 @@
+{
+    "Name": "Jamaica",
+    "Capital": {
+        "DLST": "null",
+        "TD": -5,
+        "Flg": 2,
+        "Name": "Kingston",
+        "GeoPt": [
+            18,
+            -76.48
+        ]
+    },
+    "GeoRectangle": {
+        "West": -78.366645813,
+        "East": -76.1803131104,
+        "North": 18.5269794464,
+        "South": 17.7035503387
+    },
+    "SeqID": 108,
+    "GeoPt": [
+        18.15,
+        -77.3
+    ],
+    "TelPref": "1 876",
+    "CountryCodes": {
+        "tld": "jm",
+        "iso3": "JAM",
+        "iso2": "JM",
+        "fips": "JM",
+        "isoN": 388
+    },
+    "states": [
+        " Clarendon",
+        " Hanover",
+        " Kingston",
+        " Manchester",
+        " Portland",
+        " Saint Andrew",
+        " Saint Ann",
+        " Saint Catherine",
+        " Saint Elizabeth",
+        " Saint James",
+        " Saint Mary",
+        " Saint Thomas",
+        " Trelawny",
+        " Westmoreland"
+    ]
+}

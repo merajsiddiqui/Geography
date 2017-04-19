@@ -1,0 +1,32 @@
+{
+    "Name": "Timor-Leste",
+    "Capital": {
+        "DLST": "null",
+        "TD": 9,
+        "Flg": 2,
+        "Name": "Dili",
+        "GeoPt": [
+            -8.35,
+            125.36
+        ]
+    },
+    "GeoRectangle": {
+        "West": 124.046089172,
+        "East": 127.308601379,
+        "North": -8.13583278656,
+        "South": -9.46362781525
+    },
+    "SeqID": 213,
+    "GeoPt": [
+        -8.5,
+        125.55
+    ],
+    "TelPref": "670",
+    "CountryCodes": {
+        "tld": "tl",
+        "iso3": "TLS",
+        "iso2": "TL",
+        "fips": "TT",
+        "isoN": 626
+    }
+}

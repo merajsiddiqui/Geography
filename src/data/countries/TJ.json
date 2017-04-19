@@ -1,0 +1,32 @@
+{
+    "Name": "Tajikistan",
+    "Capital": {
+        "DLST": "null",
+        "TD": 5,
+        "Flg": 2,
+        "Name": "Dushanbe",
+        "GeoPt": [
+            38.35,
+            68.48
+        ]
+    },
+    "GeoRectangle": {
+        "West": 67.3871231079,
+        "East": 75.1372299194,
+        "North": 41.0422592163,
+        "South": 36.6741294861
+    },
+    "SeqID": 211,
+    "GeoPt": [
+        39,
+        71
+    ],
+    "TelPref": "992",
+    "CountryCodes": {
+        "tld": "tj",
+        "iso3": "TJK",
+        "iso2": "TJ",
+        "fips": "TI",
+        "isoN": 762
+    }
+}

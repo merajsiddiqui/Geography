@@ -1,0 +1,32 @@
+{
+    "Name": "Trinidad and Tobago",
+    "Capital": {
+        "DLST": "null",
+        "TD": -4,
+        "Flg": 2,
+        "Name": "Port-of-Spain",
+        "GeoPt": [
+            10.39,
+            -61.31
+        ]
+    },
+    "GeoRectangle": {
+        "West": -61.9237785339,
+        "East": -60.5179290771,
+        "North": 11.3383436203,
+        "South": 10.0361032486
+    },
+    "SeqID": 218,
+    "GeoPt": [
+        11,
+        -61
+    ],
+    "TelPref": "1 868",
+    "CountryCodes": {
+        "tld": "tt",
+        "iso3": "TTO",
+        "iso2": "TT",
+        "fips": "TD",
+        "isoN": 780
+    }
+}

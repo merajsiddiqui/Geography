@@ -1,0 +1,44 @@
+{
+    "Name": "Cameroon",
+    "Capital": {
+        "DLST": "null",
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Yaounde",
+        "GeoPt": [
+            3.52,
+            11.31
+        ]
+    },
+    "GeoRectangle": {
+        "West": 8.49476146698,
+        "East": 16.1921195984,
+        "North": 13.0780572891,
+        "South": 1.6525478363
+    },
+    "SeqID": 46,
+    "GeoPt": [
+        6,
+        12
+    ],
+    "TelPref": "237",
+    "CountryCodes": {
+        "tld": "cm",
+        "iso3": "CMR",
+        "iso2": "CM",
+        "fips": "CM",
+        "isoN": 120
+    },
+    "states": [
+        " Adamaoua",
+        " Centre",
+        " East (Est)",
+        " Far North (Extreme-Nord)",
+        " Littoral",
+        " North (Nord)",
+        " North-West (Nord-Ouest)",
+        " West (Ouest)",
+        " South (Sud)",
+        " South-West (Sud-Ouest)"
+    ]
+}

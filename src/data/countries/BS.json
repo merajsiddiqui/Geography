@@ -1,0 +1,65 @@
+{
+    "Name": "Bahamas",
+    "Capital": {
+        "DLST": 1,
+        "TD": -5,
+        "Flg": 2,
+        "Name": "Nassau",
+        "GeoPt": [
+            25.05,
+            -77.21
+        ]
+    },
+    "GeoRectangle": {
+        "West": -78.9959259033,
+        "East": -74.423866272,
+        "North": 26.9192466736,
+        "South": 22.8527393341
+    },
+    "SeqID": 31,
+    "GeoPt": [
+        24.15,
+        -76
+    ],
+    "TelPref": "1 242",
+    "CountryCodes": {
+        "tld": "bs",
+        "iso3": "BHS",
+        "iso2": "BS",
+        "fips": "BF",
+        "isoN": 44
+    },
+    "states": [
+        "Acklins Islands",
+        "Berry Islands",
+        "Bimini",
+        "Black Point",
+        "Cat Island",
+        "Central Abaco",
+        "Central Andros",
+        "Central Eleuthera",
+        "City of Freeport",
+        "Crooked Island and Long Cay",
+        "East Grand Bahama",
+        "Exuma",
+        "Grand Cay",
+        "Harbour Island",
+        "Hope Town",
+        "Inagua",
+        "Long Island",
+        "Mangrove Cay",
+        "Mayaguana",
+        "Moore's Island",
+        "North Abaco",
+        "North Andros",
+        "North Eleuthera",
+        "Ragged Island",
+        "Rum Cay",
+        "San Salvador",
+        "South Abaco",
+        "South Andros",
+        "South Eleuthera",
+        "Spanish Wells",
+        "West Grand Bahama"
+    ]
+}

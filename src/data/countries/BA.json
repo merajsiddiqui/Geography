@@ -1,0 +1,37 @@
+{
+    "Name": "Bosnia and Herzegovina",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Sarajevo",
+        "GeoPt": [
+            43.52,
+            18.25
+        ]
+    },
+    "GeoRectangle": {
+        "West": 15.7189435959,
+        "East": 19.6222267151,
+        "North": 45.239200592,
+        "South": 42.5461044312
+    },
+    "SeqID": 17,
+    "GeoPt": [
+        44,
+        18
+    ],
+    "TelPref": "387",
+    "CountryCodes": {
+        "tld": "ba",
+        "iso3": "BIH",
+        "iso2": "BA",
+        "fips": "BK",
+        "isoN": 70
+    },
+    "states" : [
+        "Bosniak-Croat",
+        "Republika Srpska",
+        "Brcko District"
+    ]
+}

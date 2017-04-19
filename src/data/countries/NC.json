@@ -1,0 +1,37 @@
+{
+    "Name": "New Caledonia",
+    "Capital": {
+        "DLST": "null",
+        "TD": 11,
+        "Flg": 2,
+        "Name": "Noumea",
+        "GeoPt": [
+            -22.16,
+            166.27
+        ]
+    },
+    "GeoRectangle": {
+        "West": 163.564651489,
+        "East": 168.129150391,
+        "North": -19.5497760773,
+        "South": -22.6980037689
+    },
+    "SeqID": 156,
+    "GeoPt": [
+        -21.3,
+        165.3
+    ],
+    "TelPref": "687",
+    "CountryCodes": {
+        "tld": "nc",
+        "iso3": "NCL",
+        "iso2": "NC",
+        "fips": "NC",
+        "isoN": 540
+    },
+    "states": [
+        " Province Iles (Islands Province)",
+        " Province Nord (North Province)",
+        " and Province Sud (South Province)"
+    ]
+}

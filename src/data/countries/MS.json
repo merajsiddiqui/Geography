@@ -1,0 +1,37 @@
+{
+    "Name": "Montserrat",
+    "Capital": {
+        "DLST": "null",
+        "TD": -4,
+        "Flg": 2,
+        "Name": "Plymouth",
+        "GeoPt": [
+            16.42,
+            -62.13
+        ]
+    },
+    "GeoRectangle": {
+        "West": -62.2425880432,
+        "East": -62.1464157104,
+        "North": 16.8173313141,
+        "South": 16.6710033417
+    },
+    "SeqID": 147,
+    "GeoPt": [
+        16.45,
+        -62.12
+    ],
+    "TelPref": "1 664",
+    "CountryCodes": {
+        "tld": "ms",
+        "iso3": "MSR",
+        "iso2": "MS",
+        "fips": "MH",
+        "isoN": 500
+    },
+    "states": [
+        " Saint Anthony",
+        " Saint Georges",
+        " Saint Peter"
+    ]
+}

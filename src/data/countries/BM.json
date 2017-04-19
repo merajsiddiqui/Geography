@@ -1,0 +1,45 @@
+{
+    "Name": "Bermuda",
+    "Capital": {
+        "DLST": 1,
+        "TD": -4,
+        "Flg": 2,
+        "Name": "Hamilton",
+        "GeoPt": [
+            32.17,
+            -64.47
+        ]
+    },
+    "GeoRectangle": {
+        "West": -64.8960647583,
+        "East": -64.6519851685,
+        "North": 32.3790092468,
+        "South": 32.2466316223
+    },
+    "SeqID": 27,
+    "GeoPt": [
+        32.2,
+        -64.45
+    ],
+    "TelPref": "1 441",
+    "CountryCodes": {
+        "tld": "bm",
+        "iso3": "BMU",
+        "iso2": "BM",
+        "fips": "BD",
+        "isoN": 60
+    },
+    "states": [
+        "Devonshire",
+        "Hamilton",
+        "Hamilton*",
+        "Paget",
+        "Pembroke",
+        "Saint George*",
+        "Saint George's",
+        "Sandys",
+        "Smith's",
+        "Southampton",
+        "Warwick"
+    ]
+}

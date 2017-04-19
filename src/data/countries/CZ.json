@@ -1,0 +1,32 @@
+{
+    "Name": "Czech Republic",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Prague",
+        "GeoPt": [
+            50.05,
+            14.28
+        ]
+    },
+    "GeoRectangle": {
+        "West": 12.09370327,
+        "East": 18.8522205353,
+        "North": 51.0536079407,
+        "South": 48.5813751221
+    },
+    "SeqID": 54,
+    "GeoPt": [
+        49.45,
+        15.3
+    ],
+    "TelPref": "420",
+    "CountryCodes": {
+        "tld": "cz",
+        "iso3": "CZE",
+        "iso2": "CZ",
+        "fips": "EZ",
+        "isoN": 203
+    }
+}

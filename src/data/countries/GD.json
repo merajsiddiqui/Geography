@@ -1,0 +1,41 @@
+{
+    "Name": "Grenada",
+    "Capital": {
+        "DLST": "null",
+        "TD": -4,
+        "Flg": 2,
+        "Name": "Saint George's",
+        "GeoPt": [
+            12.03,
+            -61.45
+        ]
+    },
+    "GeoRectangle": {
+        "West": -61.7999801636,
+        "East": -61.5738258362,
+        "North": 12.319396019,
+        "South": 11.9923725128
+    },
+    "SeqID": 77,
+    "GeoPt": [
+        12.07,
+        -61.4
+    ],
+    "TelPref": "1 473",
+    "CountryCodes": {
+        "tld": "gd",
+        "iso3": "GRD",
+        "iso2": "GD",
+        "fips": "GJ",
+        "isoN": 308
+    },
+    "states": [
+        " Carriacou and Petite Martinique*",
+        " Saint Andrew",
+        " Saint David",
+        " Saint George",
+        " Saint John",
+        " Saint Mark",
+        " Saint Patrick"
+    ]
+}

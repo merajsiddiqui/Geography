@@ -1,0 +1,50 @@
+{
+    "Name": "Germany",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Berlin",
+        "GeoPt": [
+            52.31,
+            13.24
+        ]
+    },
+    "GeoRectangle": {
+        "West": 5.86563825607,
+        "East": 15.0398902893,
+        "North": 55.0556411743,
+        "South": 47.2757720947
+    },
+    "SeqID": 55,
+    "GeoPt": [
+        51,
+        9
+    ],
+    "TelPref": "49",
+    "CountryCodes": {
+        "tld": "de",
+        "iso3": "DEU",
+        "iso2": "DE",
+        "fips": "GM",
+        "isoN": 276
+    },
+    "states": [
+        " Baden-Wuerttemberg",
+        " Bayern (Bavaria)",
+        " Berlin",
+        " Brandenburg",
+        " Bremen",
+        " Hamburg",
+        " Hessen (Hesse)",
+        " Mecklenburg-Vorpommern (Mecklenburg-Western Pomerania)",
+        " Niedersachsen (Lower Saxony)",
+        " Nordrhein-Westfalen (North Rhine-Westphalia)",
+        " Rheinland-Pfalz (Rhineland-Palatinate)",
+        " Saarland",
+        " Sachsen (Saxony)",
+        " Sachsen-Anhalt (Saxony-Anhalt)",
+        " Schleswig-Holstein",
+        " Thueringen (Thuringia)"
+    ]
+}

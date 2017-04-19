@@ -1,0 +1,32 @@
+{
+    "Name": "Syria",
+    "Capital": {
+        "DLST": 1,
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Damascus",
+        "GeoPt": [
+            33.3,
+            36.18
+        ]
+    },
+    "GeoRectangle": {
+        "West": 35.7272148132,
+        "East": 42.3850364685,
+        "North": 37.3191452026,
+        "South": 32.3106575012
+    },
+    "SeqID": 204,
+    "GeoPt": [
+        35,
+        38
+    ],
+    "TelPref": "963",
+    "CountryCodes": {
+        "tld": "sy",
+        "iso3": "SYR",
+        "iso2": "SY",
+        "fips": "SY",
+        "isoN": 760
+    }
+}

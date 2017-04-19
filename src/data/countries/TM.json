@@ -1,0 +1,32 @@
+{
+    "Name": "Turkmenistan",
+    "Capital": {
+        "DLST": "null",
+        "TD": 5,
+        "Flg": 2,
+        "Name": "Ashgabat",
+        "GeoPt": [
+            37.57,
+            58.23
+        ]
+    },
+    "GeoRectangle": {
+        "West": 46.6846046448,
+        "East": 66.6843109131,
+        "North": 47.0156173706,
+        "South": 35.141078949
+    },
+    "SeqID": 214,
+    "GeoPt": [
+        40,
+        60
+    ],
+    "TelPref": "993",
+    "CountryCodes": {
+        "tld": "tm",
+        "iso3": "TKM",
+        "iso2": "TM",
+        "fips": "TX",
+        "isoN": 795
+    }
+}

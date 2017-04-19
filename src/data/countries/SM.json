@@ -1,0 +1,32 @@
+{
+    "Name": "San Marino",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "San Marino",
+        "GeoPt": [
+            43.56,
+            12.25
+        ]
+    },
+    "GeoRectangle": {
+        "West": 12.4018592834,
+        "East": 12.5155563354,
+        "North": 43.9998092651,
+        "South": 43.8979110718
+    },
+    "SeqID": 198,
+    "GeoPt": [
+        43.46,
+        12.25
+    ],
+    "TelPref": "378",
+    "CountryCodes": {
+        "tld": "sm",
+        "iso3": "SMR",
+        "iso2": "SM",
+        "fips": "SM",
+        "isoN": 674
+    }
+}

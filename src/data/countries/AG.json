@@ -1,0 +1,42 @@
+{
+    "Name": "Antigua and Barbuda",
+    "Capital": {
+        "DLST": "null",
+        "TD": -4,
+        "Flg": 2,
+        "Name": "Saint John's",
+        "GeoPt": [
+            17.07,
+            -61.51
+        ]
+    },
+    "GeoRectangle": {
+        "West": -61.9064292908,
+        "East": -61.672416687,
+        "North": 17.7293891907,
+        "South": 16.9969768524
+    },
+    "SeqID": 3,
+    "GeoPt": [
+        17.03,
+        -61.48
+    ],
+    "TelPref": "1 268",
+    "CountryCodes": {
+        "tld": "ag",
+        "iso3": "ATG",
+        "iso2": "AG",
+        "fips": "AC",
+        "isoN": 28
+    },
+    "states": [
+        "Barbuda*",
+        "Redonda*",
+        "Saint George",
+        "Saint John",
+        "Saint Mary",
+        "Saint Paul",
+        "Saint Peter",
+        "Saint Philip"
+    ]
+}

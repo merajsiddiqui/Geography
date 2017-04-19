@@ -1,0 +1,42 @@
+{
+    "Name": "Iceland",
+    "Capital": {
+        "DLST": "null",
+        "TD": 0,
+        "Flg": 2,
+        "Name": "Reykjavik",
+        "GeoPt": [
+            64.09,
+            -21.57
+        ]
+    },
+    "GeoRectangle": {
+        "West": -24.5465259552,
+        "East": -13.4958133698,
+        "North": 66.5346450806,
+        "South": 63.393245697
+    },
+    "SeqID": 105,
+    "GeoPt": [
+        65,
+        -18
+    ],
+    "TelPref": "354",
+    "CountryCodes": {
+        "tld": "is",
+        "iso3": "ISL",
+        "iso2": "IS",
+        "fips": "IC",
+        "isoN": 352
+    },
+    "states": [
+        " Austurland",
+        " Hofudhborgarsvaedhi",
+        " Nordhurland Eystra",
+        " Nordhurland Vestra",
+        " Sudhurland",
+        " Sudhurnes",
+        " Vestfirdhir",
+        " Vesturland"
+    ]
+}

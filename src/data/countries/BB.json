@@ -1,0 +1,46 @@
+{
+    "Name": "Barbados",
+    "Capital": {
+        "DLST": "null",
+        "TD": -4,
+        "Flg": 2,
+        "Name": "Bridgetown",
+        "GeoPt": [
+            13.06,
+            -59.37
+        ]
+    },
+    "GeoRectangle": {
+        "West": -59.6489295959,
+        "East": -59.4203720093,
+        "North": 13.32725811,
+        "South": 13.0398426056
+    },
+    "SeqID": 18,
+    "GeoPt": [
+        13.1,
+        -59.32
+    ],
+    "TelPref": "1 246",
+    "CountryCodes": {
+        "tld": "bb",
+        "iso3": "BRB",
+        "iso2": "BB",
+        "fips": "BB",
+        "isoN": 52
+    },
+    "states": [
+        "Bridgetown*",
+        "Christ Church",
+        "Saint Andrew",
+        "Saint George",
+        "Saint James",
+        "Saint John",
+        "Saint Joseph",
+        "Saint Lucy",
+        "Saint Michael",
+        "Saint Peter",
+        "Saint Philip",
+        "Saint Thomas"
+    ]
+}

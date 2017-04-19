@@ -1,0 +1,32 @@
+{
+    "Name": "Samoa",
+    "Capital": {
+        "DLST": "null",
+        "TD": -11,
+        "Flg": 2,
+        "Name": "Apia",
+        "GeoPt": [
+            -13.5,
+            -171.44
+        ]
+    },
+    "GeoRectangle": {
+        "West": -172.798614502,
+        "East": -171.415725708,
+        "North": -13.4322052002,
+        "South": -14.0409402847
+    },
+    "SeqID": 235,
+    "GeoPt": [
+        -13.35,
+        -172.2
+    ],
+    "TelPref": "685",
+    "CountryCodes": {
+        "tld": "ws",
+        "iso3": "WSM",
+        "iso2": "WS",
+        "fips": "WS",
+        "isoN": 882
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "Name": "Central African Republic",
+    "Capital": {
+        "DLST": "null",
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Bangui",
+        "GeoPt": [
+            4.22,
+            18.35
+        ]
+    },
+    "GeoRectangle": {
+        "West": 14.4200954437,
+        "East": 27.4634246826,
+        "North": 11.0075702667,
+        "South": 2.22051358223
+    },
+    "SeqID": 40,
+    "GeoPt": [
+        7,
+        21
+    ],
+    "TelPref": "236",
+    "CountryCodes": {
+        "tld": "cf",
+        "iso3": "CAF",
+        "iso2": "CF",
+        "fips": "CT",
+        "isoN": 140
+    },
+    "states": [
+        " Bamingui-Bangoran",
+        " Bangui**",
+        " Basse-Kotto",
+        " Haute-Kotto",
+        " Haut-Mbomou",
+        " Kemo",
+        " Lobaye",
+        " Mambere-Kadei",
+        " Mbomou",
+        " Nana-Grebizi*",
+        " Nana-Mambere",
+        " Ombella-Mpoko",
+        " Ouaka",
+        " Ouham",
+        " Ouham-Pende",
+        " Sangha-Mbaere*",
+        " Vakaga"
+    ]
+}

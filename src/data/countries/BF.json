@@ -1,0 +1,47 @@
+{
+    "Name": "Burkina Faso",
+    "Capital": {
+        "DLST": "null",
+        "TD": 0,
+        "Flg": 2,
+        "Name": "Ouagadougou",
+        "GeoPt": [
+            12.22,
+            -1.31
+        ]
+    },
+    "GeoRectangle": {
+        "West": -5.5189166069,
+        "East": 2.40539526939,
+        "North": 15.0825948715,
+        "South": 9.40110683441
+    },
+    "SeqID": 21,
+    "GeoPt": [
+        13,
+        -2
+    ],
+    "TelPref": "226",
+    "CountryCodes": {
+        "tld": "bf",
+        "iso3": "BFA",
+        "iso2": "BF",
+        "fips": "UV",
+        "isoN": 854
+    },
+    "states": [
+        "Boucle du Mouhoun",
+        "Cascades",
+        "Centre",
+        "Centre-Est",
+        "Centre-Nord",
+        "Centre-Ouest",
+        "Centre-Sud",
+        "Est",
+        "Hauts-Bassins",
+        "Nord",
+        "Plateau-Central",
+        "Sahel",
+        "Sud-Ouest"
+    ]
+}

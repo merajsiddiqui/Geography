@@ -1,0 +1,32 @@
+{
+    "Name": "Saint Vincent and the Grenadines",
+    "Capital": {
+        "DLST": "null",
+        "TD": -4,
+        "Flg": 2,
+        "Name": "Kingstown",
+        "GeoPt": [
+            13.09,
+            -61.14
+        ]
+    },
+    "GeoRectangle": {
+        "West": -61.4592590332,
+        "East": -61.1138725281,
+        "North": 13.3778352737,
+        "South": 12.5810098648
+    },
+    "SeqID": 228,
+    "GeoPt": [
+        13.15,
+        -61.12
+    ],
+    "TelPref": "1 784",
+    "CountryCodes": {
+        "tld": "vc",
+        "iso3": "VCT",
+        "iso2": "VC",
+        "fips": "VC",
+        "isoN": 670
+    }
+}

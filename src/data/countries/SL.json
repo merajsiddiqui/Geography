@@ -1,0 +1,32 @@
+{
+    "Name": "Sierra Leone",
+    "Capital": {
+        "DLST": "null",
+        "TD": 0,
+        "Flg": 2,
+        "Name": "Freetown",
+        "GeoPt": [
+            8.3,
+            -13.15
+        ]
+    },
+    "GeoRectangle": {
+        "West": -13.3076324463,
+        "East": -10.284236908,
+        "North": 10.0000009537,
+        "South": 6.92961025238
+    },
+    "SeqID": 197,
+    "GeoPt": [
+        8.3,
+        -11.3
+    ],
+    "TelPref": "232",
+    "CountryCodes": {
+        "tld": "sl",
+        "iso3": "SLE",
+        "iso2": "SL",
+        "fips": "SL",
+        "isoN": 694
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "Name": "Gabon",
+    "Capital": {
+        "DLST": "null",
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Libreville",
+        "GeoPt": [
+            0.23,
+            9.27
+        ]
+    },
+    "GeoRectangle": {
+        "West": 8.69546985626,
+        "East": 14.5023488998,
+        "North": 2.32261228561,
+        "South": -3.97880625725
+    },
+    "SeqID": 75,
+    "GeoPt": [
+        -1,
+        11.45
+    ],
+    "TelPref": "241",
+    "CountryCodes": {
+        "tld": "ga",
+        "iso3": "GAB",
+        "iso2": "GA",
+        "fips": "GB",
+        "isoN": 266
+    },
+    "states": [
+        " Estuaire",
+        " Haut-Ogooue",
+        " Moyen-Ogooue",
+        " Ngounie",
+        " Nyanga",
+        " Ogooue-Ivindo",
+        " Ogooue-Lolo",
+        " Ogooue-Maritime",
+        " Woleu-Ntem"
+    ]
+}

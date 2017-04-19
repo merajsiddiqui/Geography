@@ -1,0 +1,40 @@
+{
+    "Name": "Djibouti",
+    "Capital": {
+        "DLST": "null",
+        "TD": 3,
+        "Flg": 2,
+        "Name": "Djibouti",
+        "GeoPt": [
+            11.35,
+            43.09
+        ]
+    },
+    "GeoRectangle": {
+        "West": 41.7734680176,
+        "East": 43.4169769287,
+        "North": 12.7068347931,
+        "South": 10.9099159241
+    },
+    "SeqID": 56,
+    "GeoPt": [
+        11.3,
+        43
+    ],
+    "TelPref": "253",
+    "CountryCodes": {
+        "tld": "dj",
+        "iso3": "DJI",
+        "iso2": "DJ",
+        "fips": "DJ",
+        "isoN": 262
+    },
+    "states": [
+        " Ali Sabieh",
+        " Arta",
+        " Dikhil",
+        " Djibouti",
+        " Obock",
+        " Tadjourah"
+    ]
+}

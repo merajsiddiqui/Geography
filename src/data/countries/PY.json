@@ -1,0 +1,52 @@
+{
+    "Name": "Paraguay",
+    "Capital": {
+        "DLST": "null",
+        "TD": -4,
+        "Flg": 2,
+        "Name": "Asuncion",
+        "GeoPt": [
+            -25.16,
+            -57.4
+        ]
+    },
+    "GeoRectangle": {
+        "West": -62.6470832825,
+        "East": -54.259349823,
+        "North": -19.2940387726,
+        "South": -27.6087417603
+    },
+    "SeqID": 181,
+    "GeoPt": [
+        -23,
+        -58
+    ],
+    "TelPref": "595",
+    "CountryCodes": {
+        "tld": "py",
+        "iso3": "PRY",
+        "iso2": "PY",
+        "fips": "PA",
+        "isoN": 600
+    },
+    "states": [
+        " Alto Paraguay",
+        " Alto Parana",
+        " Amambay",
+        " Asuncion*",
+        " Boqueron",
+        " Caaguazu",
+        " Caazapa",
+        " Canindeyu",
+        " Central",
+        " Concepcion",
+        " Cordillera",
+        " Guaira",
+        " Itapua",
+        " Misiones",
+        " Neembucu",
+        " Paraguari",
+        " Presidente Hayes",
+        " San Pedro"
+    ]
+}

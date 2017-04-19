@@ -1,0 +1,42 @@
+{
+    "Name": "China",
+    "Capital": {
+        "DLST": "null",
+        "TD": 8,
+        "Flg": 2,
+        "Name": "Beijing",
+        "GeoPt": [
+            39.55,
+            116.23
+        ]
+    },
+    "GeoRectangle": {
+        "West": 73.5576782227,
+        "East": 134.77394104,
+        "North": 53.5608673096,
+        "South": 15.7754144669
+    },
+    "SeqID": 47,
+    "GeoPt": [
+        35,
+        105
+    ],
+    "TelPref": "86",
+    "CountryCodes": {
+        "tld": "cn",
+        "iso3": "CHN",
+        "iso2": "CN",
+        "fips": "CH",
+        "isoN": 156
+    },
+    "states": [
+        " (see note on Taiwan)autonomous regions: Guangxi",
+        " Nei Mongol (Inner Mongolia)",
+        " Ningxia",
+        " Xinjiang Uygur",
+        " Xizang (Tibet)municipalities: Beijing",
+        " Chongqing",
+        " Shanghai",
+        " Tianjin"
+    ]
+}

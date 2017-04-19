@@ -1,0 +1,41 @@
+{
+    "Name": "Andorra",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Andorra la Vella",
+        "GeoPt": [
+            42.3,
+            1.31
+        ]
+    },
+    "GeoRectangle": {
+        "West": 1.42211079597,
+        "East": 1.78038918972,
+        "North": 42.6586990356,
+        "South": 42.4350738525
+    },
+    "SeqID": 0,
+    "GeoPt": [
+        42.3,
+        1.3
+    ],
+    "TelPref": "376",
+    "CountryCodes": {
+        "tld": "ad",
+        "iso3": "AND",
+        "iso2": "AD",
+        "fips": "AN",
+        "isoN": 20
+    },
+    "states": [
+        "Andorra la Vella",
+        "Canillo",
+        "Encamp",
+        "Escaldes-Engordany",
+        "La Massana",
+        "Ordino",
+        "Sant Julia de Loria"
+    ]
+}

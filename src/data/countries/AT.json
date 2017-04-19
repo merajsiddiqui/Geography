@@ -1,0 +1,43 @@
+{
+    "Name": "Austria",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Vienna",
+        "GeoPt": [
+            48.12,
+            16.22
+        ]
+    },
+    "GeoRectangle": {
+        "West": 9.53591442108,
+        "East": 17.1627254486,
+        "North": 49.0170631409,
+        "South": 46.3780250549
+    },
+    "SeqID": 13,
+    "GeoPt": [
+        47.2,
+        13.2
+    ],
+    "TelPref": "43",
+    "CountryCodes": {
+        "tld": "at",
+        "iso3": "AUT",
+        "iso2": "AT",
+        "fips": "AU",
+        "isoN": 40
+    },
+    "states": [
+        "Burgenland",
+        "Kaernten (Carinthia)",
+        "Niederoesterreich (Lower Austria)",
+        "Oberoesterreich (Upper Austria)",
+        "Salzburg",
+        "Steiermark (Styria)",
+        "Tirol (Tyrol)",
+        "Vorarlberg",
+        "Wien (Vienna)"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "Name": "Fiji",
+    "Capital": {
+        "DLST": "null",
+        "TD": 12,
+        "Flg": 2,
+        "Name": "Suva",
+        "GeoPt": [
+            -18.08,
+            178.25
+        ]
+    },
+    "GeoRectangle": {
+        "West": 177.129364014,
+        "East": -178.424453735,
+        "North": -12.4801092148,
+        "South": -20.6759719849
+    },
+    "SeqID": 70,
+    "GeoPt": [
+        -18,
+        175
+    ],
+    "TelPref": "679",
+    "CountryCodes": {
+        "tld": "fj",
+        "iso3": "FJI",
+        "iso2": "FJ",
+        "fips": "FJ",
+        "isoN": 242
+    },
+    "states": [
+        " Ba",
+        " Bua",
+        " Cakaudrove",
+        " Kadavu",
+        " Lau",
+        " Lomaiviti",
+        " Macuata",
+        " Nadroga and Navosa",
+        " Naitasiri",
+        " Namosi",
+        " Ra",
+        " Rewa",
+        " Rotuma*",
+        " Serua",
+        " Tailevu"
+    ]
+}

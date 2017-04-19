@@ -1,0 +1,32 @@
+{
+    "Name": "United States",
+    "Capital": {
+        "DLST": 1,
+        "TD": -5,
+        "Flg": 2,
+        "Name": "Washington, DC",
+        "GeoPt": [
+            38.53,
+            -77.02
+        ]
+    },
+    "GeoRectangle": {
+        "West": -124.733261108,
+        "East": -66.9547958374,
+        "North": 49.3886184692,
+        "South": 24.5442428589
+    },
+    "SeqID": 224,
+    "GeoPt": [
+        38,
+        -97
+    ],
+    "TelPref": "1",
+    "CountryCodes": {
+        "tld": "us",
+        "iso3": "USA",
+        "iso2": "US",
+        "fips": "US",
+        "isoN": 840
+    }
+}

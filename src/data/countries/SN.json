@@ -1,0 +1,32 @@
+{
+    "Name": "Senegal",
+    "Capital": {
+        "DLST": "null",
+        "TD": 0,
+        "Flg": 2,
+        "Name": "Dakar",
+        "GeoPt": [
+            14.4,
+            -17.26
+        ]
+    },
+    "GeoRectangle": {
+        "West": -17.535238266,
+        "East": -11.3558855057,
+        "North": 16.6916351318,
+        "South": 12.3072738647
+    },
+    "SeqID": 199,
+    "GeoPt": [
+        14,
+        -14
+    ],
+    "TelPref": "221",
+    "CountryCodes": {
+        "tld": "sn",
+        "iso3": "SEN",
+        "iso2": "SN",
+        "fips": "SG",
+        "isoN": 686
+    }
+}

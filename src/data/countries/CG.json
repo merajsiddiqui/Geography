@@ -1,0 +1,60 @@
+{
+    "Name": "Congo Republic",
+    "Capital": {
+        "DLST": "null",
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Brazzaville",
+        "GeoPt": [
+            -4.15,
+            15.17
+        ]
+    },
+    "GeoRectangle": {
+        "West": 11.2050075531,
+        "East": 18.6498413086,
+        "North": 3.70308232307,
+        "South": -5.02722358704
+    },
+    "SeqID": 41,
+    "GeoPt": [
+        -1,
+        15
+    ],
+    "TelPref": "242",
+    "CountryCodes": {
+        "tld": "cg",
+        "iso3": "COG",
+        "iso2": "CG",
+        "fips": "CF",
+        "isoN": 178
+    },
+    "states": [
+        " Bas-Uele",
+        " Equateur",
+        " Haut-Katanga",
+        " Haut-Lomami",
+        " Haut-Uele",
+        " Ituri",
+        " Kasai",
+        " Kasai-Central",
+        " Kasai-Oriental (East Kasai)",
+        " Kinshasa",
+        " Kongo Central",
+        " Kwango",
+        " Kwilu",
+        " Lomami",
+        " Lualaba",
+        " Mai-Ndombe",
+        " Maniema",
+        " Mongala",
+        " Nord-Kivu (North Kivu)",
+        " Nord-Ubangi (North Ubangi)",
+        " Sankuru",
+        " Sud-Kivu (South Kivu)",
+        " Sud-Ubangi (South Ubangi)",
+        " Tanganyika",
+        " Tshopo",
+        " Tshuapa"
+    ]
+}

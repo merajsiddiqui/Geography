@@ -1,0 +1,49 @@
+{
+    "Name": "Liberia",
+    "Capital": {
+        "DLST": "null",
+        "TD": 0,
+        "Flg": 2,
+        "Name": "Monrovia",
+        "GeoPt": [
+            6.18,
+            -10.48
+        ]
+    },
+    "GeoRectangle": {
+        "West": -11.4920845032,
+        "East": -7.36511230469,
+        "North": 8.55179214478,
+        "South": 4.35305643082
+    },
+    "SeqID": 127,
+    "GeoPt": [
+        6.3,
+        -9.3
+    ],
+    "TelPref": "231",
+    "CountryCodes": {
+        "tld": "lr",
+        "iso3": "LBR",
+        "iso2": "LR",
+        "fips": "LI",
+        "isoN": 430
+    },
+    "states": [
+        " Bomi",
+        " Bong",
+        " Gbarpolu",
+        " Grand Bassa",
+        " Grand Cape Mount",
+        " Grand Gedeh",
+        " Grand Kru",
+        " Lofa",
+        " Margibi",
+        " Maryland",
+        " Montserrado",
+        " Nimba",
+        " River Cess",
+        " River Gee",
+        " Sinoe"
+    ]
+}

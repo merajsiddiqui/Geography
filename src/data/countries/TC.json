@@ -1,0 +1,32 @@
+{
+    "Name": "Turks and Caicos Islands",
+    "Capital": {
+        "DLST": 1,
+        "TD": -5,
+        "Flg": 2,
+        "Name": "Grand Turk",
+        "GeoPt": [
+            21.28,
+            -71.08
+        ]
+    },
+    "GeoRectangle": {
+        "West": -72.4838790894,
+        "East": -71.1236343384,
+        "North": 21.9618816376,
+        "South": 21.4226226807
+    },
+    "SeqID": 206,
+    "GeoPt": [
+        21.45,
+        -71.35
+    ],
+    "TelPref": "1 649",
+    "CountryCodes": {
+        "tld": "tc",
+        "iso3": "TCA",
+        "iso2": "TC",
+        "fips": "TK",
+        "isoN": 796
+    }
+}

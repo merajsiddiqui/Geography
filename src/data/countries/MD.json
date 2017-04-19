@@ -1,0 +1,71 @@
+{
+    "Name": "Moldova",
+    "Capital": {
+        "DLST": 1,
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Chisinau",
+        "GeoPt": [
+            47,
+            28.51
+        ]
+    },
+    "GeoRectangle": {
+        "West": 26.6189403534,
+        "East": 30.1354484558,
+        "North": 48.4901733398,
+        "South": 45.4688796997
+    },
+    "SeqID": 135,
+    "GeoPt": [
+        47,
+        29
+    ],
+    "TelPref": "373",
+    "CountryCodes": {
+        "tld": "md",
+        "iso3": "MDA",
+        "iso2": "MD",
+        "fips": "MD",
+        "isoN": 498
+    },
+    "states": [
+        "Anenii Noi",
+        " Basarabeasca",
+        " Briceni",
+        " Cahul",
+        " Cantemir",
+        " Calarasi",
+        " Causeni",
+        " Cimislia",
+        " Criuleni",
+        " Donduseni",
+        " Drochia",
+        " Dubasari",
+        " Edinet",
+        " Falesti",
+        " Floresti",
+        " Glodeni",
+        " Hincesti",
+        " Ialoveni",
+        " Leova",
+        " Nisporeni",
+        " Ocnita",
+        " Orhei",
+        " Rezina",
+        " Riscani",
+        " Singerei",
+        " Soldanesti",
+        " Soroca",
+        " Stefan-Voda",
+        " Straseni",
+        " Taraclia",
+        " Telenesti",
+        " Ungheni",
+        " Balti",
+        " Bender",
+        " Chisinau",
+        " Gagauzia",
+        " Stinga Nistrului (Transnistria)"
+    ]
+}

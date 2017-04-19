@@ -1,0 +1,32 @@
+{
+    "Name": "Virgin Islands",
+    "Capital": {
+        "DLST": "null",
+        "TD": -4,
+        "Flg": 2,
+        "Name": "Charlotte Amalie",
+        "GeoPt": [
+            18.21,
+            -64.56
+        ]
+    },
+    "GeoRectangle": {
+        "West": -65.0382461548,
+        "East": -64.5651702881,
+        "North": 18.3917503357,
+        "South": 17.681722641
+    },
+    "SeqID": 231,
+    "GeoPt": [
+        18.2,
+        -64.5
+    ],
+    "TelPref": "1 340",
+    "CountryCodes": {
+        "tld": "vi",
+        "iso3": "VIR",
+        "iso2": "VI",
+        "fips": "VQ",
+        "isoN": 850
+    }
+}

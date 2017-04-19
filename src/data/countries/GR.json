@@ -1,0 +1,48 @@
+{
+    "Name": "Greece",
+    "Capital": {
+        "DLST": 1,
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Athens",
+        "GeoPt": [
+            37.59,
+            23.44
+        ]
+    },
+    "GeoRectangle": {
+        "West": 19.3744430542,
+        "East": 28.2463912964,
+        "North": 41.7574234009,
+        "South": 34.8096351624
+    },
+    "SeqID": 86,
+    "GeoPt": [
+        39,
+        22
+    ],
+    "TelPref": "30",
+    "CountryCodes": {
+        "tld": "gr",
+        "iso3": "GRC",
+        "iso2": "GR",
+        "fips": "GR",
+        "isoN": 300
+    },
+    "states": [
+        " Agion Oros* (Mount Athos)",
+        " Anatoliki Makedonia kai Thraki (East Macedonia and Thrace)",
+        " Attiki (Attica)",
+        " Dytiki Ellada (West Greece)",
+        " Dytiki Makedonia (West Macedonia)",
+        " Ionia Nisia (Ionian Islands)",
+        " Ipeiros (Epirus)",
+        " Kentriki Makedonia (Central Macedonia)",
+        " Kriti (Crete)",
+        " Notio Aigaio (South Aegean)",
+        " Peloponnisos (Peloponnese)",
+        " Sterea Ellada (Central Greece)",
+        " Thessalia (Thessaly)",
+        " Voreio Aigaio (North Aegean)"
+    ]
+}

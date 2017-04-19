@@ -1,0 +1,44 @@
+{
+    "Name": "Lesotho",
+    "Capital": {
+        "DLST": "null",
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Maseru",
+        "GeoPt": [
+            -29.19,
+            27.29
+        ]
+    },
+    "GeoRectangle": {
+        "West": 27.0290660858,
+        "East": 29.465763092,
+        "North": -28.5720558167,
+        "South": -30.6689662933
+    },
+    "SeqID": 128,
+    "GeoPt": [
+        -29.3,
+        28.3
+    ],
+    "TelPref": "266",
+    "CountryCodes": {
+        "tld": "ls",
+        "iso3": "LSO",
+        "iso2": "LS",
+        "fips": "LT",
+        "isoN": 426
+    },
+    "states": [
+        " Berea",
+        " Butha-Buthe",
+        " Leribe",
+        " Mafeteng",
+        " Maseru",
+        " Mohale's Hoek",
+        " Mokhotlong",
+        " Qacha's Nek",
+        " Quthing",
+        " Thaba-Tseka"
+    ]
+}

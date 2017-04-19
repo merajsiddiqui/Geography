@@ -1,0 +1,32 @@
+{
+    "Name": "Tanzania",
+    "Capital": {
+        "DLST": "null",
+        "TD": 3,
+        "Flg": 2,
+        "Name": "Dar es Salaam",
+        "GeoPt": [
+            -6.48,
+            39.17
+        ]
+    },
+    "GeoRectangle": {
+        "West": 29.3271656036,
+        "East": 40.4432258606,
+        "North": -0.990735888481,
+        "South": -11.7456970215
+    },
+    "SeqID": 221,
+    "GeoPt": [
+        -6,
+        35
+    ],
+    "TelPref": "255",
+    "CountryCodes": {
+        "tld": "tz",
+        "iso3": "TZA",
+        "iso2": "TZ",
+        "fips": "TZ",
+        "isoN": 834
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "Name": "Cuba",
+    "Capital": {
+        "DLST": 1,
+        "TD": -5,
+        "Flg": 2,
+        "Name": "Havana",
+        "GeoPt": [
+            23.07,
+            -82.21
+        ]
+    },
+    "GeoRectangle": {
+        "West": -84.9574432373,
+        "East": -74.1317672729,
+        "North": 23.2260456085,
+        "South": 19.8280792236
+    },
+    "SeqID": 50,
+    "GeoPt": [
+        21.3,
+        -80
+    ],
+    "TelPref": "53",
+    "CountryCodes": {
+        "tld": "cu",
+        "iso3": "CUB",
+        "iso2": "CU",
+        "fips": "CU",
+        "isoN": 192
+    },
+    "states": [
+        " Artemisa",
+        " Camaguey",
+        " Ciego de Avila",
+        " Cienfuegos",
+        " Granma",
+        " Guantanamo",
+        " Holguin",
+        " Isla de la Juventud*",
+        " La Habana",
+        " Las Tunas",
+        " Matanzas",
+        " Mayabeque",
+        " Pinar del Rio",
+        " Sancti Spiritus",
+        " Santiago de Cuba",
+        " Villa Clara"
+    ]
+}

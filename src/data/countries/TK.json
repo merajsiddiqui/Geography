@@ -1,0 +1,23 @@
+{
+    "Name": "Tokelau",
+    "Capital": null,
+    "GeoRectangle": {
+        "West": -172.500350952,
+        "East": -171.211410522,
+        "North": -8.55361270905,
+        "South": -9.38111209869
+    },
+    "SeqID": 212,
+    "GeoPt": [
+        -9,
+        -172
+    ],
+    "TelPref": "690",
+    "CountryCodes": {
+        "tld": "tk",
+        "iso3": "TKL",
+        "iso2": "TK",
+        "fips": "TL",
+        "isoN": 772
+    }
+}

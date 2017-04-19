@@ -1,0 +1,43 @@
+{
+    "Name": "Guinea-Bissau",
+    "Capital": {
+        "DLST": "null",
+        "TD": 0,
+        "Flg": 2,
+        "Name": "Bissau",
+        "GeoPt": [
+            11.51,
+            -15.35
+        ]
+    },
+    "GeoRectangle": {
+        "West": -16.7175369263,
+        "East": -13.6365203857,
+        "North": 12.6807909012,
+        "South": 10.9242639542
+    },
+    "SeqID": 89,
+    "GeoPt": [
+        12,
+        -15
+    ],
+    "TelPref": "245",
+    "CountryCodes": {
+        "tld": "gw",
+        "iso3": "GNB",
+        "iso2": "GW",
+        "fips": "PU",
+        "isoN": 624
+    },
+    "states": [
+        " Bafata",
+        " Biombo",
+        " Bissau",
+        " Bolama Bijagos",
+        " Cacheu",
+        " Gabu",
+        " Oio",
+        " Quinara",
+        " Tombali"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "Name": "Liechtenstein",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Vaduz",
+        "GeoPt": [
+            47.08,
+            9.31
+        ]
+    },
+    "GeoRectangle": {
+        "West": 9.47780323029,
+        "East": 9.63219642639,
+        "North": 47.2735328674,
+        "South": 47.0558547974
+    },
+    "SeqID": 125,
+    "GeoPt": [
+        47.16,
+        9.32
+    ],
+    "TelPref": "423",
+    "CountryCodes": {
+        "tld": "li",
+        "iso3": "LIE",
+        "iso2": "LI",
+        "fips": "LS",
+        "isoN": 438
+    },
+    "states": [
+        " Balzers",
+        " Eschen",
+        " Gamprin",
+        " Mauren",
+        " Planken",
+        " Ruggell",
+        " Schaan",
+        " Schellenberg",
+        " Triesen",
+        " Triesenberg",
+        " Vaduz"
+    ]
+}

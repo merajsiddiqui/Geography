@@ -1,0 +1,35 @@
+{
+    "Name": "Gibraltar",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Gibraltar",
+        "GeoPt": [
+            36.08,
+            -5.21
+        ]
+    },
+    "GeoRectangle": {
+        "West": -5.35725069046,
+        "East": -5.33963823318,
+        "North": 36.1598091125,
+        "South": 36.1124076843
+    },
+    "SeqID": 81,
+    "GeoPt": [
+        36.08,
+        -5.21
+    ],
+    "TelPref": "350",
+    "CountryCodes": {
+        "tld": "gi",
+        "iso3": "GIB",
+        "iso2": "GI",
+        "fips": "GI",
+        "isoN": 292
+    },
+    "states": [
+        "none (overseas territory of the UK)"
+    ]
+}

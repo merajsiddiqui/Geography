@@ -1,0 +1,59 @@
+{
+    "Name": "Cambodia",
+    "Capital": {
+        "DLST": "null",
+        "TD": 7,
+        "Flg": 2,
+        "Name": "Phnom Penh",
+        "GeoPt": [
+            11.33,
+            104.55
+        ]
+    },
+    "GeoRectangle": {
+        "West": 102.339981079,
+        "East": 107.627738953,
+        "North": 14.6864185333,
+        "South": 10.409081459
+    },
+    "SeqID": 113,
+    "GeoPt": [
+        13,
+        105
+    ],
+    "TelPref": "855",
+    "CountryCodes": {
+        "tld": "kh",
+        "iso3": "KHM",
+        "iso2": "KH",
+        "fips": "CB",
+        "isoN": 116
+    },
+    "states": [
+        "Banteay Meanchey",
+        " Battambang",
+        " Kampong Cham",
+        " Kampong Chhnang",
+        " Kampong Speu",
+        " Kampong Thom",
+        " Kampot",
+        " Kandal",
+        " Kep",
+        " Koh Kong",
+        " Kratie",
+        " Mondolkiri",
+        " Oddar Meanchey",
+        " Pailin",
+        " Preah Vihear",
+        " Prey Veng",
+        " Pursat",
+        " Ratanakiri",
+        " Siem Reap",
+        " Sihanoukville",
+        " Stung Treng",
+        " Svay Rieng",
+        " Takeo",
+        " Tbong Khmum",
+        " Phnom Penh (Phnum Penh)"
+    ]
+}

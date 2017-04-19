@@ -1,0 +1,51 @@
+{
+    "Name": "Nicaragua",
+    "Capital": {
+        "DLST": "null",
+        "TD": -6,
+        "Flg": 2,
+        "Name": "Managua",
+        "GeoPt": [
+            12.09,
+            -86.17
+        ]
+    },
+    "GeoRectangle": {
+        "West": -87.690322876,
+        "East": -82.73828125,
+        "North": 15.0259103775,
+        "South": 10.7075414658
+    },
+    "SeqID": 160,
+    "GeoPt": [
+        13,
+        -85
+    ],
+    "TelPref": "505",
+    "CountryCodes": {
+        "tld": "ni",
+        "iso3": "NIC",
+        "iso2": "NI",
+        "fips": "NU",
+        "isoN": 558
+    },
+    "states": [
+        " Boaco",
+        " Carazo",
+        " Chinandega",
+        " Chontales",
+        " Costa Caribe Norte*",
+        " Costa Caribe Sur*",
+        " Esteli",
+        " Granada",
+        " Jinotega",
+        " Leon",
+        " Madriz",
+        " Managua",
+        " Masaya",
+        " Matagalpa",
+        " Nueva Segovia",
+        " Rio San Juan",
+        " Rivas"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Name": "French Polynesia",
+    "Capital": {
+        "DLST": "null",
+        "TD": -10,
+        "Flg": 2,
+        "Name": "Papeete",
+        "GeoPt": [
+            -17.32,
+            -149.34
+        ]
+    },
+    "GeoRectangle": {
+        "West": -152.877197266,
+        "East": -134.92980957,
+        "North": -7.90357208252,
+        "South": -27.6535739899
+    },
+    "SeqID": 170,
+    "GeoPt": [
+        -15,
+        -140
+    ],
+    "TelPref": "689",
+    "CountryCodes": {
+        "tld": "pf",
+        "iso3": "PYF",
+        "iso2": "PF",
+        "fips": "FP",
+        "isoN": 258
+    },
+    "states": [
+        "\nIles Australes",
+        " Iles du Vent",
+        " Iles Marquises",
+        " Iles Sous-le-Vent",
+        " Iles Tuamotu-Gambier"
+    ]
+}

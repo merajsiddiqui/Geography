@@ -1,0 +1,46 @@
+{
+    "Name": "Albania",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Tirana",
+        "GeoPt": [
+            41.19,
+            19.49
+        ]
+    },
+    "GeoRectangle": {
+        "West": 19.2939682007,
+        "East": 21.0684757233,
+        "North": 42.6656150818,
+        "South": 39.6483535767
+    },
+    "SeqID": 5,
+    "GeoPt": [
+        41,
+        20
+    ],
+    "TelPref": "355",
+    "CountryCodes": {
+        "tld": "al",
+        "iso3": "ALB",
+        "iso2": "AL",
+        "fips": "AL",
+        "isoN": 8
+    },
+    "states": [
+        " Berat",
+        " Diber",
+        " Durres",
+        " Elbasan",
+        " Fier",
+        " Gjirokaster",
+        " Korce",
+        " Kukes",
+        " Lezhe",
+        " Shkoder",
+        " Tirane",
+        " Vlore"
+    ]
+}

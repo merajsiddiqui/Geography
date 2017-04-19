@@ -1,0 +1,50 @@
+{
+    "Name": "Palau",
+    "Capital": {
+        "DLST": "null",
+        "TD": 9,
+        "Flg": 2,
+        "Name": "Melekeok",
+        "GeoPt": [
+            7.29,
+            134.38
+        ]
+    },
+    "GeoRectangle": {
+        "West": 134.123199463,
+        "East": 134.6537323,
+        "North": 7.73211193085,
+        "South": 6.88627719879
+    },
+    "SeqID": 180,
+    "GeoPt": [
+        7.3,
+        134.3
+    ],
+    "TelPref": "680",
+    "CountryCodes": {
+        "tld": "pw",
+        "iso3": "PLW",
+        "iso2": "PW",
+        "fips": "PS",
+        "isoN": 585
+    },
+    "states": [
+        " Aimeliik",
+        " Airai",
+        " Angaur",
+        " Hatohobei",
+        " Kayangel",
+        " Koror",
+        " Melekeok",
+        " Ngaraard",
+        " Ngarchelong",
+        " Ngardmau",
+        " Ngatpang",
+        " Ngchesar",
+        " Ngeremlengui",
+        " Ngiwal",
+        " Peleliu",
+        " Sonsorol"
+    ]
+}

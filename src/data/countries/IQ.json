@@ -1,0 +1,52 @@
+{
+    "Name": "Iraq",
+    "Capital": {
+        "DLST": "null",
+        "TD": 3,
+        "Flg": 2,
+        "Name": "Baghdad",
+        "GeoPt": [
+            33.2,
+            44.23
+        ]
+    },
+    "GeoRectangle": {
+        "West": 38.7958831787,
+        "East": 48.575920105,
+        "North": 37.378036499,
+        "South": 29.069442749
+    },
+    "SeqID": 103,
+    "GeoPt": [
+        33,
+        44
+    ],
+    "TelPref": "964",
+    "CountryCodes": {
+        "tld": "iq",
+        "iso3": "IRQ",
+        "iso2": "IQ",
+        "fips": "IZ",
+        "isoN": 368
+    },
+    "states": [
+        "Al Anbar",
+        " Al Basrah",
+        " Al Muthanna",
+        " Al Qadisiyah ",
+        " An Najaf",
+        " Hewler",
+        "Slemani",
+        " Babil",
+        " Baghdad",
+        " Dihok",
+        " Dhi Qar",
+        " Diyala",
+        " Karbala'",
+        " Kirkuk",
+        " Maysan",
+        " Ninawa",
+        " Salah ad Din",
+        " Wasit"
+    ]
+}

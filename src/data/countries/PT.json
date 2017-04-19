@@ -1,0 +1,54 @@
+{
+    "Name": "Portugal",
+    "Capital": {
+        "DLST": 1,
+        "TD": 0,
+        "Flg": 2,
+        "Name": "Lisbon",
+        "GeoPt": [
+            38.43,
+            -9.08
+        ]
+    },
+    "GeoRectangle": {
+        "West": -9.49594497681,
+        "East": -6.18269348145,
+        "North": 42.1456451416,
+        "South": 36.9806594849
+    },
+    "SeqID": 179,
+    "GeoPt": [
+        39.3,
+        -8
+    ],
+    "TelPref": "351",
+    "CountryCodes": {
+        "tld": "pt",
+        "iso3": "PRT",
+        "iso2": "PT",
+        "fips": "PO",
+        "isoN": 620
+    },
+    "states": [
+        " Aveiro",
+        " Acores (Azores)*",
+        " Beja",
+        " Braga",
+        " Braganca",
+        " Castelo Branco",
+        " Coimbra",
+        " Evora",
+        " Faro",
+        " Guarda",
+        " Leiria",
+        " Lisboa (Lisbon)",
+        " Madeira*",
+        " Portalegre",
+        " Porto",
+        " Santarem",
+        " Setubal",
+        " Viana do Castelo",
+        " Vila Real",
+        " Viseu"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "Name": "Antarctica",
+    "Capital": null,
+    "GeoRectangle": {
+        "West": -179.999923706,
+        "East": 179.999923706,
+        "North": -60.5155258179,
+        "South": -89.9999084473
+    },
+    "SeqID": 10,
+    "GeoPt": [
+        -90,
+        0
+    ],
+    "TelPref": "672",
+    "CountryCodes": {
+        "tld": "aq",
+        "iso3": "ATA",
+        "iso2": "AQ",
+        "fips": "AY",
+        "isoN": 10
+    }
+}

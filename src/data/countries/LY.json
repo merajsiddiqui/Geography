@@ -1,0 +1,56 @@
+{
+    "Name": "Libya",
+    "Capital": {
+        "DLST": "null",
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Tripoli",
+        "GeoPt": [
+            32.53,
+            13.1
+        ]
+    },
+    "GeoRectangle": {
+        "West": 9.38701820374,
+        "East": 25.1506156921,
+        "North": 33.1690063477,
+        "South": 19.5080413818
+    },
+    "SeqID": 132,
+    "GeoPt": [
+        25,
+        17
+    ],
+    "TelPref": "218",
+    "CountryCodes": {
+        "tld": "ly",
+        "iso3": "LBY",
+        "iso2": "LY",
+        "fips": "LY",
+        "isoN": 434
+    },
+    "states": [
+        " Al Butnan",
+        " Al Jabal al Akhdar",
+        " Al Jabal al Gharbi",
+        " Al Jafarah",
+        " Al Jufrah",
+        " Al Kufrah",
+        " Al Marj",
+        " Al Marqab",
+        " Al Wahat",
+        " An Nuqat al Khams",
+        " Az Zawiyah",
+        " Banghazi",
+        " Darnah",
+        " Ghat",
+        " Misratah",
+        " Murzuq",
+        " Nalut",
+        " Sabha",
+        " Surt",
+        " Tarabulus",
+        " Wadi al Hayat",
+        " Wadi ash Shati"
+    ]
+}

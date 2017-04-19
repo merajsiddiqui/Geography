@@ -1,0 +1,32 @@
+{
+    "Name": "Saudi Arabia",
+    "Capital": {
+        "DLST": "null",
+        "TD": 3,
+        "Flg": 2,
+        "Name": "Riyadh",
+        "GeoPt": [
+            24.38,
+            46.43
+        ]
+    },
+    "GeoRectangle": {
+        "West": 34.4956855774,
+        "East": 55.6665878296,
+        "North": 32.1583404541,
+        "South": 15.6142482758
+    },
+    "SeqID": 187,
+    "GeoPt": [
+        25,
+        45
+    ],
+    "TelPref": "966",
+    "CountryCodes": {
+        "tld": "sa",
+        "iso3": "SAU",
+        "iso2": "SA",
+        "fips": "SA",
+        "isoN": 682
+    }
+}

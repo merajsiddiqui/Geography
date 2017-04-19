@@ -1,0 +1,32 @@
+{
+    "Name": "Saint Lucia",
+    "Capital": {
+        "DLST": "null",
+        "TD": -4,
+        "Flg": 2,
+        "Name": "Castries",
+        "GeoPt": [
+            14.01,
+            -61
+        ]
+    },
+    "GeoRectangle": {
+        "West": -61.0741539001,
+        "East": -60.8741989136,
+        "North": 14.1032466888,
+        "South": 13.7047767639
+    },
+    "SeqID": 124,
+    "GeoPt": [
+        13.53,
+        -60.58
+    ],
+    "TelPref": "1 758",
+    "CountryCodes": {
+        "tld": "lc",
+        "iso3": "LCA",
+        "iso2": "LC",
+        "fips": "ST",
+        "isoN": 662
+    }
+}

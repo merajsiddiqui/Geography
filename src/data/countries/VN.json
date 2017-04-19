@@ -1,0 +1,32 @@
+{
+    "Name": "Vietnam",
+    "Capital": {
+        "DLST": "null",
+        "TD": 7,
+        "Flg": 2,
+        "Name": "Hanoi",
+        "GeoPt": [
+            21.02,
+            105.51
+        ]
+    },
+    "GeoRectangle": {
+        "West": 102.148216248,
+        "East": 109.464653015,
+        "North": 23.3888378143,
+        "South": 8.55960941315
+    },
+    "SeqID": 232,
+    "GeoPt": [
+        16.1,
+        107.5
+    ],
+    "TelPref": "84",
+    "CountryCodes": {
+        "tld": "vn",
+        "iso3": "VNM",
+        "iso2": "VN",
+        "fips": "VM",
+        "isoN": 704
+    }
+}

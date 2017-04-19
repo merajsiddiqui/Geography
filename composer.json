@@ -1,0 +1,22 @@
+{
+    "name": "merajsiddiqui/geography",
+    "description": "The Geographical API of the world To get most of the geographical data all around the world",
+    "type": "Library",
+    "authors": [
+        {
+            "name": "Meraj Ahmad Siddiqui",
+            "email": "merajsiddiqui@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "license": "GNU General Public License v3.0",
+    "require-dev" : {
+        "phpunit/phpunit" :"5.5.*",
+        "xicrow/php-debug" :"^2.0"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "Orfic\\" :"src/"
+        }
+    }
+}

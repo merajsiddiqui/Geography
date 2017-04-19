@@ -1,0 +1,32 @@
+{
+    "Name": "Taiwan",
+    "Capital": {
+        "DLST": "null",
+        "TD": 8,
+        "Flg": 2,
+        "Name": "Taipei",
+        "GeoPt": [
+            25.03,
+            121.3
+        ]
+    },
+    "GeoRectangle": {
+        "West": 119.534683228,
+        "East": 122.000457764,
+        "North": 25.2982521057,
+        "South": 21.9018039703
+    },
+    "SeqID": 220,
+    "GeoPt": [
+        23.3,
+        121
+    ],
+    "TelPref": "886",
+    "CountryCodes": {
+        "tld": "tw",
+        "iso3": "TWN",
+        "iso2": "TW",
+        "fips": "TW",
+        "isoN": 158
+    }
+}

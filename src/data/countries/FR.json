@@ -1,0 +1,52 @@
+{
+    "Name": "France",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Paris",
+        "GeoPt": [
+            48.52,
+            2.2
+        ]
+    },
+    "GeoRectangle": {
+        "West": -5.14222288132,
+        "East": 9.56155776978,
+        "North": 51.0928115845,
+        "South": 41.3715744019
+    },
+    "SeqID": 74,
+    "GeoPt": [
+        46,
+        2
+    ],
+    "TelPref": "33",
+    "CountryCodes": {
+        "tld": "fr",
+        "iso3": "FRA",
+        "iso2": "FR",
+        "fips": "FR",
+        "isoN": 250
+    },
+    "states": [
+        " Auvergne-Rhone-Alpes",
+        " Bourgogne-Franche-Comte (Burgundy-Free County)",
+        " Bretagne (Brittany)",
+        " Centre-Val de Loire (Center-Loire Valley)",
+        " Corse (Corsica)",
+        " Grand Est (Grand East)",
+        " Guadeloupe",
+        " Guyane (French Guiana)",
+        " Hauts-de-France (Upper France)",
+        " Ile-de-France",
+        " Martinique",
+        " Mayotte",
+        " Normandie (Normandy)",
+        " Nouvelle-Aquitaine (New Aquitaine)",
+        " Occitanie (Occitania)",
+        " Pays de la Loire (Lands of the Loire)",
+        " Provence-Alpes-Cote d'Azur",
+        " Reunion"
+    ]
+}

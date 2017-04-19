@@ -1,0 +1,32 @@
+{
+    "Name": "Romania",
+    "Capital": {
+        "DLST": 1,
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Bucharest",
+        "GeoPt": [
+            44.26,
+            26.06
+        ]
+    },
+    "GeoRectangle": {
+        "West": 20.2699699402,
+        "East": 29.6910572052,
+        "North": 48.2669525146,
+        "South": 43.6272964478
+    },
+    "SeqID": 183,
+    "GeoPt": [
+        46,
+        25
+    ],
+    "TelPref": "40",
+    "CountryCodes": {
+        "tld": "ro",
+        "iso3": "ROU",
+        "iso2": "RO",
+        "fips": "RO",
+        "isoN": 642
+    }
+}

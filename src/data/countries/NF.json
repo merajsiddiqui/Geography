@@ -1,0 +1,35 @@
+{
+    "Name": "Norfolk Island",
+    "Capital": {
+        "DLST": "null",
+        "TD": 11.5,
+        "Flg": 2,
+        "Name": "Kingston",
+        "GeoPt": [
+            -29.03,
+            167.58
+        ]
+    },
+    "GeoRectangle": {
+        "West": 167.916381836,
+        "East": 167.999984741,
+        "North": -28.9923877716,
+        "South": -29.0527267456
+    },
+    "SeqID": 158,
+    "GeoPt": [
+        -29.02,
+        167.57
+    ],
+    "TelPref": "672",
+    "CountryCodes": {
+        "tld": "nf",
+        "iso3": "NFK",
+        "iso2": "NF",
+        "fips": "NF",
+        "isoN": 574
+    },
+    "states": [
+        "none (territory of Australia)"
+    ]
+}

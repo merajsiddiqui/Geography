@@ -1,0 +1,62 @@
+{
+    "Name": "Malawi",
+    "Capital": {
+        "DLST": "null",
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Lilongwe",
+        "GeoPt": [
+            -13.59,
+            33.47
+        ]
+    },
+    "GeoRectangle": {
+        "West": 32.6739425659,
+        "East": 35.9168281555,
+        "North": -9.36753940582,
+        "South": -17.1250019073
+    },
+    "SeqID": 151,
+    "GeoPt": [
+        -13.3,
+        34
+    ],
+    "TelPref": "265",
+    "CountryCodes": {
+        "tld": "mw",
+        "iso3": "MWI",
+        "iso2": "MW",
+        "fips": "MI",
+        "isoN": 454
+    },
+    "states": [
+        " Balaka",
+        " Blantyre",
+        " Chikwawa",
+        " Chiradzulu",
+        " Chitipa",
+        " Dedza",
+        " Dowa",
+        " Karonga",
+        " Kasungu",
+        " Likoma",
+        " Lilongwe",
+        " Machinga",
+        " Mangochi",
+        " Mchinji",
+        " Mulanje",
+        " Mwanza",
+        " Mzimba",
+        " Neno",
+        " Ntcheu",
+        " Nkhata Bay",
+        " Nkhotakota",
+        " Nsanje",
+        " Ntchisi",
+        " Phalombe",
+        " Rumphi",
+        " Salima",
+        " Thyolo",
+        " Zomba"
+    ]
+}

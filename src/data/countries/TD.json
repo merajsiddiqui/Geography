@@ -1,0 +1,57 @@
+{
+    "Name": "Chad",
+    "Capital": {
+        "DLST": "null",
+        "TD": 1,
+        "Flg": 2,
+        "Name": "N'Djamena",
+        "GeoPt": [
+            12.06,
+            15.02
+        ]
+    },
+    "GeoRectangle": {
+        "West": 13.4734735489,
+        "East": 24.002664566,
+        "North": 23.4503726959,
+        "South": 7.44106721878
+    },
+    "SeqID": 207,
+    "GeoPt": [
+        15,
+        19
+    ],
+    "TelPref": "235",
+    "CountryCodes": {
+        "tld": "td",
+        "iso3": "TCD",
+        "iso2": "TD",
+        "fips": "CD",
+        "isoN": 148
+    },
+    "states": [
+        " Barh el Gazel",
+        " Batha",
+        " Borkou",
+        " Chari-Baguirmi",
+        " Ennedi-Est",
+        " Ennedi-Ouest",
+        " Guera",
+        " Hadjer-Lamis",
+        " Kanem",
+        " Lac",
+        " Logone Occidental",
+        " Logone Oriental",
+        " Mandoul",
+        " Mayo-Kebbi Est",
+        " Mayo-Kebbi Ouest",
+        " Moyen-Chari",
+        " Ouaddai",
+        " Salamat",
+        " Sila",
+        " Tandjile",
+        " Tibesti",
+        " Ville de N'Djamena",
+        " Wadi Fira"
+    ]
+}

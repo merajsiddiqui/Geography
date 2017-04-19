@@ -1,0 +1,42 @@
+{
+    "Name": "Australia",
+    "Capital": {
+        "DLST": 1,
+        "TD": 10,
+        "Flg": 2,
+        "Name": "Canberra",
+        "GeoPt": [
+            -35.17,
+            149.13
+        ]
+    },
+    "GeoRectangle": {
+        "West": 112.911048889,
+        "East": 153.639282227,
+        "North": -10.0628032684,
+        "South": -43.6439743042
+    },
+    "SeqID": 14,
+    "GeoPt": [
+        -27,
+        133
+    ],
+    "TelPref": "61",
+    "CountryCodes": {
+        "tld": "au",
+        "iso3": "AUS",
+        "iso2": "AU",
+        "fips": "AS",
+        "isoN": 36
+    },
+    "states": [
+        "Australian Capital Territory*",
+        "New South Wales",
+        "Northern Territory*",
+        "Queensland",
+        "South Australia",
+        "Tasmania",
+        "Victoria",
+        "Western Australia"
+    ]
+}

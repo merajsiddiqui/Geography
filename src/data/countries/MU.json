@@ -1,0 +1,46 @@
+{
+    "Name": "Mauritius",
+    "Capital": {
+        "DLST": "null",
+        "TD": 4,
+        "Flg": 2,
+        "Name": "Port Louis",
+        "GeoPt": [
+            -20.09,
+            57.29
+        ]
+    },
+    "GeoRectangle": {
+        "West": 56.5127105713,
+        "East": 63.5001831055,
+        "North": -10.3192539215,
+        "South": -20.5257205963
+    },
+    "SeqID": 149,
+    "GeoPt": [
+        -20.17,
+        57.33
+    ],
+    "TelPref": "230",
+    "CountryCodes": {
+        "tld": "mu",
+        "iso3": "MUS",
+        "iso2": "MU",
+        "fips": "MP",
+        "isoN": 480
+    },
+    "states": [
+        " Agalega Islands*",
+        " Black River",
+        " Cargados Carajos Shoals*",
+        " Flacq",
+        " Grand Port",
+        " Moka",
+        " Pamplemousses",
+        " Plaines Wilhems",
+        " Port Louis",
+        " Riviere du Rempart",
+        " Rodrigues*",
+        " Savanne"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "Name": "Equatorial Guinea",
+    "Capital": {
+        "DLST": "null",
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Malabo",
+        "GeoPt": [
+            3.45,
+            8.47
+        ]
+    },
+    "GeoRectangle": {
+        "West": 9.34686374664,
+        "East": 11.3357257843,
+        "North": 2.34698939323,
+        "South": 0.920859932899
+    },
+    "SeqID": 85,
+    "GeoPt": [
+        2,
+        10
+    ],
+    "TelPref": "240",
+    "CountryCodes": {
+        "tld": "gq",
+        "iso3": "GNQ",
+        "iso2": "GQ",
+        "fips": "EK",
+        "isoN": 226
+    },
+    "states": [
+        " Annobon",
+        " Bioko Norte",
+        " Bioko Sur",
+        " Centro Sur",
+        " Kie-Ntem",
+        " Litoral",
+        " Wele-Nzas"
+    ]
+}

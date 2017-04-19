@@ -1,0 +1,32 @@
+{
+    "Name": "Sao Tome and Principe",
+    "Capital": {
+        "DLST": "null",
+        "TD": 0,
+        "Flg": 2,
+        "Name": "Sao Tome",
+        "GeoPt": [
+            0.12,
+            6.39
+        ]
+    },
+    "GeoRectangle": {
+        "West": 6.47016906738,
+        "East": 7.46637487411,
+        "North": 1.70132315159,
+        "South": 0.0247659981251
+    },
+    "SeqID": 202,
+    "GeoPt": [
+        1,
+        7
+    ],
+    "TelPref": "239",
+    "CountryCodes": {
+        "tld": "st",
+        "iso3": "STP",
+        "iso2": "ST",
+        "fips": "TP",
+        "isoN": 678
+    }
+}

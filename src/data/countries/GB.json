@@ -1,0 +1,32 @@
+{
+    "Name": "United Kingdom",
+    "Capital": {
+        "DLST": 1,
+        "TD": 0,
+        "Flg": 2,
+        "Name": "London",
+        "GeoPt": [
+            51.3,
+            -0.1
+        ]
+    },
+    "GeoRectangle": {
+        "West": -8.62355613708,
+        "East": 1.75900018215,
+        "North": 60.8458099365,
+        "South": 49.9061889648
+    },
+    "SeqID": 76,
+    "GeoPt": [
+        54,
+        -2
+    ],
+    "TelPref": "44",
+    "CountryCodes": {
+        "tld": "uk",
+        "iso3": "GBR",
+        "iso2": "GB",
+        "fips": "UK",
+        "isoN": 826
+    }
+}

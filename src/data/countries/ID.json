@@ -1,0 +1,68 @@
+{
+    "Name": "Indonesia",
+    "Capital": {
+        "DLST": "null",
+        "TD": 7,
+        "Flg": 2,
+        "Name": "Jakarta",
+        "GeoPt": [
+            -6.1,
+            106.49
+        ]
+    },
+    "GeoRectangle": {
+        "West": 95.0093231201,
+        "East": 141.021835327,
+        "North": 5.9044175148,
+        "South": -10.9418621063
+    },
+    "SeqID": 97,
+    "GeoPt": [
+        -5,
+        120
+    ],
+    "TelPref": "62",
+    "CountryCodes": {
+        "tld": "id",
+        "iso3": "IDN",
+        "iso2": "ID",
+        "fips": "ID",
+        "isoN": 360
+    },
+    "states": [
+        " Aceh*",
+        " Bali",
+        " Banten",
+        " Bengkulu",
+        " Gorontalo",
+        " Jakarta Raya***",
+        " Jambi",
+        " Jawa Barat (West Java)",
+        " Jawa Tengah (Central Java)",
+        " Jawa Timur (East Java)",
+        " Kalimantan Barat (West Kalimantan)",
+        " Kalimantan Selatan (South Kalimantan)",
+        " Kalimantan Tengah (Central Kalimantan)",
+        " Kalimantan Timur (East Kalimantan)",
+        " Kalimantan Utara (North Kalimantan)",
+        " Kepulauan Bangka Belitung (Bangka Belitung Islands)",
+        " Kepulauan Riau (Riau Islands)",
+        " Lampung",
+        " Maluku",
+        " Maluku Utara (North Maluku)",
+        " Nusa Tenggara Barat (West Nusa Tenggara)",
+        " Nusa Tenggara Timur (East Nusa Tenggara)",
+        " Papua",
+        " Papua Barat (West Papua)",
+        " Riau",
+        " Sulawesi Barat (West Sulawesi)",
+        " Sulawesi Selatan (South Sulawesi)",
+        " Sulawesi Tengah (Central Sulawesi)",
+        " Sulawesi Tenggara (Southeast Sulawesi)",
+        " Sulawesi Utara (North Sulawesi)",
+        " Sumatera Barat (West Sumatra)",
+        " Sumatera Selatan (South Sumatra)",
+        " Sumatera Utara (North Sumatra)",
+        " Yogyakarta**"
+    ]
+}

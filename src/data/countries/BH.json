@@ -1,0 +1,38 @@
+{
+    "Name": "Bahrain",
+    "Capital": {
+        "DLST": "null",
+        "TD": 3,
+        "Flg": 2,
+        "Name": "Manama",
+        "GeoPt": [
+            26.14,
+            50.34
+        ]
+    },
+    "GeoRectangle": {
+        "West": 50.4541358948,
+        "East": 50.664478302,
+        "North": 26.282585144,
+        "South": 25.7968597412
+    },
+    "SeqID": 23,
+    "GeoPt": [
+        26,
+        50.33
+    ],
+    "TelPref": "973",
+    "CountryCodes": {
+        "tld": "bh",
+        "iso3": "BHR",
+        "iso2": "BH",
+        "fips": "BA",
+        "isoN": 48
+    },
+    "states": [
+        "Asimah",
+        "Janubiyah (Southern)",
+        "Muharraq",
+        "Shamaliyah (Northern)"
+    ]
+}

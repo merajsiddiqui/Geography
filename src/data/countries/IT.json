@@ -1,0 +1,54 @@
+{
+    "Name": "Italy",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Rome",
+        "GeoPt": [
+            41.54,
+            12.29
+        ]
+    },
+    "GeoRectangle": {
+        "West": 6.61488819122,
+        "East": 18.5134487152,
+        "North": 47.0952033997,
+        "South": 36.6527748108
+    },
+    "SeqID": 106,
+    "GeoPt": [
+        42.5,
+        12.5
+    ],
+    "TelPref": "39",
+    "CountryCodes": {
+        "tld": "it",
+        "iso3": "ITA",
+        "iso2": "IT",
+        "fips": "IT",
+        "isoN": 380
+    },
+    "states": [
+        "Abruzzo",
+        " Basilicata",
+        " Calabria",
+        " Campania",
+        " Emilia-Romagna",
+        " Lazio (Latium)",
+        " Liguria",
+        " Lombardia",
+        " Marche",
+        " Molise",
+        " Piemonte (Piedmont)",
+        " Puglia (Apulia)",
+        " Toscana (Tuscany)",
+        " Umbria",
+        " Veneto (Venetia)",
+        " Friuli-Venezia Giulia",
+        " Sardegna (Sardinia)",
+        " Sicilia (Sicily)",
+        " Trentino-Alto Adige",
+        " Valle d'Aosta"
+    ]
+}

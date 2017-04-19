@@ -1,0 +1,61 @@
+{
+    "Name": "Egypt",
+    "Capital": {
+        "DLST": 1,
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Cairo",
+        "GeoPt": [
+            30.03,
+            31.15
+        ]
+    },
+    "GeoRectangle": {
+        "West": 24.6981086731,
+        "East": 35.7948684692,
+        "North": 31.6673374176,
+        "South": 21.7253856659
+    },
+    "SeqID": 63,
+    "GeoPt": [
+        27,
+        30
+    ],
+    "TelPref": "20",
+    "CountryCodes": {
+        "tld": "eg",
+        "iso3": "EGY",
+        "iso2": "EG",
+        "fips": "EG",
+        "isoN": 818
+    },
+    "states": [
+        " Ad Daqahliyah",
+        " Al Bahr al Ahmar (Red Sea)",
+        " Al Buhayrah",
+        " Al Fayyum",
+        " Al Gharbiyah",
+        " Al Iskandariyah (Alexandria)",
+        " Al Isma'iliyah (Ismailia)",
+        " Al Jizah (Giza)",
+        " Al Minufiyah",
+        " Al Minya",
+        " Al Qahirah (Cairo)",
+        " Al Qalyubiyah",
+        " Al Uqsur (Luxor)",
+        " Al Wadi al Jadid (New Valley)",
+        " As Suways (Suez)",
+        " Ash Sharqiyah",
+        " Aswan",
+        " Asyut",
+        " Bani Suwayf",
+        " Bur Sa'id (Port Said)",
+        " Dumyat (Damietta)",
+        " Janub Sina' (South Sinai)",
+        " Kafr ash Shaykh",
+        " Matruh",
+        " Qina",
+        " Shamal Sina' (North Sinai)",
+        " Suhaj"
+    ]
+}

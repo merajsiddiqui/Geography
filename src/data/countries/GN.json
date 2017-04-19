@@ -1,0 +1,42 @@
+{
+    "Name": "Guinea",
+    "Capital": {
+        "DLST": "null",
+        "TD": 0,
+        "Flg": 2,
+        "Name": "Conakry",
+        "GeoPt": [
+            9.33,
+            -13.42
+        ]
+    },
+    "GeoRectangle": {
+        "West": -14.9266204834,
+        "East": -7.64107036591,
+        "North": 12.6762218475,
+        "South": 7.19355249405
+    },
+    "SeqID": 84,
+    "GeoPt": [
+        11,
+        -10
+    ],
+    "TelPref": "224",
+    "CountryCodes": {
+        "tld": "gn",
+        "iso3": "GIN",
+        "iso2": "GN",
+        "fips": "GV",
+        "isoN": 324
+    },
+    "states": [
+        " Boke",
+        " Conakry*",
+        " Faranah",
+        " Kankan",
+        " Kindia",
+        " Labe",
+        " Mamou",
+        " N'Zerekore"
+    ]
+}

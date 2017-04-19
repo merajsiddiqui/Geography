@@ -1,0 +1,48 @@
+{
+    "Name": "Namibia",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Windhoek",
+        "GeoPt": [
+            -22.34,
+            17.05
+        ]
+    },
+    "GeoRectangle": {
+        "West": 11.715628624,
+        "East": 25.2567043304,
+        "North": -16.9598903656,
+        "South": -28.9714336395
+    },
+    "SeqID": 155,
+    "GeoPt": [
+        -22,
+        17
+    ],
+    "TelPref": "264",
+    "CountryCodes": {
+        "tld": "na",
+        "iso3": "NAM",
+        "iso2": "NA",
+        "fips": "WA",
+        "isoN": 516
+    },
+    "states": [
+        " Erongo",
+        " Hardap",
+        " \/\/Karas",
+        " Kavango East",
+        " Kavango West",
+        " Khomas",
+        " Kunene",
+        " Ohangwena",
+        " Omaheke",
+        " Omusati",
+        " Oshana",
+        " Oshikoto",
+        " Otjozondjupa",
+        " Zambezi"
+    ]
+}

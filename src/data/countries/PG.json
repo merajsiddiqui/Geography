@@ -1,0 +1,56 @@
+{
+    "Name": "Papua New Guinea",
+    "Capital": {
+        "DLST": "null",
+        "TD": 10,
+        "Flg": 2,
+        "Name": "Port Moresby",
+        "GeoPt": [
+            -9.3,
+            147.1
+        ]
+    },
+    "GeoRectangle": {
+        "West": 140.842849731,
+        "East": 155.963470459,
+        "North": -1.31863880157,
+        "South": -11.6578626633
+    },
+    "SeqID": 171,
+    "GeoPt": [
+        -6,
+        147
+    ],
+    "TelPref": "675",
+    "CountryCodes": {
+        "tld": "pg",
+        "iso3": "PNG",
+        "iso2": "PG",
+        "fips": "PP",
+        "isoN": 598
+    },
+    "states": [
+        " Bougainville*",
+        " Central",
+        " Chimbu",
+        " Eastern Highlands",
+        " East New Britain",
+        " East Sepik",
+        " Enga",
+        " Gulf",
+        " Hela",
+        " Jiwaka",
+        " Madang",
+        " Manus",
+        " Milne Bay",
+        " Morobe",
+        " National Capital**",
+        " New Ireland",
+        " Northern",
+        " Southern Highlands",
+        " Western",
+        " Western Highlands",
+        " West New Britain",
+        " West Sepik"
+    ]
+}

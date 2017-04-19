@@ -1,0 +1,32 @@
+{
+    "Name": "Togo",
+    "Capital": {
+        "DLST": "null",
+        "TD": 0,
+        "Flg": 2,
+        "Name": "Lome",
+        "GeoPt": [
+            6.08,
+            1.13
+        ]
+    },
+    "GeoRectangle": {
+        "West": -0.147324025631,
+        "East": 1.8066931963,
+        "North": 11.1389780045,
+        "South": 6.10441637039
+    },
+    "SeqID": 209,
+    "GeoPt": [
+        8,
+        1.1
+    ],
+    "TelPref": "228",
+    "CountryCodes": {
+        "tld": "tg",
+        "iso3": "TGO",
+        "iso2": "TG",
+        "fips": "TO",
+        "isoN": 768
+    }
+}

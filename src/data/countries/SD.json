@@ -1,0 +1,32 @@
+{
+    "Name": "Sudan",
+    "Capital": {
+        "DLST": "null",
+        "TD": 3,
+        "Flg": 2,
+        "Name": "Khartoum",
+        "GeoPt": [
+            15.36,
+            32.32
+        ]
+    },
+    "GeoRectangle": {
+        "West": 21.8389434814,
+        "East": 38.5800361633,
+        "North": 23.1468925476,
+        "South": 3.48638963699
+    },
+    "SeqID": 190,
+    "GeoPt": [
+        15,
+        30
+    ],
+    "TelPref": "249",
+    "CountryCodes": {
+        "tld": "sd",
+        "iso3": "SDN",
+        "iso2": "SD",
+        "fips": "SU",
+        "isoN": 736
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "Name": "Guam",
+    "Capital": {
+        "DLST": "null",
+        "TD": 10,
+        "Flg": 2,
+        "Name": "Hagatna",
+        "GeoPt": [
+            13.28,
+            144.44
+        ]
+    },
+    "GeoRectangle": {
+        "West": 144.619216919,
+        "East": 144.953994751,
+        "North": 13.6523342133,
+        "South": 13.240609169
+    },
+    "SeqID": 88,
+    "GeoPt": [
+        13.28,
+        144.47
+    ],
+    "TelPref": "1 671",
+    "CountryCodes": {
+        "tld": "gu",
+        "iso3": "GUM",
+        "iso2": "GU",
+        "fips": "GQ",
+        "isoN": 316
+    },
+    "states": [
+        "none (territory of the US)"
+    ]
+}

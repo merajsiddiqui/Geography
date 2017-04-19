@@ -1,0 +1,32 @@
+{
+    "Name": "Switzerland",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Bern",
+        "GeoPt": [
+            46.57,
+            7.26
+        ]
+    },
+    "GeoRectangle": {
+        "West": 5.9574713707,
+        "East": 10.4914731979,
+        "North": 47.8053359985,
+        "South": 45.8256874084
+    },
+    "SeqID": 42,
+    "GeoPt": [
+        47,
+        8
+    ],
+    "TelPref": "41",
+    "CountryCodes": {
+        "tld": "ch",
+        "iso3": "CHE",
+        "iso2": "CH",
+        "fips": "SZ",
+        "isoN": 756
+    }
+}

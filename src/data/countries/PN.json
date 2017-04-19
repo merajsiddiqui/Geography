@@ -1,0 +1,35 @@
+{
+    "Name": "Pitcairn",
+    "Capital": {
+        "DLST": "null",
+        "TD": -9,
+        "Flg": 2,
+        "Name": "Adamstown",
+        "GeoPt": [
+            -25.04,
+            -130.05
+        ]
+    },
+    "GeoRectangle": {
+        "West": -128.346466064,
+        "East": -124.772834778,
+        "North": -24.3158626556,
+        "South": -24.6725673676
+    },
+    "SeqID": 176,
+    "GeoPt": [
+        -25.04,
+        -130.06
+    ],
+    "TelPref": "870",
+    "CountryCodes": {
+        "tld": "pn",
+        "iso3": "PCN",
+        "iso2": "PN",
+        "fips": "PC",
+        "isoN": 612
+    },
+    "states": [
+        "none (overseas territory of the UK)"
+    ]
+}

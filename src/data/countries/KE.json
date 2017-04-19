@@ -1,0 +1,81 @@
+{
+    "Name": "Kenya",
+    "Capital": {
+        "DLST": "null",
+        "TD": 3,
+        "Flg": 2,
+        "Name": "Nairobi",
+        "GeoPt": [
+            -1.17,
+            36.49
+        ]
+    },
+    "GeoRectangle": {
+        "West": 33.9088516235,
+        "East": 41.8990821838,
+        "North": 5.01993894577,
+        "South": -4.67804765701
+    },
+    "SeqID": 111,
+    "GeoPt": [
+        1,
+        38
+    ],
+    "TelPref": "254",
+    "CountryCodes": {
+        "tld": "ke",
+        "iso3": "KEN",
+        "iso2": "KE",
+        "fips": "KE",
+        "isoN": 404
+    },
+    "states": [
+        " Baringo",
+        " Bomet",
+        " Bungoma",
+        " Busia",
+        " Elgeyo\/Marakwet",
+        " Embu",
+        " Garissa",
+        " Homa Bay",
+        " Isiolo",
+        " Kajiado",
+        " Kakamega",
+        " Kericho",
+        " Kiambu",
+        " Kilifi",
+        " Kirinyaga",
+        " Kisii",
+        " Kisumu",
+        " Kitui",
+        " Kwale",
+        " Laikipia",
+        " Lamu",
+        " Machakos",
+        " Makueni",
+        " Mandera",
+        " Marsabit",
+        " Meru",
+        " Migori",
+        " Mombasa",
+        " Murang'a",
+        " Nairobi City",
+        " Nakuru",
+        " Nandi",
+        " Narok",
+        " Nyamira",
+        " Nyandarua",
+        " Nyeri",
+        " Samburu",
+        " Siaya",
+        " Taita\/Taveta",
+        " Tana River",
+        " Tharaka-Nithi",
+        " Trans Nzoia",
+        " Turkana",
+        " Uasin Gishu",
+        " Vihiga",
+        " Wajir",
+        " West Pokot"
+    ]
+}

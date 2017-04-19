@@ -1,0 +1,32 @@
+{
+    "Name": "Zimbabwe",
+    "Capital": {
+        "DLST": "null",
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Harare",
+        "GeoPt": [
+            -17.5,
+            31.03
+        ]
+    },
+    "GeoRectangle": {
+        "West": 25.2370243073,
+        "East": 33.056312561,
+        "North": -15.608833313,
+        "South": -22.4177417755
+    },
+    "SeqID": 240,
+    "GeoPt": [
+        -20,
+        30
+    ],
+    "TelPref": "263",
+    "CountryCodes": {
+        "tld": "zw",
+        "iso3": "ZWE",
+        "iso2": "ZW",
+        "fips": "ZI",
+        "isoN": 716
+    }
+}

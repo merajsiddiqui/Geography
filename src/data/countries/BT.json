@@ -1,0 +1,54 @@
+{
+    "Name": "Bhutan",
+    "Capital": {
+        "DLST": "null",
+        "TD": 6,
+        "Flg": 2,
+        "Name": "Thimphu",
+        "GeoPt": [
+            27.29,
+            89.36
+        ]
+    },
+    "GeoRectangle": {
+        "West": 88.7597122192,
+        "East": 92.1252059937,
+        "North": 28.3237800598,
+        "South": 26.7076377869
+    },
+    "SeqID": 32,
+    "GeoPt": [
+        27.3,
+        90.3
+    ],
+    "TelPref": "975",
+    "CountryCodes": {
+        "tld": "bt",
+        "iso3": "BTN",
+        "iso2": "BT",
+        "fips": "BT",
+        "isoN": 64
+    },
+    "states": [
+        "Bumthang",
+        "Chhukha",
+        "Chirang",
+        "Daga",
+        "Gasa",
+        "Geylegphug",
+        "Ha",
+        "Lhuntshi",
+        "Mongar",
+        "Paro",
+        "Pemagatsel",
+        "Punakha",
+        "Samchi",
+        "Samdrup Jongkhar",
+        "Shemgang",
+        "Tashigang",
+        "Tashi Yangtse",
+        "Thimphu",
+        "Tongsa",
+        "Wangdi Phodrang"
+    ]
+}

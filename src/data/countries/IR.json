@@ -1,0 +1,65 @@
+{
+    "Name": "Iran",
+    "Capital": {
+        "DLST": "null",
+        "TD": 3.5,
+        "Flg": 2,
+        "Name": "Tehran",
+        "GeoPt": [
+            35.4,
+            51.25
+        ]
+    },
+    "GeoRectangle": {
+        "West": 44.0472717285,
+        "East": 63.3174781799,
+        "North": 39.7772293091,
+        "South": 25.0640792847
+    },
+    "SeqID": 104,
+    "GeoPt": [
+        32,
+        53
+    ],
+    "TelPref": "98",
+    "CountryCodes": {
+        "tld": "ir",
+        "iso3": "IRN",
+        "iso2": "IR",
+        "fips": "IR",
+        "isoN": 364
+    },
+    "states": [
+        " Alborz",
+        " Ardabil",
+        " Azarbayjan-e Gharbi (West Azerbaijan)",
+        " Azarbayjan-e Sharqi (East Azerbaijan)",
+        " Bushehr",
+        " Chahar Mahal va Bakhtiari",
+        " Esfahan",
+        " Fars",
+        " Gilan",
+        " Golestan",
+        " Hamadan",
+        " Hormozgan",
+        " Ilam",
+        " Kerman",
+        " Kermanshah",
+        " Khorasan-e Jonubi (South Khorasan)",
+        " Khorasan-e Razavi (Razavi Khorasan)",
+        " Khorasan-e Shomali (North Khorasan)",
+        " Khuzestan",
+        " Kohgiluyeh va Bowyer Ahmad",
+        " Kordestan",
+        " Lorestan",
+        " Markazi",
+        " Mazandaran",
+        " Qazvin",
+        " Qom",
+        " Semnan",
+        " Sistan va Baluchestan",
+        " Tehran",
+        " Yazd",
+        " Zanjan"
+    ]
+}

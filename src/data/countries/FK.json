@@ -1,0 +1,35 @@
+{
+    "Name": "Falkland Islands",
+    "Capital": {
+        "DLST": 1,
+        "TD": -4,
+        "Flg": 2,
+        "Name": "Stanley",
+        "GeoPt": [
+            -51.42,
+            -57.51
+        ]
+    },
+    "GeoRectangle": {
+        "West": -61.345199585,
+        "East": -57.7124786377,
+        "North": -51.2406425476,
+        "South": -52.3605194092
+    },
+    "SeqID": 71,
+    "GeoPt": [
+        -51.45,
+        -59
+    ],
+    "TelPref": "500",
+    "CountryCodes": {
+        "tld": "fk",
+        "iso3": "FLK",
+        "iso2": "FK",
+        "fips": "FK",
+        "isoN": 238
+    },
+    "states": [
+        " also claimed by Argentina)"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "Name": "Kuwait",
+    "Capital": {
+        "DLST": "null",
+        "TD": 3,
+        "Flg": 2,
+        "Name": "Kuwait City",
+        "GeoPt": [
+            29.22,
+            47.58
+        ]
+    },
+    "GeoRectangle": {
+        "West": 46.5555496216,
+        "East": 48.4314804077,
+        "North": 30.0959472656,
+        "South": 28.5246086121
+    },
+    "SeqID": 119,
+    "GeoPt": [
+        29.3,
+        45.45
+    ],
+    "TelPref": "965",
+    "CountryCodes": {
+        "tld": "kw",
+        "iso3": "KWT",
+        "iso2": "KW",
+        "fips": "KU",
+        "isoN": 414
+    },
+    "states": [
+        " Al Ahmadi",
+        " Al 'Asimah",
+        " Al Farwaniyah",
+        " Al Jahra'",
+        " Hawalli",
+        " Mubarak al Kabir"
+    ]
+}

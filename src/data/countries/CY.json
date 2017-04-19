@@ -1,0 +1,35 @@
+{
+    "Name": "Cyprus",
+    "Capital": {
+        "DLST": 1,
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Nicosia",
+        "GeoPt": [
+            35.1,
+            33.22
+        ]
+    },
+    "GeoRectangle": {
+        "West": 32.2730789185,
+        "East": 34.5979232788,
+        "North": 35.7015342712,
+        "South": 34.5634918213
+    },
+    "SeqID": 53,
+    "GeoPt": [
+        35,
+        33
+    ],
+    "TelPref": "357",
+    "CountryCodes": {
+        "tld": "cy",
+        "iso3": "CYP",
+        "iso2": "CY",
+        "fips": "CY",
+        "isoN": 196
+    },
+    "states": [
+        " Ammochostos (Famagusta)"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "Name": "Chile",
+    "Capital": {
+        "DLST": 1,
+        "TD": -4,
+        "Flg": 2,
+        "Name": "Santiago",
+        "GeoPt": [
+            -33.27,
+            -70.4
+        ]
+    },
+    "GeoRectangle": {
+        "West": -109.4559021,
+        "East": -66.4175491333,
+        "North": -17.5075492859,
+        "South": -55.9163551331
+    },
+    "SeqID": 45,
+    "GeoPt": [
+        -30,
+        -71
+    ],
+    "TelPref": "56",
+    "CountryCodes": {
+        "tld": "cl",
+        "iso3": "CHL",
+        "iso2": "CL",
+        "fips": "CI",
+        "isoN": 152
+    },
+    "states": [
+        " Aysen",
+        " Antofagasta",
+        " Araucania",
+        " Arica y Parinacota",
+        " Atacama",
+        " Biobio",
+        " Coquimbo",
+        " Libertador General Bernardo O'Higgins",
+        " Los Lagos",
+        " Los Rios",
+        " Magallanes y de la Antartica Chilena",
+        " Maule",
+        " Region Metropolitana (Santiago)",
+        " Tarapaca",
+        " Valparaiso"
+    ]
+}

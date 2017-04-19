@@ -1,0 +1,48 @@
+{
+    "Name": "Nepal",
+    "Capital": {
+        "DLST": "null",
+        "TD": 5.75,
+        "Flg": 2,
+        "Name": "Kathmandu",
+        "GeoPt": [
+            27.43,
+            85.19
+        ]
+    },
+    "GeoRectangle": {
+        "West": 80.0562591553,
+        "East": 88.1993408203,
+        "North": 30.4333934784,
+        "South": 26.3567199707
+    },
+    "SeqID": 163,
+    "GeoPt": [
+        28,
+        84
+    ],
+    "TelPref": "977",
+    "CountryCodes": {
+        "tld": "np",
+        "iso3": "NPL",
+        "iso2": "NP",
+        "fips": "NP",
+        "isoN": 524
+    },
+    "states": [
+        " Bagmati",
+        " Bheri",
+        " Dhawalagiri",
+        " Gandaki",
+        " Janakpur",
+        " Karnali",
+        " Kosi",
+        " Lumbini",
+        " Mahakali",
+        " Mechi",
+        " Narayani",
+        " Rapti",
+        " Sagarmatha",
+        " Seti"
+    ]
+}

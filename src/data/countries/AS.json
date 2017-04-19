@@ -1,0 +1,35 @@
+{
+    "Name": "American Samoa",
+    "Capital": {
+        "DLST": "null",
+        "TD": -11,
+        "Flg": 2,
+        "Name": "Pago Pago",
+        "GeoPt": [
+            -14.16,
+            -170.42
+        ]
+    },
+    "GeoRectangle": {
+        "West": -170.841339111,
+        "East": -169.416061401,
+        "North": -14.162115097,
+        "South": -14.3824796677
+    },
+    "SeqID": 12,
+    "GeoPt": [
+        -14.2,
+        -170
+    ],
+    "TelPref": "1 684",
+    "CountryCodes": {
+        "tld": "as",
+        "iso3": "ASM",
+        "iso2": "AS",
+        "fips": "AQ",
+        "isoN": 16
+    },
+    "states": [
+        " there are no first-order administrative divisions as defined by the US Government"
+    ]
+}

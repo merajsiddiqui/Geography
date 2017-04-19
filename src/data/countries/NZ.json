@@ -1,0 +1,51 @@
+{
+    "Name": "New Zealand",
+    "Capital": {
+        "DLST": 1,
+        "TD": 12,
+        "Flg": 2,
+        "Name": "Wellington",
+        "GeoPt": [
+            -41.28,
+            174.51
+        ]
+    },
+    "GeoRectangle": {
+        "West": 165.996170044,
+        "East": -176.275848389,
+        "North": -29.2410945892,
+        "South": -52.607585907
+    },
+    "SeqID": 166,
+    "GeoPt": [
+        -41,
+        174
+    ],
+    "TelPref": "64",
+    "CountryCodes": {
+        "tld": "nz",
+        "iso3": "NZL",
+        "iso2": "NZ",
+        "fips": "NZ",
+        "isoN": 554
+    },
+    "states": [
+        " Auckland",
+        " Bay of Plenty",
+        " Canterbury",
+        " Chatham Islands*",
+        " Gisborne",
+        " Hawke's Bay",
+        " Manawatu-Wanganui",
+        " Marlborough",
+        " Nelson",
+        " Northland",
+        " Otago",
+        " Southland",
+        " Taranaki",
+        " Tasman",
+        " Waikato",
+        " Wellington",
+        " West Coast"
+    ]
+}

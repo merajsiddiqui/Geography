@@ -1,0 +1,33 @@
+{
+    "Name": "Finland",
+    "Capital": {
+        "DLST": 1,
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Helsinki",
+        "GeoPt": [
+            60.1,
+            24.56
+        ]
+    },
+    "GeoRectangle": {
+        "West": 19.5207176208,
+        "East": 31.5809459686,
+        "North": 70.0960617065,
+        "South": 59.8087730408
+    },
+    "SeqID": 69,
+    "GeoPt": [
+        64,
+        26
+    ],
+    "TelPref": "358",
+    "CountryCodes": {
+        "tld": "fi",
+        "iso3": "FIN",
+        "iso2": "FI",
+        "fips": "FI",
+        "isoN": 246
+    },
+    "states": null
+}

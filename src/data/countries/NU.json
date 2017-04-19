@@ -1,0 +1,36 @@
+{
+    "Name": "Niue",
+    "Capital": {
+        "DLST": "null",
+        "TD": -11,
+        "Flg": 2,
+        "Name": "Alofi",
+        "GeoPt": [
+            -19.01,
+            -169.55
+        ]
+    },
+    "GeoRectangle": {
+        "West": -169.953079224,
+        "East": -169.781387329,
+        "North": -18.9633312225,
+        "South": -19.1455593109
+    },
+    "SeqID": 165,
+    "GeoPt": [
+        -19.02,
+        -169.52
+    ],
+    "TelPref": "683",
+    "CountryCodes": {
+        "tld": "nu",
+        "iso3": "NIU",
+        "iso2": "NU",
+        "fips": "NE",
+        "isoN": 570
+    },
+    "states": [
+        " note - there are no first-order administrative divisions as defined by the US Government",
+        " but there are 14 villages at the second order"
+    ]
+}

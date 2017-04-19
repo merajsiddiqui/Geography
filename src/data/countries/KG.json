@@ -1,0 +1,43 @@
+{
+    "Name": "Kyrgyzstan",
+    "Capital": {
+        "DLST": "null",
+        "TD": 6,
+        "Flg": 2,
+        "Name": "Bishkek",
+        "GeoPt": [
+            42.52,
+            74.36
+        ]
+    },
+    "GeoRectangle": {
+        "West": 69.2765960693,
+        "East": 80.2831802368,
+        "North": 43.2382278442,
+        "South": 39.1728248596
+    },
+    "SeqID": 112,
+    "GeoPt": [
+        41,
+        75
+    ],
+    "TelPref": "996",
+    "CountryCodes": {
+        "tld": "kg",
+        "iso3": "KGZ",
+        "iso2": "KG",
+        "fips": "KG",
+        "isoN": 417
+    },
+    "states": [
+        " Batken Oblusu",
+        " Bishkek Shaary*",
+        " Chuy Oblusu (Bishkek)",
+        " Jalal-Abad Oblusu",
+        " Naryn Oblusu",
+        " Osh Oblusu",
+        " Osh Shaary*",
+        " Talas Oblusu",
+        " Ysyk-Kol Oblusu (Karakol)"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "Name": "Angola",
+    "Capital": {
+        "DLST": "null",
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Luanda",
+        "GeoPt": [
+            -8.5,
+            13.14
+        ]
+    },
+    "GeoRectangle": {
+        "West": 11.6792173386,
+        "East": 24.0821228027,
+        "North": -4.37682533264,
+        "South": -18.0420780182
+    },
+    "SeqID": 8,
+    "GeoPt": [
+        -12.3,
+        18.3
+    ],
+    "TelPref": "244",
+    "CountryCodes": {
+        "tld": "ao",
+        "iso3": "AGO",
+        "iso2": "AO",
+        "fips": "AO",
+        "isoN": 24
+    },
+    "states": [
+        "Bengo",
+        "Benguela",
+        "Bie",
+        "Cabinda",
+        "Cunene",
+        "Huambo",
+        "Huila",
+        "Kwando Kubango",
+        "Kwanza Norte",
+        "Kwanza Sul",
+        "Luanda",
+        "Lunda Norte",
+        "Lunda Sul",
+        "Malanje",
+        "Moxico",
+        "Namibe",
+        "Uige",
+        "Zaire"
+    ]
+}

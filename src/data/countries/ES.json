@@ -1,0 +1,32 @@
+{
+    "Name": "Spain",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Madrid",
+        "GeoPt": [
+            40.24,
+            -3.41
+        ]
+    },
+    "GeoRectangle": {
+        "West": -18.1696414948,
+        "East": 4.31538963318,
+        "North": 43.7917251587,
+        "South": 27.6388168335
+    },
+    "SeqID": 66,
+    "GeoPt": [
+        40,
+        -4
+    ],
+    "TelPref": "34",
+    "CountryCodes": {
+        "tld": "es",
+        "iso3": "ESP",
+        "iso2": "ES",
+        "fips": "SP",
+        "isoN": 724
+    }
+}

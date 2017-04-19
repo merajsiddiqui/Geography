@@ -1,0 +1,46 @@
+{
+    "Name": "Benin",
+    "Capital": {
+        "DLST": "null",
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Porto-Novo",
+        "GeoPt": [
+            6.29,
+            2.37
+        ]
+    },
+    "GeoRectangle": {
+        "West": 0.774574935436,
+        "East": 3.85170125961,
+        "North": 12.4183483124,
+        "South": 6.22574710846
+    },
+    "SeqID": 25,
+    "GeoPt": [
+        9.3,
+        2.15
+    ],
+    "TelPref": "229",
+    "CountryCodes": {
+        "tld": "bj",
+        "iso3": "BEN",
+        "iso2": "BJ",
+        "fips": "BN",
+        "isoN": 204
+    },
+    "states": [
+        "Alibori",
+        "Atacora",
+        "Atlantique",
+        "Borgou",
+        "Collines",
+        "Couffo",
+        "Donga",
+        "Littoral",
+        "Mono",
+        "Oueme",
+        "Plateau",
+        "Zou"
+    ]
+}

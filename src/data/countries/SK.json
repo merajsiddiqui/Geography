@@ -1,0 +1,32 @@
+{
+    "Name": "Slovakia",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Bratislava",
+        "GeoPt": [
+            48.09,
+            17.07
+        ]
+    },
+    "GeoRectangle": {
+        "West": 16.8477478027,
+        "East": 22.5704460144,
+        "North": 49.6031723022,
+        "South": 47.7281036377
+    },
+    "SeqID": 196,
+    "GeoPt": [
+        48.4,
+        19.3
+    ],
+    "TelPref": "421",
+    "CountryCodes": {
+        "tld": "sk",
+        "iso3": "SVK",
+        "iso2": "SK",
+        "fips": "LO",
+        "isoN": 703
+    }
+}

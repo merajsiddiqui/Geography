@@ -1,0 +1,43 @@
+{
+    "Name": "Mali",
+    "Capital": {
+        "DLST": "null",
+        "TD": 0,
+        "Flg": 2,
+        "Name": "Bamako",
+        "GeoPt": [
+            12.39,
+            -8
+        ]
+    },
+    "GeoRectangle": {
+        "West": -12.2426156998,
+        "East": 4.24496889114,
+        "North": 25.000005722,
+        "South": 10.1595115662
+    },
+    "SeqID": 141,
+    "GeoPt": [
+        17,
+        -4
+    ],
+    "TelPref": "223",
+    "CountryCodes": {
+        "tld": "ml",
+        "iso3": "MLI",
+        "iso2": "ML",
+        "fips": "ML",
+        "isoN": 466
+    },
+    "states": [
+        " District de Bamako*",
+        " Gao",
+        " Kayes",
+        " Kidal",
+        " Koulikoro",
+        " Mopti",
+        " Segou",
+        " Sikasso",
+        " Tombouctou (Timbuktu)"
+    ]
+}

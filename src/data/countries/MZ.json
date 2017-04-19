@@ -1,0 +1,45 @@
+{
+    "Name": "Mozambique",
+    "Capital": {
+        "DLST": "null",
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Maputo",
+        "GeoPt": [
+            -25.57,
+            32.35
+        ]
+    },
+    "GeoRectangle": {
+        "West": 30.2173156738,
+        "East": 40.8430023193,
+        "North": -10.4718818665,
+        "South": -26.8686885834
+    },
+    "SeqID": 154,
+    "GeoPt": [
+        -18.15,
+        35
+    ],
+    "TelPref": "258",
+    "CountryCodes": {
+        "tld": "mz",
+        "iso3": "MOZ",
+        "iso2": "MZ",
+        "fips": "MZ",
+        "isoN": 508
+    },
+    "states": [
+        " Cabo Delgado",
+        " Gaza",
+        " Inhambane",
+        " Manica",
+        " Maputo",
+        " Cidade de Maputo*",
+        " Nampula",
+        " Niassa",
+        " Sofala",
+        " Tete",
+        " Zambezia"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Name": "Cook Islands",
+    "Capital": {
+        "DLST": "null",
+        "TD": -10,
+        "Flg": 2,
+        "Name": "Avarua",
+        "GeoPt": [
+            -21.12,
+            -159.46
+        ]
+    },
+    "GeoRectangle": {
+        "West": -161.093673706,
+        "East": -157.31211853,
+        "North": -10.0231122971,
+        "South": -21.9441661835
+    },
+    "SeqID": 44,
+    "GeoPt": [
+        -21.14,
+        -159.46
+    ],
+    "TelPref": "682",
+    "CountryCodes": {
+        "tld": "ck",
+        "iso3": "COK",
+        "iso2": "CK",
+        "fips": "CW",
+        "isoN": 184
+    },
+    "states": [
+        "\nnone"
+    ]
+}

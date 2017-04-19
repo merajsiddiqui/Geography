@@ -1,0 +1,41 @@
+{
+    "Name": "Belarus",
+    "Capital": {
+        "DLST": 1,
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Minsk",
+        "GeoPt": [
+            53.54,
+            27.34
+        ]
+    },
+    "GeoRectangle": {
+        "West": 23.1768856049,
+        "East": 32.7708091736,
+        "North": 56.165813446,
+        "South": 51.2564086914
+    },
+    "SeqID": 35,
+    "GeoPt": [
+        53,
+        28
+    ],
+    "TelPref": "375",
+    "CountryCodes": {
+        "tld": "by",
+        "iso3": "BLR",
+        "iso2": "BY",
+        "fips": "BO",
+        "isoN": 112
+    },
+    "states": [
+        "Brest",
+        "Homyel' (Gomel')",
+        "Horad Minsk* (Minsk City)",
+        "Hrodna (Grodno)",
+        "Mahilyow (Mogilev)",
+        "Minsk",
+        "Vitsyebsk (Vitebsk)"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "Name": "Mongolia",
+    "Capital": {
+        "DLST": "null",
+        "TD": 8,
+        "Flg": 2,
+        "Name": "Ulaanbaatar",
+        "GeoPt": [
+            47.55,
+            106.55
+        ]
+    },
+    "GeoRectangle": {
+        "West": 87.7496490479,
+        "East": 119.924324036,
+        "North": 52.1542549133,
+        "South": 41.5676307678
+    },
+    "SeqID": 143,
+    "GeoPt": [
+        46,
+        105
+    ],
+    "TelPref": "976",
+    "CountryCodes": {
+        "tld": "mn",
+        "iso3": "MNG",
+        "iso2": "MN",
+        "fips": "MG",
+        "isoN": 496
+    },
+    "states": [
+        " Arhangay",
+        " Bayanhongor",
+        " Bayan-Olgiy",
+        " Bulgan",
+        " Darhan-Uul",
+        " Dornod",
+        " Dornogovi",
+        " Dundgovi",
+        " Dzavhan (Zavkhan)",
+        " Govi-Altay",
+        " Govisumber",
+        " Hentiy",
+        " Hovd",
+        " Hovsgol",
+        " Omnogovi",
+        " Orhon",
+        " Ovorhangay",
+        " Selenge",
+        " Suhbaatar",
+        " Tov",
+        " Ulaanbaatar*",
+        " Uvs"
+    ]
+}

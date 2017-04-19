@@ -1,0 +1,26 @@
+{
+    "Name": "Hong Kong",
+    "Capital": null,
+    "GeoRectangle": {
+        "West": 113.837738037,
+        "East": 114.434761047,
+        "North": 22.5597801208,
+        "South": 22.1532478333
+    },
+    "SeqID": 91,
+    "GeoPt": [
+        22.15,
+        114.1
+    ],
+    "TelPref": "852",
+    "CountryCodes": {
+        "tld": "hk",
+        "iso3": "HKG",
+        "iso2": "HK",
+        "fips": "HK",
+        "isoN": 344
+    },
+    "states": [
+        "none (special administrative region of China)"
+    ]
+}

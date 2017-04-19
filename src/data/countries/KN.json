@@ -1,0 +1,32 @@
+{
+    "Name": "Saint Kitts and Nevis",
+    "Capital": {
+        "DLST": "null",
+        "TD": -4,
+        "Flg": 2,
+        "Name": "Basseterre",
+        "GeoPt": [
+            17.18,
+            -62.43
+        ]
+    },
+    "GeoRectangle": {
+        "West": -62.8695640564,
+        "East": -62.543258667,
+        "North": 17.4201202393,
+        "South": 17.0953407288
+    },
+    "SeqID": 116,
+    "GeoPt": [
+        17.2,
+        -62.45
+    ],
+    "TelPref": "1 869",
+    "CountryCodes": {
+        "tld": "kn",
+        "iso3": "KNA",
+        "iso2": "KN",
+        "fips": "SC",
+        "isoN": 659
+    }
+}

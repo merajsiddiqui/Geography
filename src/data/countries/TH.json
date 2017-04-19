@@ -1,0 +1,32 @@
+{
+    "Name": "Thailand",
+    "Capital": {
+        "DLST": "null",
+        "TD": 7,
+        "Flg": 2,
+        "Name": "Bangkok",
+        "GeoPt": [
+            13.45,
+            100.31
+        ]
+    },
+    "GeoRectangle": {
+        "West": 97.3456268311,
+        "East": 105.639396667,
+        "North": 20.4631977081,
+        "South": 5.60999917984
+    },
+    "SeqID": 210,
+    "GeoPt": [
+        15,
+        100
+    ],
+    "TelPref": "66",
+    "CountryCodes": {
+        "tld": "th",
+        "iso3": "THA",
+        "iso2": "TH",
+        "fips": "TH",
+        "isoN": 764
+    }
+}

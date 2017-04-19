@@ -1,0 +1,40 @@
+{
+    "Name": "Madagascar",
+    "Capital": {
+        "DLST": "null",
+        "TD": 3,
+        "Flg": 2,
+        "Name": "Antananarivo",
+        "GeoPt": [
+            -18.55,
+            47.31
+        ]
+    },
+    "GeoRectangle": {
+        "West": 43.2248687744,
+        "East": 50.4837875366,
+        "North": -11.9454317093,
+        "South": -25.6089553833
+    },
+    "SeqID": 138,
+    "GeoPt": [
+        -20,
+        47
+    ],
+    "TelPref": "261",
+    "CountryCodes": {
+        "tld": "mg",
+        "iso3": "MDG",
+        "iso2": "MG",
+        "fips": "MA",
+        "isoN": 450
+    },
+    "states": [
+        " Antananarivo",
+        " Antsiranana",
+        " Fianarantsoa",
+        " Mahajanga",
+        " Toamasina",
+        " Toliara"
+    ]
+}

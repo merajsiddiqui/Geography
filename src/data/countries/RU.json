@@ -1,0 +1,32 @@
+{
+    "Name": "Russia",
+    "Capital": {
+        "DLST": 1,
+        "TD": 3,
+        "Flg": 2,
+        "Name": "Moscow",
+        "GeoPt": [
+            55.45,
+            37.35
+        ]
+    },
+    "GeoRectangle": {
+        "West": 19.25,
+        "East": -169.05,
+        "North": 81.8573760986,
+        "South": 41.1888580322
+    },
+    "SeqID": 185,
+    "GeoPt": [
+        60,
+        100
+    ],
+    "TelPref": "7",
+    "CountryCodes": {
+        "tld": "ru",
+        "iso3": "RUS",
+        "iso2": "RU",
+        "fips": "RS",
+        "isoN": 643
+    }
+}

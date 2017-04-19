@@ -1,0 +1,70 @@
+{
+    "Name": "India",
+    "Capital": {
+        "DLST": "null",
+        "TD": 5.5,
+        "Flg": 2,
+        "Name": "New Delhi",
+        "GeoPt": [
+            28.36,
+            77.12
+        ]
+    },
+    "GeoRectangle": {
+        "West": 68.1866760254,
+        "East": 97.4033126831,
+        "North": 35.5042304993,
+        "South": 6.74713850021
+    },
+    "SeqID": 101,
+    "GeoPt": [
+        20,
+        77
+    ],
+    "TelPref": "91",
+    "CountryCodes": {
+        "tld": "in",
+        "iso3": "IND",
+        "iso2": "IN",
+        "fips": "IN",
+        "isoN": 356
+    },
+    "states": [
+        " Andaman and Nicobar Islands*",
+        " Andhra Pradesh",
+        " Arunachal Pradesh",
+        " Assam",
+        " Bihar",
+        " Chandigarh*",
+        " Chhattisgarh",
+        " Dadra and Nagar Haveli*",
+        " Daman and Diu*",
+        " Delhi*",
+        " Goa",
+        " Gujarat",
+        " Haryana",
+        " Himachal Pradesh",
+        " Jammu and Kashmir",
+        " Jharkhand",
+        " Karnataka",
+        " Kerala",
+        " Lakshadweep*",
+        " Madhya Pradesh",
+        " Maharashtra",
+        " Manipur",
+        " Meghalaya",
+        " Mizoram",
+        " Nagaland",
+        " Odisha",
+        " Puducherry*",
+        " Punjab",
+        " Rajasthan",
+        " Sikkim",
+        " Tamil Nadu",
+        " Telangana",
+        " Tripura",
+        " Uttar Pradesh",
+        " Uttarakhand",
+        " West Bengal"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Macao",
+    "Capital": null,
+    "GeoRectangle": {
+        "West": 113.528938293,
+        "East": 113.565841675,
+        "North": 22.2223377228,
+        "South": 22.1803855896
+    },
+    "SeqID": 144,
+    "GeoPt": [
+        22.1,
+        113.33
+    ],
+    "TelPref": "853",
+    "CountryCodes": {
+        "tld": "mo",
+        "iso3": "MAC",
+        "iso2": "MO",
+        "fips": "MC",
+        "isoN": 446
+    },
+    "states": [
+        "none (special administrative region of the People's Republic of China)"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "Name": "Mauritania",
+    "Capital": {
+        "DLST": "null",
+        "TD": 0,
+        "Flg": 2,
+        "Name": "Nouakchott",
+        "GeoPt": [
+            18.07,
+            -16.02
+        ]
+    },
+    "GeoRectangle": {
+        "West": -17.0665245056,
+        "East": -4.82767343521,
+        "North": 27.2980766296,
+        "South": 14.7155456543
+    },
+    "SeqID": 146,
+    "GeoPt": [
+        20,
+        -12
+    ],
+    "TelPref": "222",
+    "CountryCodes": {
+        "tld": "mr",
+        "iso3": "MRT",
+        "iso2": "MR",
+        "fips": "MR",
+        "isoN": 478
+    },
+    "states": [
+        " Adrar",
+        " Assaba",
+        " Brakna",
+        " Dakhlet Nouadhibou",
+        " Gorgol",
+        " Guidimaka",
+        " Hodh ech Chargui",
+        " Hodh El Gharbi",
+        " Inchiri",
+        " Nouakchott Nord",
+        " Nouakchott Ouest",
+        " Nouakchott Sud",
+        " Tagant",
+        " Tiris Zemmour",
+        " Trarza"
+    ]
+}

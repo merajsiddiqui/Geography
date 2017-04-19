@@ -1,0 +1,32 @@
+{
+    "Name": "Saint Pierre and Miquelon",
+    "Capital": {
+        "DLST": 1,
+        "TD": -3,
+        "Flg": 2,
+        "Name": "Saint-Pierre",
+        "GeoPt": [
+            46.46,
+            -56.11
+        ]
+    },
+    "GeoRectangle": {
+        "West": -56.4206619263,
+        "East": -56.252986908,
+        "North": 47.1462898254,
+        "South": 46.7860336304
+    },
+    "SeqID": 175,
+    "GeoPt": [
+        46.5,
+        -56.2
+    ],
+    "TelPref": "508",
+    "CountryCodes": {
+        "tld": "pm",
+        "iso3": "SPM",
+        "iso2": "PM",
+        "fips": "SB",
+        "isoN": 666
+    }
+}

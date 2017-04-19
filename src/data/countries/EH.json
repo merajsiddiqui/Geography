@@ -1,0 +1,23 @@
+{
+    "Name": "Western Sahara",
+    "Capital": null,
+    "GeoRectangle": {
+        "West": -17.1031856537,
+        "East": -8.6702747345,
+        "North": 27.6696777344,
+        "South": 20.7741546631
+    },
+    "SeqID": 64,
+    "GeoPt": [
+        24.3,
+        -13
+    ],
+    "TelPref": "",
+    "CountryCodes": {
+        "tld": "eh",
+        "iso3": "ESH",
+        "iso2": "EH",
+        "fips": "WI",
+        "isoN": 732
+    }
+}

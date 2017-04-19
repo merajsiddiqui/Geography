@@ -1,0 +1,23 @@
+{
+    "Name": "British Indian Ocean Territory",
+    "Capital": null,
+    "GeoRectangle": {
+        "West": 71.2599639893,
+        "East": 72.4931716919,
+        "North": -5.26833248138,
+        "South": -7.43802881241
+    },
+    "SeqID": 102,
+    "GeoPt": [
+        -6,
+        71.3
+    ],
+    "TelPref": "",
+    "CountryCodes": {
+        "tld": "io",
+        "iso3": "IOT",
+        "iso2": "IO",
+        "fips": "IO",
+        "isoN": 86
+    }
+}

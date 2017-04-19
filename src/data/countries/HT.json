@@ -1,0 +1,44 @@
+{
+    "Name": "Haiti",
+    "Capital": {
+        "DLST": 1,
+        "TD": -5,
+        "Flg": 2,
+        "Name": "Port-au-Prince",
+        "GeoPt": [
+            18.32,
+            -72.2
+        ]
+    },
+    "GeoRectangle": {
+        "West": -74.4785919189,
+        "East": -71.6133499146,
+        "North": 20.0878219604,
+        "South": 18.0210285187
+    },
+    "SeqID": 95,
+    "GeoPt": [
+        19,
+        -72.25
+    ],
+    "TelPref": "509",
+    "CountryCodes": {
+        "tld": "ht",
+        "iso3": "HTI",
+        "iso2": "HT",
+        "fips": "HA",
+        "isoN": 332
+    },
+    "states": [
+        " Artibonite",
+        " Centre",
+        " Grand'Anse",
+        " Nippes",
+        " Nord",
+        " Nord-Est",
+        " Nord-Ouest",
+        " Ouest",
+        " Sud",
+        " Sud-Est"
+    ]
+}

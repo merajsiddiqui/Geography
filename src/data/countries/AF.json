@@ -1,0 +1,68 @@
+{
+    "Name": "Afghanistan",
+    "Capital": {
+        "DLST": "null",
+        "TD": 4.5,
+        "Flg": 2,
+        "Name": "Kabul",
+        "GeoPt": [
+            34.31,
+            69.11
+        ]
+    },
+    "GeoRectangle": {
+        "West": 60.4784355164,
+        "East": 74.8794631958,
+        "North": 38.4834251404,
+        "South": 29.3774700165
+    },
+    "SeqID": 2,
+    "GeoPt": [
+        33,
+        65
+    ],
+    "TelPref": "93",
+    "CountryCodes": {
+        "tld": "af",
+        "iso3": "AFG",
+        "iso2": "AF",
+        "fips": "AF",
+        "isoN": 4
+    },
+    "states": [
+        " Badakhshan",
+        " Badghis",
+        " Baghlan",
+        " Balkh",
+        " Bamyan",
+        " Daykundi",
+        " Farah",
+        " Faryab",
+        " Ghazni",
+        " Ghor",
+        " Helmand",
+        " Herat",
+        " Jowzjan",
+        " Kabul",
+        " Kandahar",
+        " Kapisa",
+        " Khost",
+        " Kunar",
+        " Kunduz",
+        " Laghman",
+        " Logar",
+        " Nangarhar",
+        " Nimroz",
+        " Nuristan",
+        " Paktika",
+        " Paktiya",
+        " Panjshir",
+        " Parwan",
+        " Samangan",
+        " Sar-e Pul",
+        " Takhar",
+        " Uruzgan",
+        " Wardak",
+        " Zabul"
+    ]
+}

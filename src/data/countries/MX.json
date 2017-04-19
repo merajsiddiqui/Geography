@@ -1,0 +1,66 @@
+{
+    "Name": "Mexico",
+    "Capital": {
+        "DLST": 1,
+        "TD": -6,
+        "Flg": 2,
+        "Name": "Mexico City",
+        "GeoPt": [
+            19.26,
+            -99.08
+        ]
+    },
+    "GeoRectangle": {
+        "West": -118.453964233,
+        "East": -86.70337677,
+        "North": 32.7167663574,
+        "South": 14.5328645706
+    },
+    "SeqID": 152,
+    "GeoPt": [
+        23,
+        -102
+    ],
+    "TelPref": "52",
+    "CountryCodes": {
+        "tld": "mx",
+        "iso3": "MEX",
+        "iso2": "MX",
+        "fips": "MX",
+        "isoN": 484
+    },
+    "states": [
+        " Aguascalientes",
+        " Baja California",
+        " Baja California Sur",
+        " Campeche",
+        " Chiapas",
+        " Chihuahua",
+        " Coahuila de Zaragoza",
+        " Colima",
+        " Cuidad de Mexico*",
+        " Durango",
+        " Guanajuato",
+        " Guerrero",
+        " Hidalgo",
+        " Jalisco",
+        " Mexico",
+        " Michoacan de Ocampo",
+        " Morelos",
+        " Nayarit",
+        " Nuevo Leon",
+        " Oaxaca",
+        " Puebla",
+        " Queretaro",
+        " Quintana Roo",
+        " San Luis Potosi",
+        " Sinaloa",
+        " Sonora",
+        " Tabasco",
+        " Tamaulipas",
+        " Tlaxcala",
+        " Veracruz de Ignacio de la Llave (Veracruz)",
+        " Yucatan",
+        " Zacatecas"
+    ]
+}

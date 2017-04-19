@@ -1,0 +1,60 @@
+{
+    "Name": "Peru",
+    "Capital": {
+        "DLST": "null",
+        "TD": -5,
+        "Flg": 2,
+        "Name": "Lima",
+        "GeoPt": [
+            -12.03,
+            -77.03
+        ]
+    },
+    "GeoRectangle": {
+        "West": -81.326751709,
+        "East": -68.6779708862,
+        "North": -0.0129769984633,
+        "South": -18.3497314453
+    },
+    "SeqID": 169,
+    "GeoPt": [
+        -10,
+        -76
+    ],
+    "TelPref": "51",
+    "CountryCodes": {
+        "tld": "pe",
+        "iso3": "PER",
+        "iso2": "PE",
+        "fips": "PE",
+        "isoN": 604
+    },
+    "states": [
+        " Amazonas",
+        " Ancash",
+        " Apurimac",
+        " Arequipa",
+        " Ayacucho",
+        " Cajamarca",
+        " Callao",
+        " Cusco",
+        " Huancavelica",
+        " Huanuco",
+        " Ica",
+        " Junin",
+        " La Libertad",
+        " Lambayeque",
+        " Lima",
+        " Lima*",
+        " Loreto",
+        " Madre de Dios",
+        " Moquegua",
+        " Pasco",
+        " Piura",
+        " Puno",
+        " San Martin",
+        " Tacna",
+        " Tumbes",
+        " Ucayali"
+    ]
+}

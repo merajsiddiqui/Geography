@@ -1,0 +1,32 @@
+{
+    "Name": "Cocos Islands",
+    "Capital": {
+        "DLST": "null",
+        "TD": 6.5,
+        "Flg": 2,
+        "Name": "West Island",
+        "GeoPt": [
+            -12.1,
+            96.5
+        ]
+    },
+    "GeoRectangle": {
+        "West": 96.8212661743,
+        "East": 96.9360961914,
+        "North": -12.1148033142,
+        "South": -12.1854171753
+    },
+    "SeqID": 38,
+    "GeoPt": [
+        -12.3,
+        96.5
+    ],
+    "TelPref": "61",
+    "CountryCodes": {
+        "tld": "cc",
+        "iso3": "CCK",
+        "iso2": "CC",
+        "fips": "CK",
+        "isoN": 166
+    }
+}

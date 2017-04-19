@@ -1,0 +1,42 @@
+{
+    "Name": "Lebanon",
+    "Capital": {
+        "DLST": 1,
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Beirut",
+        "GeoPt": [
+            33.52,
+            35.3
+        ]
+    },
+    "GeoRectangle": {
+        "West": 35.1142730713,
+        "East": 36.6391983032,
+        "North": 34.6914253235,
+        "South": 33.053855896
+    },
+    "SeqID": 123,
+    "GeoPt": [
+        33.5,
+        35.5
+    ],
+    "TelPref": "961",
+    "CountryCodes": {
+        "tld": "lb",
+        "iso3": "LBN",
+        "iso2": "LB",
+        "fips": "LE",
+        "isoN": 422
+    },
+    "states": [
+        " Aakkar",
+        " Baalbek-Hermel",
+        " Beqaa",
+        " Beyrouth (Beirut)",
+        " Liban-Nord (North Lebanon)",
+        " Liban-Sud (South Lebanon)",
+        " Mont-Liban (Mount Lebanon)",
+        " Nabatiye"
+    ]
+}

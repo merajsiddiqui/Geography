@@ -1,0 +1,40 @@
+{
+    "Name": "Israel",
+    "Capital": {
+        "DLST": 1,
+        "TD": 2,
+        "Flg": 2,
+        "Name": "Jerusalem",
+        "GeoPt": [
+            31.46,
+            35.14
+        ]
+    },
+    "GeoRectangle": {
+        "West": 34.2304420471,
+        "East": 35.8768081665,
+        "North": 33.3401412964,
+        "South": 29.496635437
+    },
+    "SeqID": 99,
+    "GeoPt": [
+        31.3,
+        34.45
+    ],
+    "TelPref": "972",
+    "CountryCodes": {
+        "tld": "il",
+        "iso3": "ISR",
+        "iso2": "IL",
+        "fips": "IS",
+        "isoN": 376
+    },
+    "states": [
+        " Central",
+        " Haifa",
+        " Jerusalem",
+        " Northern",
+        " Southern",
+        " Tel Aviv"
+    ]
+}

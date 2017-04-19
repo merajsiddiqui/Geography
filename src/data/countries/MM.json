@@ -1,0 +1,49 @@
+{
+    "Name": "Myanmar",
+    "Capital": {
+        "DLST": "null",
+        "TD": 6.5,
+        "Flg": 2,
+        "Name": "Rangoon",
+        "GeoPt": [
+            16.48,
+            96.09
+        ]
+    },
+    "GeoRectangle": {
+        "West": 92.1892700195,
+        "East": 101.176795959,
+        "North": 28.5432510376,
+        "South": 9.78458118439
+    },
+    "SeqID": 142,
+    "GeoPt": [
+        22,
+        98
+    ],
+    "TelPref": "95",
+    "CountryCodes": {
+        "tld": "mm",
+        "iso3": "MMR",
+        "iso2": "MM",
+        "fips": "BM",
+        "isoN": 104
+    },
+    "states": [
+        "Ayeyawady (Irrawaddy)",
+        "Bago",
+        "Magway",
+        "Mandalay",
+        "Sagaing",
+        "Taninthayi",
+        "Yangon (Rangoon)",
+        "Chin",
+        "Kachin",
+        "Kayah",
+        "Kayin",
+        "Mon",
+        "Rakhine (Arakan)",
+        "Shan",
+        "Nay Pyi Taw"
+    ]
+}

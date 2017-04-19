@@ -1,0 +1,40 @@
+{
+    "Name": "Eritrea",
+    "Capital": {
+        "DLST": "null",
+        "TD": 3,
+        "Flg": 2,
+        "Name": "Asmara",
+        "GeoPt": [
+            15.2,
+            38.56
+        ]
+    },
+    "GeoRectangle": {
+        "West": 36.4387741089,
+        "East": 43.1346473694,
+        "North": 18.0030860901,
+        "South": 12.3595533371
+    },
+    "SeqID": 65,
+    "GeoPt": [
+        15,
+        39
+    ],
+    "TelPref": "291",
+    "CountryCodes": {
+        "tld": "er",
+        "iso3": "ERI",
+        "iso2": "ER",
+        "fips": "ER",
+        "isoN": 232
+    },
+    "states": [
+        " Anseba",
+        " Debub (South)",
+        " Debubawi K'eyih Bahri (Southern Red Sea)",
+        " Gash Barka",
+        " Ma'akel (Central)",
+        " Semenawi Keyih Bahri (Northern Red Sea)"
+    ]
+}

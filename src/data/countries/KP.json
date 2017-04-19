@@ -1,0 +1,45 @@
+{
+    "Name": "Korea North",
+    "Capital": {
+        "DLST": "null",
+        "TD": 9,
+        "Flg": 2,
+        "Name": "Pyongyang",
+        "GeoPt": [
+            39.01,
+            125.45
+        ]
+    },
+    "GeoRectangle": {
+        "West": 124.315872192,
+        "East": 130.67489624,
+        "North": 43.006061554,
+        "South": 37.673324585
+    },
+    "SeqID": 117,
+    "GeoPt": [
+        40,
+        127
+    ],
+    "TelPref": "850",
+    "CountryCodes": {
+        "tld": "kp",
+        "iso3": "PRK",
+        "iso2": "KP",
+        "fips": "KN",
+        "isoN": 408
+    },
+    "states": [
+        " Chagang",
+        " Hambuk (North Hamgyong)",
+        " Hamnam (South Hamgyong)",
+        " Hwangbuk (North Hwanghae)",
+        " Hwangnam (South Hwanghae)",
+        " Kangwon",
+        " P'yongbuk (North Pyongan)",
+        " P'yongnam (South Pyongan)",
+        " Ranggang",
+        " P'yongyang",
+        " Rason"
+    ]
+}

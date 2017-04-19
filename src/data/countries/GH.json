@@ -1,0 +1,44 @@
+{
+    "Name": "Ghana",
+    "Capital": {
+        "DLST": "null",
+        "TD": 0,
+        "Flg": 2,
+        "Name": "Accra",
+        "GeoPt": [
+            5.33,
+            -0.13
+        ]
+    },
+    "GeoRectangle": {
+        "West": -3.2554204464,
+        "East": 1.19178116322,
+        "North": 11.1733026505,
+        "South": 4.73672246933
+    },
+    "SeqID": 80,
+    "GeoPt": [
+        8,
+        -2
+    ],
+    "TelPref": "233",
+    "CountryCodes": {
+        "tld": "gh",
+        "iso3": "GHA",
+        "iso2": "GH",
+        "fips": "GH",
+        "isoN": 288
+    },
+    "states": [
+        " Ashanti",
+        " Brong-Ahafo",
+        " Central",
+        " Eastern",
+        " Greater Accra",
+        " Northern",
+        " Upper East",
+        " Upper West",
+        " Volta",
+        " Western"
+    ]
+}

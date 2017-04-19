@@ -1,0 +1,39 @@
+{
+    "Name": "Northern Mariana Islands",
+    "Capital": {
+        "DLST": "null",
+        "TD": 10,
+        "Flg": 2,
+        "Name": "Saipan",
+        "GeoPt": [
+            15.12,
+            145.45
+        ]
+    },
+    "GeoRectangle": {
+        "West": 145.126800537,
+        "East": 145.84942627,
+        "North": 18.8050861359,
+        "South": 14.1073598862
+    },
+    "SeqID": 145,
+    "GeoPt": [
+        15.12,
+        145.45
+    ],
+    "TelPref": "1 670",
+    "CountryCodes": {
+        "tld": "mp",
+        "iso3": "MNP",
+        "iso2": "MP",
+        "fips": "CQ",
+        "isoN": 580
+    },
+    "states": [
+        " there are no first-order administrative divisions as defined by the US Government",
+        " but there are 4 municipalities at the second order: Northern Islands",
+        " Rota",
+        " Saipan",
+        " Tinian"
+    ]
+}

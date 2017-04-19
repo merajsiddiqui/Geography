@@ -1,0 +1,44 @@
+{
+    "Name": "Dominican Republic",
+    "Capital": {
+        "DLST": "null",
+        "TD": -4,
+        "Flg": 2,
+        "Name": "Santo Domingo",
+        "GeoPt": [
+            18.28,
+            -69.54
+        ]
+    },
+    "GeoRectangle": {
+        "West": -72.0035018921,
+        "East": -68.3199920654,
+        "North": 19.9298610687,
+        "South": 17.5431556702
+    },
+    "SeqID": 59,
+    "GeoPt": [
+        19,
+        -70.4
+    ],
+    "TelPref": "1 809",
+    "CountryCodes": {
+        "tld": "do",
+        "iso3": "DOM",
+        "iso2": "DO",
+        "fips": "DR",
+        "isoN": 214
+    },
+    "states": [
+        " Cibao Nordeste",
+        " Cibao Noroeste",
+        " Cibao Norte",
+        " Cibao Sur",
+        " El Valle",
+        " Enriquillo",
+        " Higuamo",
+        " Ozama",
+        " Valdesia",
+        " Yuma"
+    ]
+}

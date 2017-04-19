@@ -1,0 +1,55 @@
+{
+    "Name": "Croatia",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Zagreb",
+        "GeoPt": [
+            45.48,
+            16
+        ]
+    },
+    "GeoRectangle": {
+        "West": 13.4932203293,
+        "East": 19.4273910522,
+        "North": 46.5387573242,
+        "South": 42.4358825684
+    },
+    "SeqID": 94,
+    "GeoPt": [
+        45.1,
+        15.3
+    ],
+    "TelPref": "385",
+    "CountryCodes": {
+        "tld": "hr",
+        "iso3": "HRV",
+        "iso2": "HR",
+        "fips": "HR",
+        "isoN": 191
+    },
+    "states": [
+        " Bjelovarsko-Bilogorska(Bjelovar-Bilogora)",
+        " Brodsko-Posavska (Brod-Posavina)",
+        " Dubrovacko-Neretvanska (Dubrovnik-Neretva)",
+        " Istarska (Istria)",
+        " Karlovacka (Karlovac)",
+        " Koprivnicko-Krizevacka (Koprivnica-Krizevci)",
+        " Krapinsko-Zagorska (Krapina-Zagorje)",
+        " Licko-Senjska (Lika-Senj)",
+        " Medimurska (Medimurje)",
+        " Osjecko-Baranjska (Osijek-Baranja)",
+        " Pozesko-Slavonska (Pozega-Slavonia)",
+        " Primorsko-Goranska (Primorje-Gorski Kotar)",
+        " Sibensko-Kninska (Sibenik-Knin)",
+        " Sisacko-Moslavacka (Sisak-Moslavina)",
+        " Splitsko-Dalmatinska (Split-Dalmatia)",
+        " Varazdinska (Varazdin)",
+        " Viroviticko-Podravska (Virovitica-Podravina)",
+        " Vukovarsko-Srijemska (Vukovar-Syrmia)",
+        " Zadarska (Zadar)",
+        " Zagreb*",
+        " Zagrebacka (Zagreb county)"
+    ]
+}

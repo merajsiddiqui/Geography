@@ -1,0 +1,32 @@
+{
+    "Name": "Seychelles",
+    "Capital": {
+        "DLST": "null",
+        "TD": 4,
+        "Flg": 2,
+        "Name": "Victoria",
+        "GeoPt": [
+            -4.38,
+            55.27
+        ]
+    },
+    "GeoRectangle": {
+        "West": 46.2047615051,
+        "East": 56.2795143127,
+        "North": -4.28371620178,
+        "South": -9.75386810303
+    },
+    "SeqID": 189,
+    "GeoPt": [
+        -4.35,
+        55.4
+    ],
+    "TelPref": "248",
+    "CountryCodes": {
+        "tld": "sc",
+        "iso3": "SYC",
+        "iso2": "SC",
+        "fips": "SE",
+        "isoN": 690
+    }
+}

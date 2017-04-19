@@ -1,0 +1,32 @@
+{
+    "Name": "Yemen",
+    "Capital": {
+        "DLST": "null",
+        "TD": 3,
+        "Flg": 2,
+        "Name": "Sanaa",
+        "GeoPt": [
+            15.21,
+            44.12
+        ]
+    },
+    "GeoRectangle": {
+        "West": 42.5325241089,
+        "East": 54.5305328369,
+        "North": 19.0023365021,
+        "South": 12.1110811234
+    },
+    "SeqID": 236,
+    "GeoPt": [
+        15,
+        48
+    ],
+    "TelPref": "967",
+    "CountryCodes": {
+        "tld": "ye",
+        "iso3": "YEM",
+        "iso2": "YE",
+        "fips": "YM",
+        "isoN": 887
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "Name": "Solomon Islands",
+    "Capital": {
+        "DLST": "null",
+        "TD": 11,
+        "Flg": 2,
+        "Name": "Honiara",
+        "GeoPt": [
+            -9.26,
+            159.57
+        ]
+    },
+    "GeoRectangle": {
+        "West": 155.508590698,
+        "East": 166.980880737,
+        "North": -6.58961009979,
+        "South": -11.8505563736
+    },
+    "SeqID": 188,
+    "GeoPt": [
+        -8,
+        159
+    ],
+    "TelPref": "677",
+    "CountryCodes": {
+        "tld": "sb",
+        "iso3": "SLB",
+        "iso2": "SB",
+        "fips": "BP",
+        "isoN": 90
+    }
+}

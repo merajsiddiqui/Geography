@@ -1,0 +1,37 @@
+{
+    "Name": "Belgium",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Brussels",
+        "GeoPt": [
+            50.5,
+            4.2
+        ]
+    },
+    "GeoRectangle": {
+        "West": 2.54694366455,
+        "East": 6.40386152267,
+        "North": 51.5054512024,
+        "South": 49.4936027527
+    },
+    "SeqID": 20,
+    "GeoPt": [
+        50.5,
+        4
+    ],
+    "TelPref": "32",
+    "CountryCodes": {
+        "tld": "be",
+        "iso3": "BEL",
+        "iso2": "BE",
+        "fips": "BE",
+        "isoN": 56
+    },
+    "states": [
+        "Brussels-Capital Region",
+        "Flemish Region",
+        "Walloon Region"
+    ]
+}

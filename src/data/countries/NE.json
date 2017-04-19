@@ -1,0 +1,42 @@
+{
+    "Name": "Niger",
+    "Capital": {
+        "DLST": "null",
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Niamey",
+        "GeoPt": [
+            13.31,
+            2.07
+        ]
+    },
+    "GeoRectangle": {
+        "West": 0.166249975562,
+        "East": 15.9956445694,
+        "North": 23.5250282288,
+        "South": 11.6969738007
+    },
+    "SeqID": 157,
+    "GeoPt": [
+        16,
+        8
+    ],
+    "TelPref": "227",
+    "CountryCodes": {
+        "tld": "ne",
+        "iso3": "NER",
+        "iso2": "NE",
+        "fips": "NG",
+        "isoN": 562
+    },
+    "states": [
+        " Agadez",
+        " Diffa",
+        " Dosso",
+        " Maradi",
+        " Niamey*",
+        " Tahoua",
+        " Tillaberi",
+        " Zinder"
+    ]
+}

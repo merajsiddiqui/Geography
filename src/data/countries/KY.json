@@ -1,0 +1,40 @@
+{
+    "Name": "Cayman Islands",
+    "Capital": {
+        "DLST": "null",
+        "TD": -5,
+        "Flg": 2,
+        "Name": "George Town",
+        "GeoPt": [
+            19.18,
+            -81.23
+        ]
+    },
+    "GeoRectangle": {
+        "West": -81.4327850342,
+        "East": -79.7272567749,
+        "North": 19.7617034912,
+        "South": 19.2630252838
+    },
+    "SeqID": 120,
+    "GeoPt": [
+        19.3,
+        -80.3
+    ],
+    "TelPref": "1 345",
+    "CountryCodes": {
+        "tld": "ky",
+        "iso3": "CYM",
+        "iso2": "KY",
+        "fips": "CJ",
+        "isoN": 136
+    },
+    "states": [
+        " Bodden Town",
+        " Cayman Brac and Little Cayman",
+        " East End",
+        " George Town",
+        " North Side",
+        " West Bay"
+    ]
+}

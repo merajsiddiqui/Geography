@@ -1,0 +1,43 @@
+{
+    "Name": "Bolivia",
+    "Capital": {
+        "DLST": "null",
+        "TD": -4,
+        "Flg": 2,
+        "Name": "La Paz",
+        "GeoPt": [
+            -16.3,
+            -68.09
+        ]
+    },
+    "GeoRectangle": {
+        "West": -69.6407699585,
+        "East": -57.4580917358,
+        "North": -9.68056583405,
+        "South": -22.8961353302
+    },
+    "SeqID": 29,
+    "GeoPt": [
+        -17,
+        -65
+    ],
+    "TelPref": "591",
+    "CountryCodes": {
+        "tld": "bo",
+        "iso3": "BOL",
+        "iso2": "BO",
+        "fips": "BL",
+        "isoN": 68
+    },
+    "states": [
+        "Beni",
+        "Chuquisaca",
+        "Cochabamba",
+        "La Paz",
+        "Oruro",
+        "Pando",
+        "Potosi",
+        "Santa Cruz",
+        "Tarija"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Name": "Qatar",
+    "Capital": {
+        "DLST": "null",
+        "TD": 3,
+        "Flg": 2,
+        "Name": "Doha",
+        "GeoPt": [
+            25.17,
+            51.32
+        ]
+    },
+    "GeoRectangle": {
+        "West": 50.7572135925,
+        "East": 51.6366462708,
+        "North": 26.1547241211,
+        "South": 24.4829406738
+    },
+    "SeqID": 182,
+    "GeoPt": [
+        25.3,
+        51.15
+    ],
+    "TelPref": "974",
+    "CountryCodes": {
+        "tld": "qa",
+        "iso3": "QAT",
+        "iso2": "QA",
+        "fips": "QA",
+        "isoN": 634
+    },
+    "states": [
+        " Ad Dawhah",
+        " Al Khawr wa adh Dhakhirah",
+        " Al Wakrah",
+        " Ar Rayyan",
+        " Ash Shamal",
+        " Ash Shihaniyah",
+        " Az Za'ayin",
+        " Umm Salal"
+    ]
+}

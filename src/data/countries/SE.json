@@ -1,0 +1,32 @@
+{
+    "Name": "Sweden",
+    "Capital": {
+        "DLST": 1,
+        "TD": 1,
+        "Flg": 2,
+        "Name": "Stockholm",
+        "GeoPt": [
+            59.2,
+            18.03
+        ]
+    },
+    "GeoRectangle": {
+        "West": 11.1186923981,
+        "East": 24.1608924866,
+        "North": 69.0625076294,
+        "South": 55.3371047974
+    },
+    "SeqID": 191,
+    "GeoPt": [
+        62,
+        15
+    ],
+    "TelPref": "46",
+    "CountryCodes": {
+        "tld": "se",
+        "iso3": "SWE",
+        "iso2": "SE",
+        "fips": "SW",
+        "isoN": 752
+    }
+}
