@@ -28,7 +28,6 @@ class World {
 	 */
 	public function getCountryList() {
 		$filename = $this->filepath . "countries.json";
-		$countries = [];
 		$country_data = json_decode(file_get_contents($filename), true);
 		return json_encode($country_data, JSON_PRETTY_PRINT);
 	}
@@ -97,8 +96,3 @@ class World {
 		return json_encode($search_data, JSON_PRETTY_PRINT);
 	}
 }
-
-$string = " Kantone, singular - Kanton in German); Aargau, Appenzell Ausserrhoden, Appenzell Innerrhoden, Basel-Landschaft, Basel-Stadt, Berne/Bern, Fribourg/Freiburg, Geneve, Glarus, Graubuenden/Grigioni/Grischun, Jura, Luzern, Neuchatel, Nidwalden, Obwalden, Sankt Gallen, Schaffhausen, Schwyz, Solothurn, Thurgau, Ticino, Uri, Valais/Wallis, Vaud, Zug, Zuerich";
-$states = explode(",", $string);
-$states = array_values(array_unique($states));
-echo json_encode(["states" => $states], JSON_PRETTY_PRINT);
